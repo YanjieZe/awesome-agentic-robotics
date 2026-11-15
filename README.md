@@ -16,6 +16,8 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 - 🌟[Project release 2026.11.13](https://mit-han-lab.github.io/pear-blog/paper.pdf), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear)
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16872), ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=78L8T5nsLM), Contact Code: A Typed Program Interface for Measurable and Repairable Contact-Rich Manipulation
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.16632), Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.17160), XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction
 - [arXiv 2026.11.11](https://arxiv.org/abs/2611.16009), JustRUA: A Controlled Study of GPT-6 Robot-Use Agents
 - [arXiv 2026.11.06](https://arxiv.org/abs/2611.09847), Computer-Use Agents Are Embodied Generalists
 - [arXiv 2026.11.06](https://arxiv.org/abs/2611.09892), On Agentic Manipulation Policies
@@ -144,7 +146,15 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=cPUMmLHDG6), Uncertainty Is the Wrong Trigger: An Exact Account of When an Agent Should Ask Before It Cannot Undo
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=sU18hA2zbD), Generalized Planning Interfaces for Agentic Robotics
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.16297), Hibikino-Musashi@Home 2026 Team Description Paper
+- [arXiv 2026.11.11](https://arxiv.org/abs/2611.15317), BiPOP: Partial-Order Planning for Long-Horizon Bimanual Robotic Manipulation
+- [arXiv 2026.11.10](https://arxiv.org/abs/2611.13850), Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.12885), World In-Context Learning for Agentic Robot Manipulation
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.13251), Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12409), Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation, Humanoids 2026, [website](https://advrhumanoids.github.io/bridging-planning-execution/)
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.13039), Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12139), BioMARS 2.0: a robotic biologist for formulating and adapting biological experiments
+- [arXiv 2026.11.08](https://arxiv.org/abs/2611.12983), CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific Instructions
 - [arXiv 2026.11.05](https://arxiv.org/abs/2611.07825), Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents
 - [arXiv 2026.11.03](https://arxiv.org/abs/2611.05058), Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action, [workshop](https://openreview.net/forum?id=CQFstcjx1Z)
 - [arXiv 2026.11.02](https://arxiv.org/abs/2611.03584), TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation
@@ -248,8 +258,11 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16246), What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=l0BBYNeW4A), ComDex: A Compositional Framework for Dexterity Learning from Offline Human Manipulation Videos
 - [Demo 2026.11.12](https://atlas-humanoid.github.io/), ATLAS: Agentic Harness for Whole-Body Intelligence from Human Video, [award](https://agentic-robotics-workshop.github.io/#awards)
+- [arXiv 2026.11.10](https://arxiv.org/abs/2611.14834), Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models
+- [arXiv 2026.11.10](https://arxiv.org/abs/2611.14432), One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.11941), Flip Anything with Agentic Robotics Self-Learning
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.13034), RoboACE: Adversarial Co-Evolution for Robot Self-Improvement
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.11894), Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading
 - [arXiv 2026.11.07](https://arxiv.org/abs/2611.10510), ReSkill: Selective Self-Improvement for Robot Manipulation
 - [arXiv 2026.11.07](https://arxiv.org/abs/2611.10748), REINS: A Self-Evolving Agent Harness for Real-Time Trajectory Planning
 - [arXiv 2026.11.06](https://arxiv.org/abs/2611.09376), Can LLMs Debug Robots by Editing Their Weights?
@@ -356,7 +369,12 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16487), HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=BCdDYO0jo9), SUTO: Failure-Localized Reasoning for Robot Task Planning and Execution
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.16386), Remember What Changes the Odds: Critic-Gated Event Memory for Long-Horizon Manipulation
+- [arXiv 2026.11.11](https://arxiv.org/abs/2611.15651), Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction
+- [arXiv 2026.11.10](https://arxiv.org/abs/2611.14840), SPIRE: Task-agnostic embodied continual learning through autonomous situation inference and causal motor-primitive reuse
+- [arXiv 2026.11.10](https://arxiv.org/abs/2611.14488), Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies
 - [arXiv 2026.11.08](https://arxiv.org/abs/2611.11509), Review the Episodes, Refine the Lessons: Simple Memory Evolution for Embodied Agents
+- [arXiv 2026.11.08](https://arxiv.org/abs/2611.11688), Streaming Failure Forecasting: VLA Failure Monitors That Keep Learning After Deployment, [website](https://sff-research.org)
 - [arXiv 2026.10.29](https://arxiv.org/abs/2610.39180), EmbodiExp: Compositional Experience Transfer for Embodied Agents
 - [arXiv 2026.10.27](https://arxiv.org/abs/2610.37533), Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use
 - [arXiv 2026.10.26](https://arxiv.org/abs/2610.35686), FISRF: Flexible Instructional Scaffolding Reflection Framework for Robotics Task Planning with Large Language Model
@@ -416,6 +434,13 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 
 ## Navigation and multi-robot coordination
 
+- 🌟[arXiv 2026.11.12](https://arxiv.org/abs/2611.16671), NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning, [code](https://github.com/Xincheng-Tan/NSDL)
+- [arXiv 2026.11.11](https://arxiv.org/abs/2611.15689), What World Model Does Active Object Search Need? A Study under Imperfect Detection
+- [arXiv 2026.11.11](https://arxiv.org/abs/2611.15589), EMS-Nav: Embodied Multi-Scale Navigation
+- [arXiv 2026.11.11](https://arxiv.org/abs/2611.15093), Decide Before You Move: Diffusion-Generated Search Reference for Zero-Shot Open-Vocabulary Object Navigation in Semi-Static Environments
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.13161), Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12087), Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos, [website](https://www.archon.tech/research/compass1)
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12136), LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data, [website](https://robbyant-research.github.io/LHNav/)
 - [arXiv 2026.11.08](https://arxiv.org/abs/2611.11665), HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model
 - [arXiv 2026.11.07](https://arxiv.org/abs/2611.10819), Selective Cooperative Perception via Blind Spot Reasoning and Agentic Dialogue with Vision-Language Models
 - [arXiv 2026.11.02](https://arxiv.org/abs/2611.02391), Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse
@@ -508,6 +533,8 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16221), BWM-Forge: Agentic World Programming for Embodied Intelligence
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.13114), ASPIRE: An Agentic System-Identification Platform for Iterative Reasoning and Exploration
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.13344), PneuGen: Task-Driven Agentic Co-Design of Soft Pneumatic Robots
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.11789), HolidayFactory 1.0: Simulating, Generating, and Evaluating Industrial Robot Tasks
+- [arXiv 2026.11.08](https://arxiv.org/abs/2611.11601), Kinora: A Versioned Workflow for Text-to-Motion Generation, Robot Retargeting, and Interactive Validation
 - [arXiv 2026.11.03](https://arxiv.org/abs/2611.05320), PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data
 - [arXiv 2026.10.29](https://arxiv.org/abs/2610.40565), Gym-Anything for Robotics: Scaling physical simulations with digital agents
 - [arXiv 2026.10.23](https://arxiv.org/abs/2610.32978), SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning
@@ -561,8 +588,12 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=uMkXmX3mAy), Impossible Twins: Judge-Free Measurement of Verifier False Positives in Agentic Robot Controller Search
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=UPAuYhlq0Y), Recovery Credit: Evaluating Robot Decisions Under Physical-State Uncertainty
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=z5FsJD37Dj), How Hard Are Current Robot Memory Benchmarks for Agentic Harnesses?
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.17238), HEIR: Harness Egocentric Intent for Human-Robot Interactions
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.16590), AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents
 - [arXiv 2026.11.10](https://arxiv.org/abs/2611.14115), LEASH: Stay Safe in Agentic Robotics
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.12177), Embodied First Exam
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12654), Correctness Boundaries of Typed Plans for Natural-Language Robot Fleet Control
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.11842), A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics, [website](https://creg-bench.github.io)
 - [arXiv 2026.11.08](https://arxiv.org/abs/2611.11438), When Coding Agents Get Arms: Safety Risks Across the Digital-Physical Boundary
 - [arXiv 2026.11.08](https://arxiv.org/abs/2611.11690), A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task
 - [arXiv 2026.11.06](https://arxiv.org/abs/2611.09030), A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics
