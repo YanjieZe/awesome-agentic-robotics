@@ -8,9 +8,9 @@ Selected public posts from the past two weeks about papers in this collection, i
 
 | Paper | What to look for in the discussion | Replies / reposts / likes |
 | --- | --- | ---: |
-| [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) | [AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) links the paper and shows the manipulation demo. It drew the most replies among these three posts. | 12 / 15 / 145 |
+| [PEAR](https://mit-han-lab.github.io/pear-blog/) | [Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) breaks down the real-robot trials: after training in simulation, the model aligned blocks in 6/10 trials and picked up objects in 12/20. | 51 / 205 / 1,168 |
+| [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) | [AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) links the paper and shows the manipulation demo. | 12 / 15 / 145 |
 | [RoboHarness](https://arxiv.org/abs/2610.14018) | [Bince’s comparison](https://x.com/ce_bin49926/status/2118329123151995299) identifies the BEHAVIOR 2025 subset used to compare Qwen with a VLA. The [follow-up with trajectories](https://x.com/ce_bin49926/status/2118362817598296358) covers a different model and the 100-task 2026 benchmark. | 8 / 18 / 136 |
-| [PEAR](https://mit-han-lab.github.io/pear-blog/) | [Song Han’s release thread](https://x.com/songhan_mit/status/2121311994871435740) explains the progression from zero demonstrations in training to 18 successes in 30 attempts on a previously unseen robot, and quotes the team’s local inference setup. | 1 / 22 / 186 |
 
 ## Trends in the collection
 

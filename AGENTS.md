@@ -1,1 +1,3 @@
 After updating the dated paper list, run `python3 scripts/insights.py` from the repository and include changed figures in the same commit. Check the month counts and term labels before pushing. Keep reading highlights short and explain the contribution. Link evidence for recognition (such as an official award or a dated, verifiable public discussion on X).
+
+For X discussions, open quoted posts and trace release announcements to the original author thread. Record the visible counts from the exact post linked. Include a quote post separately when it adds substantive discussion.
