@@ -4,13 +4,13 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 
 ## Recent discussions on X
 
-Selected public posts from the past two weeks about papers in this collection, including older releases. Counts are for the linked post as seen on November 16, 2026. X search provides a sample of the conversation.
+Selected public posts from the past two weeks about papers in this collection, including older releases. Counts are for the linked post as seen on November 16, 2026. Selection considers likes and views. Rows are ordered by likes, then views. X search provides a sample of the conversation.
 
-| Paper | What to look for in the discussion | Replies / reposts / likes |
-| --- | --- | ---: |
-| [PEAR](https://mit-han-lab.github.io/pear-blog/) | [Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) breaks down the real-robot trials: after training in simulation, the model aligned blocks in 6/10 trials and picked up objects in 12/20. | 51 / 205 / 1,168 |
-| [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) | [AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) links the paper and shows the manipulation demo. | 12 / 15 / 145 |
-| [RoboHarness](https://arxiv.org/abs/2610.14018) | [Bince’s comparison](https://x.com/ce_bin49926/status/2118329123151995299) identifies the BEHAVIOR 2025 subset used to compare Qwen with a VLA. The [follow-up with trajectories](https://x.com/ce_bin49926/status/2118362817598296358) covers a different model and the 100-task 2026 benchmark. | 8 / 18 / 136 |
+| Paper | What to look for in the discussion | Likes | Views |
+| --- | --- | ---: | ---: |
+| [PEAR](https://mit-han-lab.github.io/pear-blog/) | [Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) breaks down the real-robot trials: after training in simulation, the model aligned blocks in 6/10 trials and picked up objects in 12/20. | 1,168 | 99,850 |
+| [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) | [AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) links the paper and shows the manipulation demo. | 145 | 19,033 |
+| [RoboHarness](https://arxiv.org/abs/2610.14018) | [Bince’s comparison](https://x.com/ce_bin49926/status/2118329123151995299) identifies the BEHAVIOR 2025 subset used to compare Qwen with a VLA. The [follow-up with trajectories](https://x.com/ce_bin49926/status/2118362817598296358) covers a different model and the 100-task 2026 benchmark. | 136 | 7,616 |
 
 ## Trends in the collection
 
