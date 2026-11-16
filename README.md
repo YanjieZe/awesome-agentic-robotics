@@ -8,7 +8,10 @@ Selected public posts from the past two weeks about papers in this collection, i
 
 | Paper | What to look for in the discussion | Likes | Views |
 | --- | --- | ---: | ---: |
+| [RoboDojo](https://arxiv.org/abs/2607.04434) | [Anthropic’s Fable 5.2 evaluation](https://x.com/claudeai/status/2119867132452221045) uses the benchmark’s simulated two-arm robot. [NVIDIA’s integration announcement](https://x.com/NVIDIARobotics/status/2118751657169187110) describes the tasks available in Isaac Lab-Arena. Counts are for Anthropic’s post. | 10,681 | 3,439,139 |
 | [PEAR](https://mit-han-lab.github.io/pear-blog/) | [Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) breaks down the real-robot trials: after training in simulation, the model aligned blocks in 6/10 trials and picked up objects in 12/20. | 1,168 | 99,850 |
+| [Democratizing Robot-Use Agents](https://arxiv.org/abs/2611.01560) | [Yuxin Zuo’s uni-robot-agent release](https://x.com/zuo_yuxin/status/2117635294115795134) reports how locally hosted Qwen performed on RoboDojo and real-robot tasks. | 282 | 109,021 |
+| [ATLAS](https://atlas-humanoid.github.io/) | [JunLi Ren’s CoRL demo](https://x.com/junli_r84995/status/2121098492257108116) shows a humanoid performing a task with one human video demonstration and an agent-written harness. | 173 | 15,657 |
 | [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) | [AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) links the paper and shows the manipulation demo. | 145 | 19,033 |
 | [RoboHarness](https://arxiv.org/abs/2610.14018) | [Bince’s comparison](https://x.com/ce_bin49926/status/2118329123151995299) identifies the BEHAVIOR 2025 subset used to compare Qwen with a VLA. The [follow-up with trajectories](https://x.com/ce_bin49926/status/2118362817598296358) covers a different model and the 100-task 2026 benchmark. | 136 | 7,616 |
 
