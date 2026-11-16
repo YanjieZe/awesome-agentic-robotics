@@ -2,6 +2,23 @@
 
 A reading list on how robots plan, act and improve through interaction. arXiv dates are first submissions. Project releases, workshop appearances and demos are dated separately. 🌟 marks verified open-source code.
 
+## Trends in the collection
+
+![Monthly publication counts over the last twelve months; the current month is partial](assets/monthly.svg)
+
+![Most frequent title terms across three consecutive three-month periods](assets/title-terms.svg)
+
+Each dated entry counts once by its primary link, including workshop papers and project releases. A paper added during a backfill appears in its original publication month. Term percentages use all titles in each period as the denominator.
+
+## Where to start reading
+
+Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Robotics](https://agentic-robotics-workshop.github.io/#awards). They explore different ways to reuse a robot skill.
+
+- **[Agentic World Action Models](https://arxiv.org/abs/2610.30136)** generates reusable skill programs alongside predicted video and motor commands. Read it for how a world model connects a program to its expected physical outcome.
+- **[EmbodiedSWE](https://arxiv.org/abs/2609.27308)** starts with a coding agent solving one simulated task instance, then varies that solution to generate demonstrations. Read it for the transfer experiment where a policy trained on those demonstrations performs a long-horizon task on hardware.
+
+## Browse by research direction
+
 - [Robot control and agent interfaces](#robot-control-and-agent-interfaces)
 - [Task planning and skill orchestration](#task-planning-and-skill-orchestration)
 - [Skill learning and policy improvement](#skill-learning-and-policy-improvement)
