@@ -53,7 +53,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 - [arXiv 2026.10.20](https://arxiv.org/abs/2610.28589), AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics
 - [arXiv 2026.10.16](https://arxiv.org/abs/2610.23018), VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents
 - [arXiv 2026.10.16](https://arxiv.org/abs/2610.23334), LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence
-- [arXiv 2026.10.16](https://arxiv.org/abs/2610.23479), HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World
+- 🌟[arXiv 2026.10.16](https://arxiv.org/abs/2610.23479), HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World, [website](https://hexafuture.ai/blog/hexashell-universal/), [code](https://github.com/HexaFuture/HexaShell)
 - [arXiv 2026.10.15](https://arxiv.org/abs/2610.21453), CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance
 - [arXiv 2026.10.14](https://arxiv.org/abs/2610.20560), PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition
 - [arXiv 2026.10.14](https://arxiv.org/abs/2610.20998), MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos
