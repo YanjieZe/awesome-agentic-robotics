@@ -606,6 +606,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 
 ## Benchmarks, evaluation and safety
 
+- [arXiv 2026.11.13](https://arxiv.org/abs/2611.18346), VLAN: Vision-Language Accessible Navigation, NeurIPS 2026 Evaluations and Datasets Track, [code](https://github.com/InSAI-Lab/VLAN)
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18123), Evaluating Language Models as Spatial Priors for Object-Goal Navigation
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18026), A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.17566), Grounding Object-to-Object Hazard Reasoning into 3D Risk Fields for Task-Conditioned Safety, [website](https://vlm-hazard-riskfield.github.io/)
