@@ -2,19 +2,6 @@
 
 A reading list on how robots plan, act and improve through interaction. arXiv dates are first submissions. Project releases, workshop appearances and demos are dated separately. 🌟 marks verified open-source code.
 
-## Recent discussions on X
-
-Selected public posts from the past two weeks about papers in this collection, including older releases. Counts are for the linked post as seen on November 16, 2026. Selection considers likes and views. Rows are ordered by likes, then views. X search provides a sample of the conversation.
-
-| Paper | What to look for in the discussion | Likes | Views |
-| --- | --- | ---: | ---: |
-| [RoboDojo](https://arxiv.org/abs/2607.04434) | [Anthropic’s Fable 5.2 evaluation](https://x.com/claudeai/status/2119867132452221045) uses the benchmark’s simulated two-arm robot. [NVIDIA’s integration announcement](https://x.com/NVIDIARobotics/status/2118751657169187110) describes the tasks available in Isaac Lab-Arena. Counts are for Anthropic’s post. | 10,681 | 3,439,139 |
-| [PEAR](https://mit-han-lab.github.io/pear-blog/) | [Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) breaks down the real-robot trials: after training in simulation, the model aligned blocks in 6/10 trials and picked up objects in 12/20. | 1,168 | 99,850 |
-| [Democratizing Robot-Use Agents](https://arxiv.org/abs/2611.01560) | [Yuxin Zuo’s uni-robot-agent release](https://x.com/zuo_yuxin/status/2117635294115795134) reports how locally hosted Qwen performed on RoboDojo and real-robot tasks. | 282 | 109,021 |
-| [ATLAS](https://atlas-humanoid.github.io/) | [JunLi Ren’s CoRL demo](https://x.com/junli_r84995/status/2121098492257108116) shows a humanoid performing a task with one human video demonstration and an agent-written harness. | 173 | 15,657 |
-| [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) | [AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) links the paper and shows the manipulation demo. | 145 | 19,033 |
-| [RoboHarness](https://arxiv.org/abs/2610.14018) | [Bince’s comparison](https://x.com/ce_bin49926/status/2118329123151995299) identifies the BEHAVIOR 2025 subset used to compare Qwen with a VLA. The [follow-up with trajectories](https://x.com/ce_bin49926/status/2118362817598296358) covers a different model and the 100-task 2026 benchmark. | 136 | 7,616 |
-
 ## Trends in the collection
 
 ![Monthly publication counts over the last twelve months; the current month is partial](assets/monthly.svg)
@@ -43,7 +30,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 
 ## Robot control and agent interfaces
 
-- 🌟[Project release 2026.11.13](https://mit-han-lab.github.io/pear-blog/paper.pdf), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear)
+- 🌟[Project release 2026.11.13](https://mit-han-lab.github.io/pear-blog/paper.pdf), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear), [X · Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) (1,168 likes · 99,850 views · Nov 16, 2026)
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16872), ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=78L8T5nsLM), Contact Code: A Typed Program Interface for Measurable and Repairable Contact-Rich Manipulation
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16632), Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot
@@ -53,7 +40,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 - [arXiv 2026.11.06](https://arxiv.org/abs/2611.09892), On Agentic Manipulation Policies
 - [arXiv 2026.11.05](https://arxiv.org/abs/2611.08039), HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness
 - [arXiv 2026.11.01](https://arxiv.org/abs/2611.01404), Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control
-- [arXiv 2026.11.01](https://arxiv.org/abs/2611.01560), Democratizing Robot-Use Agents: A Unified Harness with Open Models
+- [arXiv 2026.11.01](https://arxiv.org/abs/2611.01560), Democratizing Robot-Use Agents: A Unified Harness with Open Models, [X · Yuxin Zuo’s uni-robot-agent release](https://x.com/zuo_yuxin/status/2117635294115795134) (282 likes · 109,021 views · Nov 16, 2026)
 - [arXiv 2026.10.31](https://arxiv.org/abs/2611.01112), Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation
 - [arXiv 2026.10.30](https://arxiv.org/abs/2610.41868), META-Robot: Self-Cognition and Capability Scaling in Agentic Robots
 - [arXiv 2026.10.30](https://arxiv.org/abs/2610.42053), REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control
@@ -84,7 +71,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 - [arXiv 2026.10.01](https://arxiv.org/abs/2610.02459), OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies
 - [arXiv 2026.09.30](https://arxiv.org/abs/2609.39018), Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools
 - [arXiv 2026.09.29](https://arxiv.org/abs/2609.38078), MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation
-- [arXiv 2026.09.29](https://arxiv.org/abs/2610.14018), RoboHarness: A Simple Harness Outperforms VLA and World Action Models
+- [arXiv 2026.09.29](https://arxiv.org/abs/2610.14018), RoboHarness: A Simple Harness Outperforms VLA and World Action Models, [X · Bince’s comparison](https://x.com/ce_bin49926/status/2118329123151995299) (136 likes · 7,616 views · Nov 16, 2026), [X · follow-up with trajectories](https://x.com/ce_bin49926/status/2118362817598296358)
 - [arXiv 2026.09.28](https://arxiv.org/abs/2609.34823), AGRO-SUVIDE: Agentic Robotics for Surgical Viscoelastic Debridement
 - [arXiv 2026.09.28](https://arxiv.org/abs/2609.36151), KPI: A Promptable Kernel for Physical Interaction on Humanoids, [workshop](https://openreview.net/forum?id=F7Dp4022mM)
 - [arXiv 2026.09.25](https://arxiv.org/abs/2609.31112), DualManip: Agentic Dynamic Manipulation via Dual-Path Semantic Reasoning and Geometric Adaptation
@@ -179,7 +166,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16297), Hibikino-Musashi@Home 2026 Team Description Paper
 - [arXiv 2026.11.11](https://arxiv.org/abs/2611.15317), BiPOP: Partial-Order Planning for Long-Horizon Bimanual Robotic Manipulation
 - [arXiv 2026.11.10](https://arxiv.org/abs/2611.13850), Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics
-- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12885), World In-Context Learning for Agentic Robot Manipulation
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12885), World In-Context Learning for Agentic Robot Manipulation, [X · AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) (145 likes · 19,033 views · Nov 16, 2026)
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.13251), Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.12409), Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation, Humanoids 2026, [website](https://advrhumanoids.github.io/bridging-planning-execution/)
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.13039), Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks
@@ -287,7 +274,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16246), What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation
 - [CoRL workshop 2026.11.12](https://openreview.net/forum?id=l0BBYNeW4A), ComDex: A Compositional Framework for Dexterity Learning from Offline Human Manipulation Videos
-- [Demo 2026.11.12](https://atlas-humanoid.github.io/), ATLAS: Agentic Harness for Whole-Body Intelligence from Human Video, [award](https://agentic-robotics-workshop.github.io/#awards)
+- [Demo 2026.11.12](https://atlas-humanoid.github.io/), ATLAS: Agentic Harness for Whole-Body Intelligence from Human Video, [award](https://agentic-robotics-workshop.github.io/#awards), [X · JunLi Ren’s CoRL demo](https://x.com/junli_r84995/status/2121098492257108116) (173 likes · 15,657 views · Nov 16, 2026)
 - [arXiv 2026.11.10](https://arxiv.org/abs/2611.14834), Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models
 - [arXiv 2026.11.10](https://arxiv.org/abs/2611.14432), One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.11941), Flip Anything with Agentic Robotics Self-Learning
@@ -687,7 +674,7 @@ Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Rob
 - [arXiv 2026.07.24](https://arxiv.org/abs/2607.22014), Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents
 - [arXiv 2026.07.16](https://arxiv.org/abs/2607.14543), SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents
 - [arXiv 2026.07.07](https://arxiv.org/abs/2607.06256), Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition
-- [arXiv 2026.07.05](https://arxiv.org/abs/2607.04434), RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies
+- [arXiv 2026.07.05](https://arxiv.org/abs/2607.04434), RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies, [X · Anthropic’s Fable 5.2 evaluation](https://x.com/claudeai/status/2119867132452221045) (10,681 likes · 3,439,139 views · Nov 16, 2026), [X · NVIDIA’s integration announcement](https://x.com/NVIDIARobotics/status/2118751657169187110)
 - [arXiv 2026.06.30](https://arxiv.org/abs/2606.31339), Verification-Gated Agentic Mission-State Governance for Intelligent Industrial Multi-Robot Systems
 - [arXiv 2026.06.30](https://arxiv.org/abs/2607.00218), EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards
 - [arXiv 2026.06.10](https://arxiv.org/abs/2606.11909), Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction
