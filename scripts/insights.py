@@ -14,8 +14,8 @@ seen = set()
 methods = ("Agent Uses Robot", "Agent Controls Policies", "Agent Trains Robot", "Agent Learns to Be Robot")
 tasks = ("Manipulation", "Locomotion & Navigation", "Loco-Manipulation", "Interaction & Collaboration")
 method_sizes = Counter()
-tagged_sizes = Counter()
-task_counts = defaultdict(Counter)
+tagged_papers = 0
+task_counts = Counter()
 section = None
 lines = (ROOT / "README.md").read_text().splitlines()
 for index, line in enumerate(lines):
@@ -29,17 +29,17 @@ for index, line in enumerate(lines):
             seen.add(url)
             if section in methods:
                 method_sizes[section] += 1
-                tag_line = lines[index + 1].strip() if index + 1 < len(lines) else ""
-                if tag_line in ("**Evaluation**", "**Survey scope**"):
-                    continue
-                tag = re.fullmatch(r"\*\*Task · (.+)\*\*", tag_line)
-                if not tag:
-                    raise ValueError(f"Missing task or evaluation label for {url}")
-                families = set(tag[1].split(" + "))
-                if not families.issubset(tasks):
-                    raise ValueError(f"Unknown task family for {url}: {families.difference(tasks)}")
-                tagged_sizes[section] += 1
-                task_counts[section].update(families)
+            tag_line = lines[index + 1].strip() if index + 1 < len(lines) else ""
+            if tag_line in ("**Evaluation**", "**Survey scope**"):
+                continue
+            tag = re.fullmatch(r"\*\*Task · (.+)\*\*", tag_line)
+            if not tag:
+                raise ValueError(f"Missing task or evaluation label for {url}")
+            families = set(tag[1].split(" + "))
+            if not families.issubset(tasks):
+                raise ValueError(f"Unknown task family for {url}: {families.difference(tasks)}")
+            tagged_papers += 1
+            task_counts.update(families)
 
 def month_name(month):
     return f"{month // 12}-{month % 12 + 1:02d}"
@@ -85,27 +85,22 @@ for i, end in enumerate((current-6, current-3, current)):
 cloud.append(label(24, 455, "Share of titles containing each term. Three complete months per column. Common field words omitted.", 15))
 save("title-terms.svg",475,cloud)
 
-matrix = [label(24, 36, "Which tasks does each method address?", 24)]
-for column, task in enumerate(tasks):
-    x = 316 + 162 * column
-    parts = task.split(" & ")
-    for j, part in enumerate(parts):
-        text = part + " &" if len(parts) == 2 and j == 0 else part
-        matrix.append(label(x, 79 + 18 * j, text, 16, anchor="middle"))
-palette = ("#eff3f0", "#d4e7df", "#a6d0c0", "#65ae98", "#267b69", "#15564c")
-for row, method in enumerate(methods):
-    y = 111 + row * 61
-    tagged = tagged_sizes[method]
-    matrix.append(label(24, y + 23, method, 17))
-    matrix.append(label(24, y + 43, f"{tagged} of {method_sizes[method]} task-tagged", 14, "#526675"))
-    for column, task in enumerate(tasks):
-        x = 238 + column * 162
-        count = task_counts[method][task]
-        share = count / tagged if tagged else 0
-        shade = min(int(share * 6), len(palette) - 1)
-        matrix.append(f'<rect x="{x}" y="{y}" width="156" height="55" rx="4" fill="{palette[shade]}"/>')
-        ink = "#ffffff" if shade >= 4 else "#173e35"
-        matrix.append(label(x + 78, y + 23, count, 21, ink, "middle"))
-        matrix.append(label(x + 78, y + 43, f"{share:.1%}" if tagged else "—", 14, ink, "middle"))
-matrix.append(label(24, 385, "Percentages use task-tagged papers in each row. Papers with multiple task tags count in each column.", 16))
-save("method-task.svg", 406, matrix)
+def share_chart(filename, title, subtitle, categories, counts):
+    total = sum(counts.values())
+    elements = [label(24, 35, title, 24), label(24, 62, subtitle, 16, "#526675")]
+    for row, category in enumerate(sorted(categories, key=counts.__getitem__, reverse=True)):
+        y = 90 + row * 45
+        count = counts[category]
+        share = count / total if total else 0
+        elements.append(label(24, y + 17, category, 18))
+        elements.append(f'<rect x="282" y="{y}" width="440" height="18" rx="3" fill="#e1ebe7"/>')
+        elements.append(f'<rect x="282" y="{y}" width="{share * 440:.2f}" height="18" rx="3" fill="#167466"/>')
+        elements.append(label(870, y + 17, f"{count}  ({share:.1%})", 18, anchor="end"))
+    save(filename, 90 + len(categories) * 45, elements)
+
+share_chart("method-share.svg", "Papers by method",
+            f"{sum(method_sizes.values())} papers in the four method sections · one primary method per paper",
+            methods, method_sizes)
+share_chart("task-share.svg", "Share of task tags",
+            f"{sum(task_counts.values())} task tags across {tagged_papers} papers in the full list · each assigned family counts once",
+            tasks, task_counts)

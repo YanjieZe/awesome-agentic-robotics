@@ -23,7 +23,9 @@ S1 is the policy or skill that turns a goal into robot motion. Each paper appear
 
 **Task families** · Manipulation changes an object’s state. Locomotion & Navigation reaches a destination or executes a movement. Loco-Manipulation requires both moving the robot and handling an object. Interaction & Collaboration requires responding to a person or coordinating with another robot. Multiple labels indicate distinct evaluated goals.
 
-![Task distribution by agent–policy relationship, with paper counts and within-method percentages](assets/method-task.svg)
+![Paper counts and shares by primary method](assets/method-share.svg)
+
+![Counts and shares of task tags across the full paper list](assets/task-share.svg)
 
 ## Agent Uses Robot
 

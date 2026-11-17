@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" font-family="Arial,sans-serif"><rect width="900" height="270" fill="#fafbf7"/><text x="24" y="35" font-size="24" fill="#183649" text-anchor="start">Share of task tags</text>
+<text x="24" y="62" font-size="16" fill="#526675" text-anchor="start">556 task tags across 538 papers in the full list · each assigned family counts once</text>
+<text x="24" y="107" font-size="18" fill="#183649" text-anchor="start">Manipulation</text>
+<rect x="282" y="90" width="440" height="18" rx="3" fill="#e1ebe7"/>
+<rect x="282" y="90" width="240.58" height="18" rx="3" fill="#167466"/>
+<text x="870" y="107" font-size="18" fill="#183649" text-anchor="end">304  (54.7%)</text>
+<text x="24" y="152" font-size="18" fill="#183649" text-anchor="start">Locomotion &amp; Navigation</text>
+<rect x="282" y="135" width="440" height="18" rx="3" fill="#e1ebe7"/>
+<rect x="282" y="135" width="83.88" height="18" rx="3" fill="#167466"/>
+<text x="870" y="152" font-size="18" fill="#183649" text-anchor="end">106  (19.1%)</text>
+<text x="24" y="197" font-size="18" fill="#183649" text-anchor="start">Interaction &amp; Collaboration</text>
+<rect x="282" y="180" width="440" height="18" rx="3" fill="#e1ebe7"/>
+<rect x="282" y="180" width="81.51" height="18" rx="3" fill="#167466"/>
+<text x="870" y="197" font-size="18" fill="#183649" text-anchor="end">103  (18.5%)</text>
+<text x="24" y="242" font-size="18" fill="#183649" text-anchor="start">Loco-Manipulation</text>
+<rect x="282" y="225" width="440" height="18" rx="3" fill="#e1ebe7"/>
+<rect x="282" y="225" width="34.03" height="18" rx="3" fill="#167466"/>
+<text x="870" y="242" font-size="18" fill="#183649" text-anchor="end">43  (7.7%)</text></svg>

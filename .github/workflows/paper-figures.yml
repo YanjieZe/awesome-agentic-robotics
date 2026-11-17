@@ -25,7 +25,7 @@ jobs:
       - name: Generate and publish changed figures
         run: |
           python3 scripts/insights.py
-          git add assets/monthly.svg assets/title-terms.svg assets/method-task.svg
+          git add assets/monthly.svg assets/title-terms.svg assets/method-share.svg assets/task-share.svg
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
