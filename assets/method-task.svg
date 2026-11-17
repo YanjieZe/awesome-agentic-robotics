@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="406" viewBox="0 0 900 406" font-family="Arial,sans-serif"><rect width="900" height="406" fill="#fafbf7"/><text x="24" y="36" font-size="24" fill="#183649" text-anchor="start">Which tasks does each method address?</text>
+<text x="316" y="79" font-size="16" fill="#183649" text-anchor="middle">Manipulation</text>
+<text x="478" y="79" font-size="16" fill="#183649" text-anchor="middle">Locomotion &amp;</text>
+<text x="478" y="97" font-size="16" fill="#183649" text-anchor="middle">Navigation</text>
+<text x="640" y="79" font-size="16" fill="#183649" text-anchor="middle">Loco-Manipulation</text>
+<text x="802" y="79" font-size="16" fill="#183649" text-anchor="middle">Interaction &amp;</text>
+<text x="802" y="97" font-size="16" fill="#183649" text-anchor="middle">Collaboration</text>
+<text x="24" y="134" font-size="17" fill="#183649" text-anchor="start">Agent Uses Robot</text>
+<text x="24" y="154" font-size="14" fill="#526675" text-anchor="start">65 of 81 task-tagged</text>
+<rect x="238" y="111" width="156" height="55" rx="4" fill="#267b69"/>
+<text x="316" y="134" font-size="21" fill="#ffffff" text-anchor="middle">52</text>
+<text x="316" y="154" font-size="14" fill="#ffffff" text-anchor="middle">80.0%</text>
+<rect x="400" y="111" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="478" y="134" font-size="21" fill="#173e35" text-anchor="middle">6</text>
+<text x="478" y="154" font-size="14" fill="#173e35" text-anchor="middle">9.2%</text>
+<rect x="562" y="111" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="640" y="134" font-size="21" fill="#173e35" text-anchor="middle">7</text>
+<text x="640" y="154" font-size="14" fill="#173e35" text-anchor="middle">10.8%</text>
+<rect x="724" y="111" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="802" y="134" font-size="21" fill="#173e35" text-anchor="middle">3</text>
+<text x="802" y="154" font-size="14" fill="#173e35" text-anchor="middle">4.6%</text>
+<text x="24" y="195" font-size="17" fill="#183649" text-anchor="start">Agent Controls Policies</text>
+<text x="24" y="215" font-size="14" fill="#526675" text-anchor="start">253 of 302 task-tagged</text>
+<rect x="238" y="172" width="156" height="55" rx="4" fill="#a6d0c0"/>
+<text x="316" y="195" font-size="21" fill="#173e35" text-anchor="middle">95</text>
+<text x="316" y="215" font-size="14" fill="#173e35" text-anchor="middle">37.5%</text>
+<rect x="400" y="172" width="156" height="55" rx="4" fill="#d4e7df"/>
+<text x="478" y="195" font-size="21" fill="#173e35" text-anchor="middle">66</text>
+<text x="478" y="215" font-size="14" fill="#173e35" text-anchor="middle">26.1%</text>
+<rect x="562" y="172" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="640" y="195" font-size="21" fill="#173e35" text-anchor="middle">23</text>
+<text x="640" y="215" font-size="14" fill="#173e35" text-anchor="middle">9.1%</text>
+<rect x="724" y="172" width="156" height="55" rx="4" fill="#d4e7df"/>
+<text x="802" y="195" font-size="21" fill="#173e35" text-anchor="middle">77</text>
+<text x="802" y="215" font-size="14" fill="#173e35" text-anchor="middle">30.4%</text>
+<text x="24" y="256" font-size="17" fill="#183649" text-anchor="start">Agent Trains Robot</text>
+<text x="24" y="276" font-size="14" fill="#526675" text-anchor="start">117 of 149 task-tagged</text>
+<rect x="238" y="233" width="156" height="55" rx="4" fill="#267b69"/>
+<text x="316" y="256" font-size="21" fill="#ffffff" text-anchor="middle">93</text>
+<text x="316" y="276" font-size="14" fill="#ffffff" text-anchor="middle">79.5%</text>
+<rect x="400" y="233" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="478" y="256" font-size="21" fill="#173e35" text-anchor="middle">14</text>
+<text x="478" y="276" font-size="14" fill="#173e35" text-anchor="middle">12.0%</text>
+<rect x="562" y="233" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="640" y="256" font-size="21" fill="#173e35" text-anchor="middle">7</text>
+<text x="640" y="276" font-size="14" fill="#173e35" text-anchor="middle">6.0%</text>
+<rect x="724" y="233" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="802" y="256" font-size="21" fill="#173e35" text-anchor="middle">6</text>
+<text x="802" y="276" font-size="14" fill="#173e35" text-anchor="middle">5.1%</text>
+<text x="24" y="317" font-size="17" fill="#183649" text-anchor="start">Agent Learns to Be Robot</text>
+<text x="24" y="337" font-size="14" fill="#526675" text-anchor="start">59 of 66 task-tagged</text>
+<rect x="238" y="294" width="156" height="55" rx="4" fill="#267b69"/>
+<text x="316" y="317" font-size="21" fill="#ffffff" text-anchor="middle">45</text>
+<text x="316" y="337" font-size="14" fill="#ffffff" text-anchor="middle">76.3%</text>
+<rect x="400" y="294" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="478" y="317" font-size="21" fill="#173e35" text-anchor="middle">9</text>
+<text x="478" y="337" font-size="14" fill="#173e35" text-anchor="middle">15.3%</text>
+<rect x="562" y="294" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="640" y="317" font-size="21" fill="#173e35" text-anchor="middle">6</text>
+<text x="640" y="337" font-size="14" fill="#173e35" text-anchor="middle">10.2%</text>
+<rect x="724" y="294" width="156" height="55" rx="4" fill="#eff3f0"/>
+<text x="802" y="317" font-size="21" fill="#173e35" text-anchor="middle">3</text>
+<text x="802" y="337" font-size="14" fill="#173e35" text-anchor="middle">5.1%</text>
+<text x="24" y="385" font-size="16" fill="#183649" text-anchor="start">Percentages use task-tagged papers in each row. Papers with multiple task tags count in each column.</text></svg>

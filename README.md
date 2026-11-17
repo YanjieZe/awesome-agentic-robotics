@@ -10,13 +10,6 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 
 Each dated entry counts once by its primary link, including workshop papers and project releases. A paper added during a backfill appears in its original publication month. Term percentages use all titles in each period as the denominator.
 
-## Where to start reading
-
-Two papers shared the Best Paper Award at the [CoRL 2026 Workshop on Agentic Robotics](https://agentic-robotics-workshop.github.io/#awards). They explore different ways to reuse a robot skill.
-
-- **[Agentic World Action Models](https://arxiv.org/abs/2610.30136)** generates reusable skill programs alongside predicted video and motor commands. Read it for how a world model connects a program to its expected physical outcome.
-- **[EmbodiedSWE](https://arxiv.org/abs/2609.27308)** starts with a coding agent solving one simulated task instance, then varies that solution to generate demonstrations. Read it for the transfer experiment where a policy trained on those demonstrations performs a long-horizon task on hardware.
-
 ## Browse by method and task
 
 S1 is the policy or skill that turns a goal into robot motion. Each paper appears once under its main demonstrated agent–S1 relationship. Task labels describe the downstream robot goal.
@@ -29,6 +22,8 @@ S1 is the policy or skill that turns a goal into robot motion. Each paper appear
 [Related evaluations and resources](#related-evaluations-and-resources) includes cross-method benchmarks, infrastructure and surveys.
 
 **Task families** · Manipulation changes an object’s state. Locomotion & Navigation reaches a destination or executes a movement. Loco-Manipulation requires both moving the robot and handling an object. Interaction & Collaboration requires responding to a person or coordinating with another robot. Multiple labels indicate distinct evaluated goals.
+
+![Task distribution by agent–policy relationship, with paper counts and within-method percentages](assets/method-task.svg)
 
 ## Agent Uses Robot
 
