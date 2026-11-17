@@ -4,6 +4,10 @@ A reading list on how robots plan, act and improve through interaction. arXiv da
 
 ## Trends in the collection
 
+![Paper counts and shares by primary method](assets/method-share.svg)
+
+![Counts and shares of task tags across the full paper list](assets/task-share.svg)
+
 ![Monthly publication counts over the last twelve months; the current month is partial](assets/monthly.svg)
 
 ![Most frequent title terms across three consecutive three-month periods](assets/title-terms.svg)
@@ -22,10 +26,6 @@ S1 is the policy or skill that turns a goal into robot motion. Each paper appear
 [Related evaluations and resources](#related-evaluations-and-resources) includes cross-method benchmarks, infrastructure and surveys.
 
 **Task families** · Manipulation changes an object’s state. Locomotion & Navigation reaches a destination or executes a movement. Loco-Manipulation requires both moving the robot and handling an object. Interaction & Collaboration requires responding to a person or coordinating with another robot. Multiple labels indicate distinct evaluated goals.
-
-![Paper counts and shares by primary method](assets/method-share.svg)
-
-![Counts and shares of task tags across the full paper list](assets/task-share.svg)
 
 ## Agent Uses Robot
 
