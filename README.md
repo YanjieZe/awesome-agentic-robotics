@@ -1251,7 +1251,6 @@ The model that reasons about the task is trained to produce robot actions or exe
 These works evaluate capabilities across architectures or study components such as perception, simulators, robot design and safety. Surveys list their scope.
 
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19274), HospitalBench: Diagnosing Where and Why Embodied Agents Fail on Long Hospital Task Chains
-  **Evaluation** — Diagnosing failures across long simulated hospital task chains.
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18924), Dependable Voice Command for Multi-UAV Swarms Using Small Language Models
   **Task · Interaction & Collaboration** — Recognizing and routing voice commands to a UAV swarm under acoustic noise.
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18346), VLAN: Vision-Language Accessible Navigation, NeurIPS 2026 Evaluations and Datasets Track, [code](https://github.com/InSAI-Lab/VLAN)
