@@ -1,11 +1,13 @@
-name: Refresh paper figures
+name: Refresh paper figures and star rankings
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
       - README.md
       - scripts/insights.py
+      - scripts/stars.py
       - .github/workflows/paper-figures.yml
 
 permissions:
@@ -22,13 +24,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Generate and publish changed figures
+      - name: Generate figures and GitHub star rankings
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           python3 scripts/insights.py
-          git add assets/monthly.svg assets/title-terms.svg assets/method-share.svg assets/task-share.svg
+          python3 scripts/stars.py
+          git add STAR-RANKINGS.md assets/monthly.svg assets/title-terms.svg assets/method-share.svg assets/task-share.svg
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m "Refresh paper figures"
+            git commit -m "Refresh paper figures and star rankings"
             git push origin HEAD:main
           fi
