@@ -13,7 +13,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 | Rank | Method | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
 | 1 | [Agent Controls Policies](#agent-controls-policies) | 9,473 | 142 | 3 | 142/310 |
-| 2 | [Agent Uses Robot](#agent-uses-robot) | 5,735 | 52 | 12 | 52/87 |
+| 2 | [Agent Uses Robot](#agent-uses-robot) | 5,735 | 52 | 12 | 52/86 |
 | 3 | [Agent Trains Robot](#agent-trains-robot) | 5,347 | 89 | 4 | 90/153 |
 | 4 | [Agent Learns to Be Robot](#agent-learns-to-be-robot) | 3,682 | 47 | 14 | 47/74 |
 
@@ -21,8 +21,8 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 | Rank | Task | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [Manipulation](#manipulation) | 20,964 | 199 | 9 | 200/317 |
-| 2 | [Locomotion & Navigation](#locomotion--navigation) | 2,284 | 56 | 3.5 | 56/118 |
+| 1 | [Manipulation](#manipulation) | 20,964 | 199 | 9 | 200/315 |
+| 2 | [Locomotion & Navigation](#locomotion--navigation) | 2,284 | 56 | 3.5 | 56/119 |
 | 3 | [Loco-Manipulation](#loco-manipulation) | 1,058 | 30 | 9 | 30/44 |
 | 4 | [Interaction & Collaboration](#interaction--collaboration) | 484 | 40 | 1.5 | 40/104 |
 
@@ -30,7 +30,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Agent Uses Robot
 
-52 of 87 papers matched · 52 repositories.
+52 of 86 papers matched · 52 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
@@ -390,7 +390,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Manipulation
 
-200 of 317 papers matched · 199 repositories.
+200 of 315 papers matched · 199 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
@@ -596,7 +596,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Locomotion & Navigation
 
-56 of 118 papers matched · 56 repositories.
+56 of 119 papers matched · 56 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
