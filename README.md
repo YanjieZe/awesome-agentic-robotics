@@ -33,6 +33,16 @@ S1 is the policy or skill that turns a goal into robot motion. Each paper appear
 
 The agent issues robot commands or generates the control program that executes them.
 
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24470), When to Refine: Selective Search for Frozen Visual World Models
+  **Task · Manipulation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24375), SearchDiffusion: Information-Guided Diffusion Planning for Object Search
+  **Task · Locomotion & Navigation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24229), ProbeShare: Probing a Few, Sharing Across Many for Fast World-Model Planning
+  **Task · Manipulation**
+- [arXiv 2026.11.17](https://arxiv.org/abs/2611.23620), How Uncertain Is My Action? Self-Correcting Visual Planning with Frozen World Models
+  **Task · Manipulation**
+- [arXiv 2026.11.16](https://arxiv.org/abs/2611.20593), JEPTERA: A Platform Agnostic JEPA-Assisted Model Predictive Planner for Urban UAV Navigation
+  **Task · Locomotion & Navigation**
 - [arXiv 2026.11.16](https://arxiv.org/abs/2611.21099), ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models, [website](https://showlab.github.io/ForceHarness), [GitHub](https://github.com/showlab/ForceHarness)
   **Task · Manipulation**
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19198), Self-Calibrating Vision-Agent-Action: Deploying Pick-and-Place to New Robot Cells without Demonstrations or Fine-Tuning
@@ -200,6 +210,12 @@ The agent issues robot commands or generates the control program that executes t
 
 The agent selects, sequences or supervises existing skills or policies. The executor translates each subgoal into motion.
 
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.23930), A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments, [website](https://wyz000.github.io/VLN-AR/)
+  **Task · Locomotion & Navigation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.23926), GTI: Grounding Task Intent Throughout Long-Horizon VLA Manipulation
+  **Task · Manipulation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.23843), RePlan-VLA: Progress-Aware Replanning for Long-Horizon Vision-Language-Action Models
+  **Task · Manipulation**
 - 🌟[arXiv 2026.11.17](https://arxiv.org/abs/2611.22584), InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation, [website](https://lingwupro.github.io/InteractVLA/), [GitHub](https://github.com/LingwuPro/InteractVLA)
   **Task · Manipulation**
 - [arXiv 2026.11.17](https://arxiv.org/abs/2611.22321), Beyond Episodic Recall: Experience-to-Knowledge Evolution for Lifelong Embodied Navigation
@@ -819,6 +835,12 @@ The agent selects, sequences or supervises existing skills or policies. The exec
 
 The agent builds or improves a separate robot policy or reusable skill through data collection, feedback, program revision or training.
 
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24077), AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation, [website](https://starsholic.github.io/AeroRSI/)
+  **Task · Locomotion & Navigation**
+- 🌟[arXiv 2026.11.18](https://arxiv.org/abs/2611.23855), RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop, [website](https://ghadinehme.com/robobuilder.github.io/), [GitHub](https://github.com/ghadinehme/RoboBuilder)
+  **Task · Locomotion & Navigation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.23774), Improve How You Improve: Recursive Policy Self-Improvement for Zero-Shot Open-Vocabulary Multi-Object Navigation
+  **Task · Locomotion & Navigation**
 - [arXiv 2026.11.16](https://arxiv.org/abs/2611.21958), Weight-space programming for tractor guidance controller: large language models natively write neural network weights that steer a real tractor
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19081), RoboCoEvo: Expanding Robot Capabilities through Agent-Policy Co-Evolution
@@ -1124,17 +1146,25 @@ The agent builds or improves a separate robot policy or reusable skill through d
 
 The model that reasons about the task is trained to produce robot actions or executable action programs.
 
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24247), Allocentric Memory, Egocentric Acting: A Dual-Frame VLA for Urban Aerial Navigation
+  **Task · Locomotion & Navigation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24074), SemPhys: Semantic-Physical Co-Learning for Humanoid Motion Generation via Differentiable World Models
+  **Task · Locomotion & Navigation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.23803), CoT-WAM: Collaborative Training of Vision-Language Models and World-Action Models via Plan Latents
+  **Task · Manipulation**
 - [arXiv 2026.11.17](https://arxiv.org/abs/2611.22883), Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.16](https://arxiv.org/abs/2611.21258), ThinkWAM: Rethinking Latent Futures for Action Refinement, [website](https://thinkwam-project.github.io/), [GitHub](https://github.com/HaoyunT/Thinkwam)
   **Task · Manipulation**
 - [arXiv 2026.11.16](https://arxiv.org/abs/2611.20767), UNITE: Consolidating Embodied VLM Specialists via Shared-Anchor One-Bit Factorization
   **Task · Locomotion & Navigation**
+- 🌟[arXiv 2026.11.15](https://arxiv.org/abs/2611.19771), JEPA4R: Embodied JEPA World Models with 4D Point Planning, [website](https://aigeeksgroup.github.io/JEPA4R), [GitHub](https://github.com/AIGeeksGroup/JEPA4R)
+  **Task · Manipulation**
 - [arXiv 2026.11.15](https://arxiv.org/abs/2611.20010), PlanDiv: Test-Time Scaling with Latent Plans for Vision-Language-Action Models
   **Task · Manipulation**
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19287), VLN-Flash: Parallel Action Decoding with Adaptive Execution for Vision-and-Language Navigation
   **Task · Locomotion & Navigation**
-- 🌟[arXiv 2026.11.13](https://arxiv.org/abs/2611.18562), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear), [X · Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) (1,182 likes · 101,110 views · Nov 16, 2026), [X · Kunjun Li’s SpecPilot acceleration test on PEAR](https://x.com/li_kunjun/status/2122455601116856815) (134 likes · 9,673 views · Nov 17, 2026)
+- 🌟[arXiv 2026.11.13](https://arxiv.org/abs/2611.18562), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear), [X · Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) (1,226 likes · 111,693 views · Nov 19, 2026), [X · Kunjun Li’s SpecPilot acceleration test on PEAR](https://x.com/li_kunjun/status/2122455601116856815) (134 likes · 9,673 views · Nov 17, 2026)
   **Task · Manipulation**
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.17160), XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction
   **Task · Interaction & Collaboration**
@@ -1269,6 +1299,16 @@ The model that reasons about the task is trained to produce robot actions or exe
 
 These works evaluate capabilities across architectures or study components such as perception, simulators, robot design and safety.
 
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24187), Worth Another Look:Constrained World-Model Planning for Visual Inspection
+  **Evaluation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24100), Lost Between Mind, Model Collaboration, and Motion: Understanding and Measuring Cross-Model Action Misalignment in Commercial Robots
+  **Evaluation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.23917), Vanguard: Knowing When to Trust the Draft in Speculative Vision-Language Agents
+  **Evaluation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.23816), RoboDx: Repair and Diagnosis of Faults in Robot Software
+  **Evaluation**
+- [arXiv 2026.11.17](https://arxiv.org/abs/2611.22483), Manufacturing Differential Sparsity: Planner-Hardware Co-Design for Efficient World Model Planning
+  **Evaluation**
 - [arXiv 2026.11.17](https://arxiv.org/abs/2611.23070), PAIR: Bringing Household Robots into the Smart Home
   **Evaluation**
 - [arXiv 2026.11.17](https://arxiv.org/abs/2611.22761), Network-Exposed Configuration Attacks on LLM-Controlled Social Robots, [GitHub](https://github.com/akingbolastanley1998-byte/reachy-personality-injection)

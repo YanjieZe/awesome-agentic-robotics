@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" font-family="Arial,sans-serif"><rect width="900" height="270" fill="#fafbf7"/><text x="24" y="35" font-size="24" fill="#183649" text-anchor="start">Papers by method</text>
-<text x="24" y="62" font-size="16" fill="#526675" text-anchor="start">608 papers in the four method sections · one primary method per paper</text>
+<text x="24" y="62" font-size="16" fill="#526675" text-anchor="start">623 papers in the four method sections · one primary method per paper</text>
 <text x="24" y="107" font-size="18" fill="#183649" text-anchor="start">Agent Controls Policies</text>
 <rect x="282" y="90" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="90" width="222.17" height="18" rx="3" fill="#167466"/>
-<text x="870" y="107" font-size="18" fill="#183649" text-anchor="end">307  (50.5%)</text>
+<rect x="282" y="90" width="218.94" height="18" rx="3" fill="#167466"/>
+<text x="870" y="107" font-size="18" fill="#183649" text-anchor="end">310  (49.8%)</text>
 <text x="24" y="152" font-size="18" fill="#183649" text-anchor="start">Agent Trains Robot</text>
 <rect x="282" y="135" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="135" width="108.55" height="18" rx="3" fill="#167466"/>
-<text x="870" y="152" font-size="18" fill="#183649" text-anchor="end">150  (24.7%)</text>
+<rect x="282" y="135" width="108.06" height="18" rx="3" fill="#167466"/>
+<text x="870" y="152" font-size="18" fill="#183649" text-anchor="end">153  (24.6%)</text>
 <text x="24" y="197" font-size="18" fill="#183649" text-anchor="start">Agent Uses Robot</text>
 <rect x="282" y="180" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="180" width="58.62" height="18" rx="3" fill="#167466"/>
-<text x="870" y="197" font-size="18" fill="#183649" text-anchor="end">81  (13.3%)</text>
+<rect x="282" y="180" width="60.74" height="18" rx="3" fill="#167466"/>
+<text x="870" y="197" font-size="18" fill="#183649" text-anchor="end">86  (13.8%)</text>
 <text x="24" y="242" font-size="18" fill="#183649" text-anchor="start">Agent Learns to Be Robot</text>
 <rect x="282" y="225" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="225" width="50.66" height="18" rx="3" fill="#167466"/>
-<text x="870" y="242" font-size="18" fill="#183649" text-anchor="end">70  (11.5%)</text></svg>
+<rect x="282" y="225" width="52.26" height="18" rx="3" fill="#167466"/>
+<text x="870" y="242" font-size="18" fill="#183649" text-anchor="end">74  (11.9%)</text></svg>
