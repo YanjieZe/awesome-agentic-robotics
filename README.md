@@ -33,6 +33,14 @@ S1 is the policy or skill that turns a goal into robot motion. Each paper appear
 
 The agent issues robot commands or generates the control program that executes them.
 
+- 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.25415), Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners, [GitHub](https://github.com/jhlee0619/unstick)
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.25679), LeCompass: Task-Level Execution through State-Indexed Interfaces, [GitHub](https://github.com/LeCompass/LeCompass.github.io)
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.25927), Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models, [GitHub](https://github.com/Sofilyzia/Fast-JEPA)
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26503), JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own
+  **Task · Manipulation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24470), When to Refine: Selective Search for Frozen Visual World Models
   **Task · Manipulation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24375), SearchDiffusion: Information-Guided Diffusion Planning for Object Search
@@ -210,6 +218,18 @@ The agent issues robot commands or generates the control program that executes t
 
 The agent selects, sequences or supervises existing skills or policies. The executor translates each subgoal into motion.
 
+- 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.25587), Cognitive-Horizon Action Chunking: Memory-Guided Adaptive Reasoning for Embodied Navigation, [GitHub](https://github.com/phare111/chac)
+  **Task · Locomotion & Navigation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26090), Dynamic Human-Robot Role Allocation through Entropy-Based Monitoring and LLM Reasoning
+  **Task · Interaction & Collaboration**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26341), Reasoning on Call: Efficient Agentic Robot Control for Long-Horizon Robot Manipulation
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26596), PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation, [website](https://kl-research.github.io/pgx)
+  **Task · Loco-Manipulation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.25005), Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback, [website](https://ryenhails.github.io/Inhabitant/)
+  **Task · Loco-Manipulation**
+- 🌟[arXiv 2026.11.18](https://arxiv.org/abs/2611.25215), Bridging vision-language reasoning and learned control for legged navigation in the wild, [website](https://roam-hiking.github.io), [GitHub](https://github.com/leggedrobotics/roam)
+  **Task · Locomotion & Navigation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.23930), A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments, [website](https://wyz000.github.io/VLN-AR/)
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.23926), GTI: Grounding Task Intent Throughout Long-Horizon VLA Manipulation
@@ -835,6 +855,14 @@ The agent selects, sequences or supervises existing skills or policies. The exec
 
 The agent builds or improves a separate robot policy or reusable skill through data collection, feedback, program revision or training.
 
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.25529), CoachSI: Self-Improvement of Robot Policies with a Language Coach, [website](https://tlxhlll.github.io/CoachSI/)
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.25656), A²-VLA: Adapting Vision-Language-Action Policies to New Tools through Agentic Affordance Discovery
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26046), Agentic Scaling of Embodied Tasks in Simulation for Synthetic Data Collection and Policy Evaluation, [website](https://zxl502.github.io/AgenticTask/), [GitHub](https://github.com/ZXL502/AgenticTask)
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26376), Alignment Drives Reuse: Learning Generalizable Robot-Use Agents from Heterogeneous Experience
+  **Task · Manipulation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24077), AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation, [website](https://starsholic.github.io/AeroRSI/)
   **Task · Locomotion & Navigation**
 - 🌟[arXiv 2026.11.18](https://arxiv.org/abs/2611.23855), RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop, [website](https://ghadinehme.com/robobuilder.github.io/), [GitHub](https://github.com/ghadinehme/RoboBuilder)
@@ -1146,6 +1174,12 @@ The agent builds or improves a separate robot policy or reusable skill through d
 
 The model that reasons about the task is trained to produce robot actions or executable action programs.
 
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26389), ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step, [website](https://kevin-thu.github.io/ViDecide)
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.25461), ActMem: From Latent Memory Reasoning to Grounded Robotic Action, [GitHub](https://github.com/LigphiDonk/ActMem)
+  **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26196), EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL
+  **Task · Manipulation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24247), Allocentric Memory, Egocentric Acting: A Dual-Frame VLA for Urban Aerial Navigation
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24074), SemPhys: Semantic-Physical Co-Learning for Humanoid Motion Generation via Differentiable World Models
@@ -1299,6 +1333,18 @@ The model that reasons about the task is trained to produce robot actions or exe
 
 These works evaluate capabilities across architectures or study components such as perception, simulators, robot design and safety.
 
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.25980), Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models
+  **Evaluation**
+- 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.26444), Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation, [GitHub](https://github.com/Mind2Act/Mind2Act_World)
+  **Evaluation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26519), ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents
+  **Evaluation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.26565), PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity
+  **Evaluation**
+- 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.26613), AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control, [website](https://adu2021.github.io/blog/AgentRoboCritic/), [GitHub](https://github.com/cxcscmu/AgentRoboCritic)
+  **Evaluation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.24778), Counterfactual World Models: JEPAs That Reason About "What If"
+  **Evaluation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24187), Worth Another Look:Constrained World-Model Planning for Visual Inspection
   **Evaluation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24100), Lost Between Mind, Model Collaboration, and Motion: Understanding and Measuring Cross-Model Action Misalignment in Commercial Robots
@@ -1543,7 +1589,7 @@ These works evaluate capabilities across architectures or study components such 
   **Task · Interaction & Collaboration**
 - [arXiv 2026.07.08](https://arxiv.org/abs/2607.07459), EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI, [GitHub](https://github.com/HorizonRobotics/EmbodiedGen)
   **Evaluation**
-- [arXiv 2026.07.05](https://arxiv.org/abs/2607.04434), RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies, [GitHub](https://github.com/RoboDojo-Benchmark/RoboDojo), [X · Anthropic’s Fable 5.2 evaluation](https://x.com/claudeai/status/2119867132452221045) (10,681 likes · 3,439,139 views · Nov 16, 2026), [X · NVIDIA’s integration announcement](https://x.com/NVIDIARobotics/status/2118751657169187110) (323 likes · 15,012 views · Nov 18, 2026), [X · Bo Peng’s simulator and scoring audit](https://x.com/Builtin_Pb/status/2122864201521631480) (116 likes · 22,046 views · Nov 18, 2026)
+- [arXiv 2026.07.05](https://arxiv.org/abs/2607.04434), RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies, [GitHub](https://github.com/RoboDojo-Benchmark/RoboDojo), [X · Anthropic’s Fable 5.2 evaluation](https://x.com/claudeai/status/2119867132452221045) (10,696 likes · 3,460,892 views · Nov 20, 2026), [X · NVIDIA’s integration announcement](https://x.com/NVIDIARobotics/status/2118751657169187110) (325 likes · 15,104 views · Nov 20, 2026), [X · Bo Peng’s simulator and scoring audit](https://x.com/Builtin_Pb/status/2122864201521631480) (171 likes · 37,217 views · Nov 20, 2026)
   **Task · Manipulation**
 - [arXiv 2026.06.30](https://arxiv.org/abs/2607.00218), EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards, [GitHub](https://github.com/AIM-Intelligence/EgoSafetyBench)
   **Evaluation**
