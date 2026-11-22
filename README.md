@@ -238,6 +238,10 @@ The agent selects, sequences or supervises existing skills or policies. The exec
   **Task · Manipulation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.23843), RePlan-VLA: Progress-Aware Replanning for Long-Horizon Vision-Language-Action Models
   **Task · Manipulation**
+- [arXiv 2026.11.18](https://arxiv.org/abs/2611.25254), Plan your Self-Adaptation! Ontology-Mediated Task and Architecture Co-adaptation Planning for Robots
+  **Task · Locomotion & Navigation**
+- 🌟[arXiv 2026.11.18](https://arxiv.org/abs/2611.25243), Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans, [website](https://verify2act.github.io/), [GitHub](https://github.com/chrisantuseze/verify2act)
+  **Task · Manipulation**
 - 🌟[arXiv 2026.11.17](https://arxiv.org/abs/2611.22584), InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation, [website](https://lingwupro.github.io/InteractVLA/), [GitHub](https://github.com/LingwuPro/InteractVLA)
   **Task · Manipulation**
 - [arXiv 2026.11.17](https://arxiv.org/abs/2611.22321), Beyond Episodic Recall: Experience-to-Knowledge Evolution for Lifelong Embodied Navigation
@@ -1182,6 +1186,8 @@ The model that reasons about the task is trained to produce robot actions or exe
   **Task · Manipulation**
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.26196), EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL
   **Task · Manipulation**
+- [arXiv 2026.11.19](https://arxiv.org/abs/2611.25589), GraF-VTA: Neuro-Symbolic Trajectory Generation from Vision and Temporal Logic via Graph-Based Fusion
+  **Task · Manipulation + Locomotion & Navigation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24247), Allocentric Memory, Egocentric Acting: A Dual-Frame VLA for Urban Aerial Navigation
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24074), SemPhys: Semantic-Physical Co-Learning for Humanoid Motion Generation via Differentiable World Models
@@ -1200,7 +1206,7 @@ The model that reasons about the task is trained to produce robot actions or exe
   **Task · Manipulation**
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19287), VLN-Flash: Parallel Action Decoding with Adaptive Execution for Vision-and-Language Navigation
   **Task · Locomotion & Navigation**
-- 🌟[arXiv 2026.11.13](https://arxiv.org/abs/2611.18562), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear), [X · Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) (1,226 likes · 111,693 views · Nov 19, 2026), [X · Kunjun Li’s SpecPilot acceleration test on PEAR](https://x.com/li_kunjun/status/2122455601116856815) (134 likes · 9,673 views · Nov 17, 2026)
+- 🌟[arXiv 2026.11.13](https://arxiv.org/abs/2611.18562), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear), [X · Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) (1,253 likes · 117,786 views · Nov 22, 2026), [X · Kunjun Li’s SpecPilot acceleration test on PEAR](https://x.com/li_kunjun/status/2122455601116856815) (214 likes · 16,640 views · Nov 22, 2026)
   **Task · Manipulation**
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.17160), XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction
   **Task · Interaction & Collaboration**
