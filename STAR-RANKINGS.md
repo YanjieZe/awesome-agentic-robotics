@@ -1,6 +1,6 @@
 # GitHub star rankings
 
-GitHub snapshot · 2026-11-24 UTC · 457 of 891 papers matched to 455 public project repositories.
+GitHub snapshot · 2026-11-24 UTC · 457 of 897 papers matched to 455 public project repositories.
 
 Each repository counts once per group. Stars belong to the whole repository, including shared codebases. Coverage counts papers with a matched public repository. Unmatched papers contribute only to the coverage denominator. A multi-task paper appears under each of its task families.
 
@@ -13,16 +13,16 @@ Project repositories may contain code, data, or the authors’ project page. The
 | Rank | Method | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
 | 1 | [Agent Controls Policies](#agent-controls-policies) | 9,662 | 149 | 3 | 149/339 |
-| 2 | [Agent Uses Robot](#agent-uses-robot) | 6,033 | 60 | 10.5 | 60/101 |
+| 2 | [Agent Uses Robot](#agent-uses-robot) | 6,033 | 60 | 10.5 | 60/105 |
 | 3 | [Agent Trains Robot](#agent-trains-robot) | 5,640 | 93 | 3 | 94/165 |
-| 4 | [Agent Learns to Be Robot](#agent-learns-to-be-robot) | 3,883 | 49 | 13 | 49/83 |
+| 4 | [Agent Learns to Be Robot](#agent-learns-to-be-robot) | 3,883 | 49 | 13 | 49/85 |
 
 ## Four tasks by total stars
 
 | Rank | Task | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [Manipulation](#manipulation) | 21,799 | 215 | 9 | 216/363 |
-| 2 | [Locomotion & Navigation](#locomotion--navigation) | 2,414 | 64 | 3 | 64/138 |
+| 1 | [Manipulation](#manipulation) | 21,799 | 215 | 9 | 216/367 |
+| 2 | [Locomotion & Navigation](#locomotion--navigation) | 2,414 | 64 | 3 | 64/144 |
 | 3 | [Loco-Manipulation](#loco-manipulation) | 1,114 | 32 | 8.5 | 32/50 |
 | 4 | [Interaction & Collaboration](#interaction--collaboration) | 495 | 40 | 1.5 | 40/105 |
 
@@ -30,7 +30,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Agent Uses Robot
 
-60 of 101 papers matched · 60 repositories.
+60 of 105 papers matched · 60 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
@@ -353,7 +353,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Agent Learns to Be Robot
 
-49 of 83 papers matched · 49 repositories.
+49 of 85 papers matched · 49 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
@@ -411,7 +411,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Manipulation
 
-216 of 363 papers matched · 215 repositories.
+216 of 367 papers matched · 215 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
@@ -633,7 +633,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Locomotion & Navigation
 
-64 of 138 papers matched · 64 repositories.
+64 of 144 papers matched · 64 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |

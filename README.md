@@ -41,15 +41,23 @@ The agent issues robot commands or generates the control program that executes t
   **Task · Manipulation**
 - [arXiv 2026.11.23](https://arxiv.org/abs/2611.30179), Trustworthy agentic lunar robotics: safety-constrained contingent planning with a foundation-model planner
   **Task · Manipulation**
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.30666), Zhengrong: World Models with Pole-Based Action-Response Factorization for Direct Visual Planning
+  **Task · Manipulation + Locomotion & Navigation**
 - [arXiv 2026.11.22](https://arxiv.org/abs/2611.29377), Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation, [GitHub](https://github.com/NTUMARS/ContactHarness)
   **Task · Manipulation**
 - [arXiv 2026.11.22](https://arxiv.org/abs/2611.29453), What Test-Time Training Corrects in Latent World Models? A Slow-Fast Approach
   **Task · Manipulation**
+- [arXiv 2026.11.21](https://arxiv.org/abs/2611.28919), When Do Better Visual World Models Make Better Plans? Decision-Aligned Selection for Latent Planning
+  **Task · Manipulation + Locomotion & Navigation**
+- [arXiv 2026.11.21](https://arxiv.org/abs/2611.28723), AERIN: Aerial Instance Navigation with a Visual World Model
+  **Task · Locomotion & Navigation**
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27639), SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning, [GitHub](https://github.com/starrywiki/SOAR)
   **Task · Manipulation + Locomotion & Navigation**
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27418), Beyond Future Views: Exploring Future-State World Models for Vision-Language Navigation
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27173), PACE-WM: Parallel World Modeling with Action History for Visual Planning, [GitHub](https://github.com/LHS180/PACE-WM)
+  **Task · Manipulation + Locomotion & Navigation**
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.28350), Two Actions from One State: Fork Futures Teach JEPA World Models to Compare, [website](https://fork-jepa.github.io/)
   **Task · Manipulation + Locomotion & Navigation**
 - 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.25415), Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners, [GitHub](https://github.com/jhlee0619/unstick)
   **Task · Manipulation**
@@ -1264,8 +1272,12 @@ The model that reasons about the task is trained to produce robot actions or exe
   **Task · Manipulation**
 - [arXiv 2026.11.23](https://arxiv.org/abs/2611.30145), RMR-VLA: Recurrent Memory Reasoning for Vision-Language-Action Models
   **Task · Manipulation**
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.31117), Self-Upgrading Embodied Agents
+  **Task · Manipulation + Locomotion & Navigation**
 - [arXiv 2026.11.22](https://arxiv.org/abs/2611.29339), More Than Picturing the Future: Motion-Oriented Latent Reasoning for Generalizable Robot Manipulation
   **Task · Manipulation**
+- [arXiv 2026.11.21](https://arxiv.org/abs/2611.28553), WorldWeave: Rethinking Embodied Navigation through Cross-Task World Modeling
+  **Task · Locomotion & Navigation**
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27219), NavTTT: Adaptive Parametric Memory via Hierarchical Test-Time Training for Vision-and-Language Navigation, [website](https://gamepeopleplay.github.io/NavTTT/), [GitHub](https://github.com/Gamepeopleplay/NavTTT)
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.26389), ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step, [website](https://kevin-thu.github.io/ViDecide)
