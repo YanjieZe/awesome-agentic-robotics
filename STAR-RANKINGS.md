@@ -13,7 +13,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 | Rank | Method | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
 | 1 | [Agent Controls Policies](#agent-controls-policies) | 9,696 | 150 | 3 | 150/344 |
-| 2 | [Agent Uses Robot](#agent-uses-robot) | 6,139 | 60 | 10.5 | 60/107 |
+| 2 | [Agent Uses Robot](#agent-uses-robot) | 6,140 | 60 | 10.5 | 60/107 |
 | 3 | [Agent Trains Robot](#agent-trains-robot) | 5,695 | 95 | 3 | 96/171 |
 | 4 | [Agent Learns to Be Robot](#agent-learns-to-be-robot) | 3,931 | 50 | 12.5 | 50/89 |
 
@@ -21,7 +21,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 | Rank | Task | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [Manipulation](#manipulation) | 22,012 | 219 | 9 | 220/381 |
+| 1 | [Manipulation](#manipulation) | 22,013 | 219 | 9 | 220/381 |
 | 2 | [Locomotion & Navigation](#locomotion--navigation) | 2,443 | 65 | 4 | 65/147 |
 | 3 | [Loco-Manipulation](#loco-manipulation) | 1,166 | 31 | 9 | 31/50 |
 | 4 | [Interaction & Collaboration](#interaction--collaboration) | 496 | 40 | 1.5 | 40/105 |
@@ -34,7 +34,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
-| 1 | [capgym/cap-x](https://github.com/capgym/cap-x) | 946 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
+| 1 | [capgym/cap-x](https://github.com/capgym/cap-x) | 947 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
 | 2 | [showlab/Show-Harness](https://github.com/showlab/Show-Harness) | 649 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) |
 | 3 | [BinceQu/RoboHarness](https://github.com/BinceQu/RoboHarness) | 543 | [RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018) |
 | 4 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | 530 | [Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560) |
@@ -424,7 +424,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 3 | [air-embodied-brain/Zetta-Embodiment](https://github.com/air-embodied-brain/Zetta-Embodiment) | 1,333 | [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) |
 | 4 | [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 1,073 | [ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272) |
 | 5 | [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) | 958 | [RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434) |
-| 6 | [capgym/cap-x](https://github.com/capgym/cap-x) | 946 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
+| 6 | [capgym/cap-x](https://github.com/capgym/cap-x) | 947 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
 | 7 | [mit-han-lab/pear](https://github.com/mit-han-lab/pear) | 873 | [Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562) |
 | 8 | [allenai/molmoact2](https://github.com/allenai/molmoact2) | 836 | [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) |
 | 9 | [showlab/Show-Harness](https://github.com/showlab/Show-Harness) | 649 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) |
