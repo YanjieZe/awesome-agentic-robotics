@@ -1,6 +1,6 @@
 # GitHub star rankings
 
-GitHub snapshot · 2026-11-25 UTC · 464 of 923 papers matched to 462 public project repositories.
+GitHub snapshot · 2026-11-26 UTC · 467 of 936 papers matched to 465 public project repositories.
 
 Each repository counts once per group. Stars belong to the whole repository, including shared codebases. Coverage counts papers with a matched public repository. Unmatched papers contribute only to the coverage denominator. A multi-task paper appears under each of its task families.
 
@@ -12,49 +12,49 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 | Rank | Method | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [Agent Controls Policies](#agent-controls-policies) | 9,696 | 150 | 3 | 150/344 |
-| 2 | [Agent Uses Robot](#agent-uses-robot) | 6,140 | 60 | 10.5 | 60/107 |
-| 3 | [Agent Trains Robot](#agent-trains-robot) | 5,695 | 95 | 3 | 96/171 |
-| 4 | [Agent Learns to Be Robot](#agent-learns-to-be-robot) | 3,931 | 50 | 12.5 | 50/89 |
+| 1 | [Agent Controls Policies](#agent-controls-policies) | 9,720 | 150 | 3 | 150/345 |
+| 2 | [Agent Uses Robot](#agent-uses-robot) | 6,241 | 60 | 10.5 | 60/109 |
+| 3 | [Agent Trains Robot](#agent-trains-robot) | 5,762 | 97 | 4 | 98/179 |
+| 4 | [Agent Learns to Be Robot](#agent-learns-to-be-robot) | 3,979 | 50 | 12.5 | 50/90 |
 
 ## Four tasks by total stars
 
 | Rank | Task | Total stars | Repositories | Median stars | Paper coverage |
 | ---: | --- | ---: | ---: | ---: | ---: |
-| 1 | [Manipulation](#manipulation) | 22,013 | 219 | 9 | 220/381 |
-| 2 | [Locomotion & Navigation](#locomotion--navigation) | 2,443 | 65 | 4 | 65/147 |
-| 3 | [Loco-Manipulation](#loco-manipulation) | 1,166 | 31 | 9 | 31/50 |
-| 4 | [Interaction & Collaboration](#interaction--collaboration) | 496 | 40 | 1.5 | 40/105 |
+| 1 | [Manipulation](#manipulation) | 22,230 | 221 | 9 | 222/391 |
+| 2 | [Locomotion & Navigation](#locomotion--navigation) | 2,455 | 65 | 4 | 65/148 |
+| 3 | [Loco-Manipulation](#loco-manipulation) | 1,215 | 31 | 9 | 31/51 |
+| 4 | [Interaction & Collaboration](#interaction--collaboration) | 498 | 40 | 1.5 | 40/105 |
 
 ## Projects by method
 
 ### Agent Uses Robot
 
-60 of 107 papers matched · 60 repositories.
+60 of 109 papers matched · 60 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
-| 1 | [capgym/cap-x](https://github.com/capgym/cap-x) | 947 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
-| 2 | [showlab/Show-Harness](https://github.com/showlab/Show-Harness) | 649 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) |
+| 1 | [capgym/cap-x](https://github.com/capgym/cap-x) | 949 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
+| 2 | [showlab/Show-Harness](https://github.com/showlab/Show-Harness) | 651 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) |
 | 3 | [BinceQu/RoboHarness](https://github.com/BinceQu/RoboHarness) | 543 | [RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018) |
-| 4 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | 530 | [Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560) |
-| 5 | [HexaFuture/HexaShell](https://github.com/HexaFuture/HexaShell) | 398 | [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) |
-| 6 | [ArcheOne-AI/RoboScript](https://github.com/ArcheOne-AI/RoboScript) | 390 | [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) |
-| 7 | [robot-agent-exploration/rax](https://github.com/robot-agent-exploration/rax) | 376 | [Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) |
-| 8 | [cheng-haha/GPT-Policy](https://github.com/cheng-haha/GPT-Policy) | 372 | [In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138) |
-| 9 | [mll-lab-nu/embodied-first-exam](https://github.com/mll-lab-nu/embodied-first-exam) | 323 | [Embodied First Exam](https://arxiv.org/abs/2611.12177) |
-| 10 | [RoboProbe/RoboProbe](https://github.com/RoboProbe/RoboProbe) | 320 | [An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/abs/2609.24170) |
-| 11 | [DAGroup-PKU/PyRUA-Lean](https://github.com/DAGroup-PKU/PyRUA-Lean) | 286 | [Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success but 65% Fewer Tokens](https://arxiv.org/abs/2610.01939) |
-| 12 | [EIT-HAI/Thea](https://github.com/EIT-HAI/Thea) | 151 | [Towards the Harness of Embodied Agents](https://arxiv.org/abs/2608.11246) |
-| 13 | [apple-aiml-research/ml-amp](https://github.com/apple-aiml-research/ml-amp) | 124 | [On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892) |
+| 4 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | 536 | [Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560) |
+| 5 | [ArcheOne-AI/RoboScript](https://github.com/ArcheOne-AI/RoboScript) | 403 | [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) |
+| 6 | [HexaFuture/HexaShell](https://github.com/HexaFuture/HexaShell) | 402 | [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) |
+| 7 | [robot-agent-exploration/rax](https://github.com/robot-agent-exploration/rax) | 381 | [Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) |
+| 8 | [cheng-haha/GPT-Policy](https://github.com/cheng-haha/GPT-Policy) | 374 | [In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138) |
+| 9 | [mll-lab-nu/embodied-first-exam](https://github.com/mll-lab-nu/embodied-first-exam) | 328 | [Embodied First Exam](https://arxiv.org/abs/2611.12177) |
+| 10 | [RoboProbe/RoboProbe](https://github.com/RoboProbe/RoboProbe) | 325 | [An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/abs/2609.24170) |
+| 11 | [DAGroup-PKU/PyRUA-Lean](https://github.com/DAGroup-PKU/PyRUA-Lean) | 296 | [Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success but 65% Fewer Tokens](https://arxiv.org/abs/2610.01939) |
+| 12 | [apple-aiml-research/ml-amp](https://github.com/apple-aiml-research/ml-amp) | 160 | [On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892) |
+| 13 | [EIT-HAI/Thea](https://github.com/EIT-HAI/Thea) | 151 | [Towards the Harness of Embodied Agents](https://arxiv.org/abs/2608.11246) |
 | 14 | [Motor-Mind/MotorMind-Code](https://github.com/Motor-Mind/MotorMind-Code) | 121 | [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://arxiv.org/abs/2609.38078) |
-| 15 | [terminalworld/OpenRUA](https://github.com/terminalworld/OpenRUA) | 78 | [OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies](https://arxiv.org/abs/2610.02459) |
-| 16 | [agent-as-policy-2026/agent-as-policy](https://github.com/agent-as-policy-2026/agent-as-policy) | 57 | [Agent as Policy for Robotic Manipulation](https://arxiv.org/abs/2609.12541) |
+| 15 | [terminalworld/OpenRUA](https://github.com/terminalworld/OpenRUA) | 79 | [OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies](https://arxiv.org/abs/2610.02459) |
+| 16 | [agent-as-policy-2026/agent-as-policy](https://github.com/agent-as-policy-2026/agent-as-policy) | 58 | [Agent as Policy for Robotic Manipulation](https://arxiv.org/abs/2609.12541) |
 | 17 | [robotworldai/robotworld](https://github.com/robotworldai/robotworld) | 55 | [RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments](https://arxiv.org/abs/2610.10409) |
 | 18 | [showlab/ForceHarness](https://github.com/showlab/ForceHarness) | 54 | [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](https://arxiv.org/abs/2611.21099) |
 | 19 | [lose4578/Auriga](https://github.com/lose4578/Auriga) | 40 | [Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation](https://arxiv.org/abs/2611.01112) |
-| 20 | [tomsilver/robocode](https://github.com/tomsilver/robocode) | 34 | [Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233) |
-| 21 | [bingaochen/Astra-on-RoboMME](https://github.com/bingaochen/Astra-on-RoboMME) | 33 | [Can Astra Solve RoboMME without Breaking the Bank?](https://arxiv.org/abs/2611.06184) |
+| 20 | [bingaochen/Astra-on-RoboMME](https://github.com/bingaochen/Astra-on-RoboMME) | 33 | [Can Astra Solve RoboMME without Breaking the Bank?](https://arxiv.org/abs/2611.06184) |
+| 20 | [tomsilver/robocode](https://github.com/tomsilver/robocode) | 33 | [Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233) |
 | 22 | [No-518/Tactile-ETA](https://github.com/No-518/Tactile-ETA) | 31 | [Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning](https://arxiv.org/abs/2610.27613) |
 | 23 | [Robo-Harness/k1](https://github.com/Robo-Harness/k1) | 27 | [Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation](https://arxiv.org/abs/2609.29389) |
 | 24 | [DeepCybo-PhysAI/Fast-JEPA](https://github.com/DeepCybo-PhysAI/Fast-JEPA) | 24 | [Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models](https://arxiv.org/abs/2611.25927) |
@@ -65,25 +65,25 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 29 | [hengyuan-hu/via](https://github.com/hengyuan-hu/via) | 11 | [VIA: Visual Interface Agent for Robot Control](https://arxiv.org/abs/2607.11119) |
 | 29 | [IRVLUTD/LLM_LIBERO](https://github.com/IRVLUTD/LLM_LIBERO) | 11 | [From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks](https://arxiv.org/abs/2610.30051) |
 | 31 | [Pranjal2041/cua-embodied](https://github.com/Pranjal2041/cua-embodied) | 10 | [Computer-Use Agents Are Embodied Generalists](https://arxiv.org/abs/2611.09847) |
+| 32 | [physcap/physcap](https://github.com/physcap/physcap) | 9 | [PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration](https://arxiv.org/abs/2608.21031) |
 | 32 | [robotuse-team/RobotUse](https://github.com/robotuse-team/RobotUse) | 9 | [RobotUse: Allocating Computation, Context, and Decisions](https://arxiv.org/abs/2610.04929) |
 | 32 | [tsudalab/WetRobo](https://github.com/tsudalab/WetRobo) | 9 | [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) |
-| 34 | [MoCAP-7/MoCAP](https://github.com/MoCAP-7/MoCAP) | 8 | [MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos](https://arxiv.org/abs/2610.20998) |
-| 34 | [ZefanW/JustRUA](https://github.com/ZefanW/JustRUA) | 8 | [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://arxiv.org/abs/2611.16009) |
-| 36 | [BWR-hhh/rvicl](https://github.com/BWR-hhh/rvicl) | 6 | [Recursive Video In-Context Learning for Agentic Robot](https://arxiv.org/abs/2610.06843) |
-| 36 | [dzj441/Libero-Agent](https://github.com/dzj441/Libero-Agent) | 6 | [LIBERO-Agent: Evaluating General-Purpose Agents for Direct Embodied Manipulation](https://arxiv.org/abs/2609.39507) |
-| 36 | [jianzhou0420/MIP](https://github.com/jianzhou0420/MIP) | 6 | [Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation](https://arxiv.org/abs/2607.26148) |
-| 39 | [jackbjed/embodied-astra-robomme](https://github.com/jackbjed/embodied-astra-robomme) | 5 | [Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?](https://arxiv.org/abs/2610.17350) |
-| 39 | [Loule0-0/KnowBody](https://github.com/Loule0-0/KnowBody) | 5 | [Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs](https://arxiv.org/abs/2609.28530) |
-| 39 | [lyhkk/CodeActionBench](https://github.com/lyhkk/CodeActionBench) | 5 | [CodeActionBench: Evaluating Agentic Code-as-Policy for Embodied Manipulation](https://arxiv.org/abs/2609.33807) |
-| 42 | [NTUMARS/ContactHarness](https://github.com/NTUMARS/ContactHarness) | 4 | [Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation](https://arxiv.org/abs/2611.29377) |
-| 43 | [AgenticEI/PhySGA](https://github.com/AgenticEI/PhySGA) | 3 | [PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition](https://arxiv.org/abs/2610.20560) |
-| 43 | [VinayMohan0409/DexLatentWorld](https://github.com/VinayMohan0409/DexLatentWorld) | 3 | [DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2611.30907) |
-| 45 | [alesspalma/icl_bimanual](https://github.com/alesspalma/icl_bimanual) | 2 | [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](https://arxiv.org/abs/2604.20348) |
-| 45 | [SpatialAgentLab/DailyBrick.github.io](https://github.com/SpatialAgentLab/DailyBrick.github.io) | 2 | [DailyBrick: Language-Guided Synthesis of Brick Assembly Instructions](https://arxiv.org/abs/2611.22132) |
-| 45 | [ZihaoLu001/OaP](https://github.com/ZihaoLu001/OaP) | 2 | [Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation](https://arxiv.org/abs/2611.18298) |
-| 48 | [2000222/Socratic-Models-ChatGLM](https://github.com/2000222/Socratic-Models-ChatGLM) | 1 | [Multi-modal Interactive Control of Robotic Arm based on Offline Large Language Models](https://arxiv.org/abs/2608.08183) |
-| 48 | [physcap/physcap](https://github.com/physcap/physcap) | 1 | [PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration](https://arxiv.org/abs/2608.21031) |
-| 48 | [starrywiki/SOAR](https://github.com/starrywiki/SOAR) | 1 | [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639) |
+| 35 | [MoCAP-7/MoCAP](https://github.com/MoCAP-7/MoCAP) | 8 | [MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos](https://arxiv.org/abs/2610.20998) |
+| 35 | [ZefanW/JustRUA](https://github.com/ZefanW/JustRUA) | 8 | [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://arxiv.org/abs/2611.16009) |
+| 37 | [jianzhou0420/MIP](https://github.com/jianzhou0420/MIP) | 7 | [Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation](https://arxiv.org/abs/2607.26148) |
+| 38 | [BWR-hhh/rvicl](https://github.com/BWR-hhh/rvicl) | 6 | [Recursive Video In-Context Learning for Agentic Robot](https://arxiv.org/abs/2610.06843) |
+| 38 | [dzj441/Libero-Agent](https://github.com/dzj441/Libero-Agent) | 6 | [LIBERO-Agent: Evaluating General-Purpose Agents for Direct Embodied Manipulation](https://arxiv.org/abs/2609.39507) |
+| 40 | [jackbjed/embodied-astra-robomme](https://github.com/jackbjed/embodied-astra-robomme) | 5 | [Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?](https://arxiv.org/abs/2610.17350) |
+| 40 | [Loule0-0/KnowBody](https://github.com/Loule0-0/KnowBody) | 5 | [Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs](https://arxiv.org/abs/2609.28530) |
+| 40 | [lyhkk/CodeActionBench](https://github.com/lyhkk/CodeActionBench) | 5 | [CodeActionBench: Evaluating Agentic Code-as-Policy for Embodied Manipulation](https://arxiv.org/abs/2609.33807) |
+| 43 | [NTUMARS/ContactHarness](https://github.com/NTUMARS/ContactHarness) | 4 | [Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation](https://arxiv.org/abs/2611.29377) |
+| 43 | [VinayMohan0409/DexLatentWorld](https://github.com/VinayMohan0409/DexLatentWorld) | 4 | [DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2611.30907) |
+| 45 | [AgenticEI/PhySGA](https://github.com/AgenticEI/PhySGA) | 3 | [PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition](https://arxiv.org/abs/2610.20560) |
+| 46 | [alesspalma/icl_bimanual](https://github.com/alesspalma/icl_bimanual) | 2 | [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](https://arxiv.org/abs/2604.20348) |
+| 46 | [SpatialAgentLab/DailyBrick.github.io](https://github.com/SpatialAgentLab/DailyBrick.github.io) | 2 | [DailyBrick: Language-Guided Synthesis of Brick Assembly Instructions](https://arxiv.org/abs/2611.22132) |
+| 46 | [ZihaoLu001/OaP](https://github.com/ZihaoLu001/OaP) | 2 | [Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation](https://arxiv.org/abs/2611.18298) |
+| 49 | [2000222/Socratic-Models-ChatGLM](https://github.com/2000222/Socratic-Models-ChatGLM) | 1 | [Multi-modal Interactive Control of Robotic Arm based on Offline Large Language Models](https://arxiv.org/abs/2608.08183) |
+| 49 | [starrywiki/SOAR](https://github.com/starrywiki/SOAR) | 1 | [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639) |
 | 51 | [5FX4P/RACAS](https://github.com/5FX4P/RACAS) | 0 | [RACAS: Controlling Diverse Robots With a Single Agentic System](https://arxiv.org/abs/2603.05621) |
 | 51 | [ai-uavsec/Ro-SLM](https://github.com/ai-uavsec/Ro-SLM) | 0 | [Ro-SLM: Onboard Small Language Models for Robot Task Planning and Operation Code Generation](https://arxiv.org/abs/2604.10929) |
 | 51 | [emilia113/SpatialHarness](https://github.com/emilia113/SpatialHarness) | 0 | [SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation](https://arxiv.org/abs/2610.12457) |
@@ -97,30 +97,30 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Agent Controls Policies
 
-150 of 344 papers matched · 150 repositories.
+150 of 345 papers matched · 150 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
-| 1 | [PhyAgentOS/PhyAgentOS-core](https://github.com/PhyAgentOS/PhyAgentOS-core) | 3,020 | [PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution](https://arxiv.org/abs/2607.16636) |
-| 2 | [RLinf/RPent](https://github.com/RLinf/RPent) | 1,811 | [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) |
+| 1 | [PhyAgentOS/PhyAgentOS-core](https://github.com/PhyAgentOS/PhyAgentOS-core) | 3,023 | [PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution](https://arxiv.org/abs/2607.16636) |
+| 2 | [RLinf/RPent](https://github.com/RLinf/RPent) | 1,818 | [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) |
 | 3 | [HorizonRobotics/HoloAgent](https://github.com/HorizonRobotics/HoloAgent) | 428 | [HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory](https://arxiv.org/abs/2606.23565) |
 | 4 | [Allenxinn/AgentVLN](https://github.com/Allenxinn/AgentVLN) | 287 | [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670) |
-| 5 | [ZJU-OmniAI/Embodied-Omni](https://github.com/ZJU-OmniAI/Embodied-Omni) | 269 | [Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](https://arxiv.org/abs/2608.17512) |
+| 5 | [ZJU-OmniAI/Embodied-Omni](https://github.com/ZJU-OmniAI/Embodied-Omni) | 271 | [Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](https://arxiv.org/abs/2608.17512) |
 | 6 | [haoyangli16/PhysMem](https://github.com/haoyangli16/PhysMem) | 267 | [PhysMem: Scaling Test-Time Memory for Embodied Physical Reasoning](https://arxiv.org/abs/2602.20323) |
 | 7 | [buoyancy99/large-video-planner](https://github.com/buoyancy99/large-video-planner) | 265 | [Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840) |
-| 8 | [zju3dv/SuperNav](https://github.com/zju3dv/SuperNav) | 257 | [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://arxiv.org/abs/2610.12126) |
+| 8 | [zju3dv/SuperNav](https://github.com/zju3dv/SuperNav) | 258 | [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://arxiv.org/abs/2610.12126) |
 | 9 | [ZJU4EmbodiedAI/EmbodiedSkills](https://github.com/ZJU4EmbodiedAI/EmbodiedSkills) | 247 | [EmbodiedSkills: World Action Model-augmented Cascaded Skills for Vision-Language-Action Agent](https://arxiv.org/abs/2609.01281) |
 | 10 | [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | 241 | [ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](https://arxiv.org/abs/2604.04664) |
-| 11 | [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | 232 | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) |
+| 11 | [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | 233 | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) |
 | 12 | [OpenMOSS/OpenETA](https://github.com/OpenMOSS/OpenETA) | 221 | [ETA: A New Agentic Paradigm for Embodied Tasks](https://arxiv.org/abs/2608.03924) |
 | 13 | [amap-cvlab/ABot-Claw](https://github.com/amap-cvlab/ABot-Claw) | 214 | [ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents](https://arxiv.org/abs/2604.10096) |
-| 14 | [zwandering/SysNav](https://github.com/zwandering/SysNav) | 161 | [SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation](https://arxiv.org/abs/2603.06914) |
+| 14 | [zwandering/SysNav](https://github.com/zwandering/SysNav) | 162 | [SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation](https://arxiv.org/abs/2603.06914) |
 | 15 | [Sage-PhysicalAI/EBench](https://github.com/Sage-PhysicalAI/EBench) | 152 | [Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy](https://arxiv.org/abs/2610.35832) |
 | 16 | [Human-CLAW/HumanCLAW](https://github.com/Human-CLAW/HumanCLAW) | 130 | [HumanCLAW: Can Vision-Language Models Act Through a Body?](https://arxiv.org/abs/2607.27180) |
 | 17 | [metacognitionai/NavGPT-3](https://github.com/metacognitionai/NavGPT-3) | 124 | [NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime](https://arxiv.org/abs/2610.10787) |
 | 18 | [Robotics-STAR-Lab/OnFly](https://github.com/Robotics-STAR-Lab/OnFly) | 105 | [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/abs/2603.10682) |
-| 19 | [Sage-PhysicalAI/Cortex](https://github.com/Sage-PhysicalAI/Cortex) | 90 | [Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](https://arxiv.org/abs/2607.05377) |
-| 20 | [leggedrobotics/roam](https://github.com/leggedrobotics/roam) | 87 | [Bridging vision-language reasoning and learned control for legged navigation in the wild](https://arxiv.org/abs/2611.25215) |
+| 19 | [leggedrobotics/roam](https://github.com/leggedrobotics/roam) | 93 | [Bridging vision-language reasoning and learned control for legged navigation in the wild](https://arxiv.org/abs/2611.25215) |
+| 20 | [Sage-PhysicalAI/Cortex](https://github.com/Sage-PhysicalAI/Cortex) | 90 | [Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](https://arxiv.org/abs/2607.05377) |
 | 21 | [lianegalanti/Pigey](https://github.com/lianegalanti/Pigey) | 82 | [Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725) |
 | 22 | [NVlabs/VoLoAgent](https://github.com/NVlabs/VoLoAgent) | 80 | [VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation](https://arxiv.org/abs/2606.07723) |
 | 23 | [EDEM-AI/AgentChord](https://github.com/EDEM-AI/AgentChord) | 76 | [From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation](https://arxiv.org/abs/2605.11951) |
@@ -128,9 +128,9 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 25 | [lzyang2000/HANDOFF](https://github.com/lzyang2000/HANDOFF) | 44 | [HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493) |
 | 25 | [marmotlab/RL2-VLA](https://github.com/marmotlab/RL2-VLA) | 44 | [RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models](https://arxiv.org/abs/2607.26991) |
 | 27 | [Reflective-Test-Time-Planning/Reflective-Test-Time-Planning](https://github.com/Reflective-Test-Time-Planning/Reflective-Test-Time-Planning) | 35 | [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](https://arxiv.org/abs/2602.21198) |
+| 28 | [heaveho-humanoid/Heave-Ho](https://github.com/heaveho-humanoid/Heave-Ho) | 34 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275) |
 | 28 | [xuyicheng-zju/TARSphere](https://github.com/xuyicheng-zju/TARSphere) | 34 | [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043) |
-| 29 | [heaveho-humanoid/Heave-Ho](https://github.com/heaveho-humanoid/Heave-Ho) | 32 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275) |
-| 29 | [TomWang-NPU/MeCo](https://github.com/TomWang-NPU/MeCo) | 32 | [MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via Similar Task Memoization](https://arxiv.org/abs/2601.20577) |
+| 30 | [TomWang-NPU/MeCo](https://github.com/TomWang-NPU/MeCo) | 32 | [MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via Similar Task Memoization](https://arxiv.org/abs/2601.20577) |
 | 31 | [XiangyuSu611/IMR-LLM-Code](https://github.com/XiangyuSu611/IMR-LLM-Code) | 31 | [IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models](https://arxiv.org/abs/2603.02669) |
 | 32 | [AgibotGeneral/harnessvln](https://github.com/AgibotGeneral/harnessvln) | 29 | [HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness](https://arxiv.org/abs/2609.15195) |
 | 33 | [LegendLeoChen/LEO-RobotAgent](https://github.com/LegendLeoChen/LEO-RobotAgent) | 26 | [LEO-RobotAgent: A General-purpose Robotic Agent for Language-driven Embodied Operator](https://arxiv.org/abs/2512.10605) |
@@ -175,20 +175,20 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 69 | [Yousef-Liang/glst](https://github.com/Yousef-Liang/glst) | 4 | [GLST: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation](https://arxiv.org/abs/2610.17927) |
 | 69 | [zinengtang/instruct-to-act-code](https://github.com/zinengtang/instruct-to-act-code) | 4 | [Decoupling Planning and Control for Instructable Agents](https://arxiv.org/abs/2608.26788) |
 | 74 | [1999Lyd/GAMMA](https://github.com/1999Lyd/GAMMA) | 3 | [Gamma: Grounded Multi-Agent Memory with Mechanical Audit for Memory-Intensive Manipulation](https://arxiv.org/abs/2610.12793) |
+| 74 | [LingwuPro/InteractVLA](https://github.com/LingwuPro/InteractVLA) | 3 | [InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation](https://arxiv.org/abs/2611.22584) |
 | 74 | [liujy25/NavProbe](https://github.com/liujy25/NavProbe) | 3 | [NavProbe: Evidence-Grounded Reasoning with Active Memory Retrieval for Zero-Shot Navigation](https://arxiv.org/abs/2609.27526) |
 | 74 | [PlumJun/DV-VLN](https://github.com/PlumJun/DV-VLN) | 3 | [DV-VLN: Dual Verification for Reliable LLM-Based Vision-and-Language Navigation](https://arxiv.org/abs/2601.18492) |
 | 74 | [PyyWill/ReStruct](https://github.com/PyyWill/ReStruct) | 3 | [Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure](https://arxiv.org/abs/2606.26588) |
 | 74 | [simplearm/SimpleARM](https://github.com/simplearm/SimpleARM) | 3 | [Simple Agentic Memory for Generalist Robot Policies](https://arxiv.org/abs/2609.36595) |
-| 79 | [centiLinda/G2-Nav](https://github.com/centiLinda/G2-Nav) | 2 | [G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation](https://arxiv.org/abs/2607.16956) |
-| 79 | [costream-simple/costream](https://github.com/costream-simple/costream) | 2 | [CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation](https://arxiv.org/abs/2606.26423) |
-| 79 | [jiahui-fu/NovaPlan](https://github.com/jiahui-fu/NovaPlan) | 2 | [NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119) |
-| 79 | [LingwuPro/InteractVLA](https://github.com/LingwuPro/InteractVLA) | 2 | [InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation](https://arxiv.org/abs/2611.22584) |
-| 79 | [project-m2hri/m2hri](https://github.com/project-m2hri/m2hri) | 2 | [M2HRI: An LLM-Driven Multimodal Multi-Agent Framework for Personalized Human-Robot Interaction](https://arxiv.org/abs/2604.11975) |
-| 79 | [RoboMLT/Robo-MLT](https://github.com/RoboMLT/Robo-MLT) | 2 | [Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks](https://arxiv.org/abs/2611.13039) |
-| 79 | [ShinasShaji/llm-robot-cognition](https://github.com/ShinasShaji/llm-robot-cognition) | 2 | [From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?](https://arxiv.org/abs/2603.03148) |
-| 79 | [Xiaofeng-Han-Res/HMR-1](https://github.com/Xiaofeng-Han-Res/HMR-1) | 2 | [HMR-1: Hierarchical Massage Robot with Vision-Language-Model for Embodied Healthcare](https://arxiv.org/abs/2603.08817) |
-| 79 | [Xincheng-Tan/NSDL](https://github.com/Xincheng-Tan/NSDL) | 2 | [NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning](https://arxiv.org/abs/2611.16671) |
-| 79 | [ZGCA-HMI-Lab/MultINav](https://github.com/ZGCA-HMI-Lab/MultINav) | 2 | [Interactive Navigation Beyond Reachability: Benchmark and Agentic Framework](https://arxiv.org/abs/2610.17089) |
+| 80 | [centiLinda/G2-Nav](https://github.com/centiLinda/G2-Nav) | 2 | [G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation](https://arxiv.org/abs/2607.16956) |
+| 80 | [costream-simple/costream](https://github.com/costream-simple/costream) | 2 | [CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation](https://arxiv.org/abs/2606.26423) |
+| 80 | [jiahui-fu/NovaPlan](https://github.com/jiahui-fu/NovaPlan) | 2 | [NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119) |
+| 80 | [project-m2hri/m2hri](https://github.com/project-m2hri/m2hri) | 2 | [M2HRI: An LLM-Driven Multimodal Multi-Agent Framework for Personalized Human-Robot Interaction](https://arxiv.org/abs/2604.11975) |
+| 80 | [RoboMLT/Robo-MLT](https://github.com/RoboMLT/Robo-MLT) | 2 | [Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks](https://arxiv.org/abs/2611.13039) |
+| 80 | [ShinasShaji/llm-robot-cognition](https://github.com/ShinasShaji/llm-robot-cognition) | 2 | [From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?](https://arxiv.org/abs/2603.03148) |
+| 80 | [Xiaofeng-Han-Res/HMR-1](https://github.com/Xiaofeng-Han-Res/HMR-1) | 2 | [HMR-1: Hierarchical Massage Robot with Vision-Language-Model for Embodied Healthcare](https://arxiv.org/abs/2603.08817) |
+| 80 | [Xincheng-Tan/NSDL](https://github.com/Xincheng-Tan/NSDL) | 2 | [NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning](https://arxiv.org/abs/2611.16671) |
+| 80 | [ZGCA-HMI-Lab/MultINav](https://github.com/ZGCA-HMI-Lab/MultINav) | 2 | [Interactive Navigation Beyond Reachability: Benchmark and Agentic Framework](https://arxiv.org/abs/2610.17089) |
 | 89 | [atlas-humanoid/atlas-humanoid.github.io](https://github.com/atlas-humanoid/atlas-humanoid.github.io) | 1 | [ATLAS: Agentic Harness for Whole-Body Intelligence from Human Video](https://atlas-humanoid.github.io/) |
 | 89 | [cogrob-tuni/franka-llm](https://github.com/cogrob-tuni/franka-llm) | 1 | [A Conversational Framework for Human-Robot Collaborative Manipulation with Distributed Generative AI models](https://arxiv.org/abs/2606.06061) |
 | 89 | [DanielMcSheehy/comuros](https://github.com/DanielMcSheehy/comuros) | 1 | [LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning](https://arxiv.org/abs/2511.22354) |
@@ -254,124 +254,126 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Agent Trains Robot
 
-96 of 171 papers matched · 95 repositories.
+98 of 179 papers matched · 97 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
 | 1 | [air-embodied-brain/Zetta-Embodiment](https://github.com/air-embodied-brain/Zetta-Embodiment) | 1,333 | [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) |
-| 2 | [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 1,073 | [ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272) |
-| 3 | [NVlabs/sage](https://github.com/NVlabs/sage) | 449 | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) |
-| 4 | [jushengzhang/robot-weight-debugging](https://github.com/jushengzhang/robot-weight-debugging) | 439 | [Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376) |
-| 5 | [NVlabs/ENPIRE](https://github.com/NVlabs/ENPIRE) | 378 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) |
-| 6 | [DAGroup-PKU/PyRUA-Lean](https://github.com/DAGroup-PKU/PyRUA-Lean) | 286 | [PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://arxiv.org/abs/2611.05320) |
-| 7 | [graph-robots/graph-as-policy](https://github.com/graph-robots/graph-as-policy) | 225 | [A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics](https://arxiv.org/abs/2611.09030)<br>[GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369) |
-| 8 | [EmbodiedSWE/EmbodiedSWE](https://github.com/EmbodiedSWE/EmbodiedSWE) | 198 | [EMBODIEDSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) |
+| 2 | [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 1,078 | [ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272) |
+| 3 | [jushengzhang/robot-weight-debugging](https://github.com/jushengzhang/robot-weight-debugging) | 467 | [Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376) |
+| 4 | [NVlabs/sage](https://github.com/NVlabs/sage) | 449 | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) |
+| 5 | [NVlabs/ENPIRE](https://github.com/NVlabs/ENPIRE) | 377 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) |
+| 6 | [DAGroup-PKU/PyRUA-Lean](https://github.com/DAGroup-PKU/PyRUA-Lean) | 296 | [PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://arxiv.org/abs/2611.05320) |
+| 7 | [graph-robots/graph-as-policy](https://github.com/graph-robots/graph-as-policy) | 226 | [A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics](https://arxiv.org/abs/2611.09030)<br>[GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369) |
+| 8 | [EmbodiedSWE/EmbodiedSWE](https://github.com/EmbodiedSWE/EmbodiedSWE) | 200 | [EMBODIEDSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) |
 | 9 | [RoboClaw-Robotics/RoboClaw](https://github.com/RoboClaw-Robotics/RoboClaw) | 173 | [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://arxiv.org/abs/2603.11558) |
 | 10 | [Playful-RATs/RATs](https://github.com/Playful-RATs/RATs) | 146 | [Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) |
 | 11 | [TOPReward/TOPReward](https://github.com/TOPReward/TOPReward) | 120 | [TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://arxiv.org/abs/2602.19313) |
-| 12 | [Einsia/EmbodiedEvo](https://github.com/Einsia/EmbodiedEvo) | 99 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) |
+| 12 | [Einsia/EmbodiedEvo](https://github.com/Einsia/EmbodiedEvo) | 101 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) |
 | 13 | [RLE-Bench/RLE-Bench](https://github.com/RLE-Bench/RLE-Bench) | 78 | [RLE-Bench: A Qualifying Exam for Coding Agents as Robot Learning Engineers](https://arxiv.org/abs/2609.34210) |
 | 14 | [dexagent1/DexAgent](https://github.com/dexagent1/DexAgent) | 60 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) |
 | 15 | [jianzhou0420/AgentCanvas](https://github.com/jianzhou0420/AgentCanvas) | 57 | [Automating the Design of Embodied Agent Architectures](https://arxiv.org/abs/2606.30111) |
-| 16 | [Darwin-Agent/HarnessPAI](https://github.com/Darwin-Agent/HarnessPAI) | 54 | [HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166) |
+| 16 | [Darwin-Agent/HarnessPAI](https://github.com/Darwin-Agent/HarnessPAI) | 55 | [HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166) |
 | 17 | [OpenGVLab/RSI-Nav](https://github.com/OpenGVLab/RSI-Nav) | 48 | [Data-Centric Recursive Self-Improvement for Navigation via Policy-Synchronized Language-Action Dual Bootstrapping](https://arxiv.org/abs/2610.15782) |
 | 17 | [robofoundry2026/RoboFoundry](https://github.com/robofoundry2026/RoboFoundry) | 48 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) |
-| 19 | [Self-Evolving-Agentic-Robotics/SEAR](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) | 40 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) |
+| 19 | [Self-Evolving-Agentic-Robotics/SEAR](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) | 41 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) |
 | 20 | [air-embodied-brain/EmbodiSkill](https://github.com/air-embodied-brain/EmbodiSkill) | 34 | [EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents](https://arxiv.org/abs/2605.10332) |
 | 21 | [RUCKBReasoning/RoboHarn-Evo](https://github.com/RUCKBReasoning/RoboHarn-Evo) | 26 | [RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2609.37583) |
 | 22 | [supersglzc/harbor-rl](https://github.com/supersglzc/harbor-rl) | 24 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) |
 | 23 | [HY-LiYihan/agentic_rsr](https://github.com/HY-LiYihan/agentic_rsr) | 21 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) |
-| 24 | [Amap-Robotics/Quad-Imaginarium](https://github.com/Amap-Robotics/Quad-Imaginarium) | 20 | [Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors](https://arxiv.org/abs/2606.28237) |
 | 24 | [Denghaoyuan123/UniIntervene](https://github.com/Denghaoyuan123/UniIntervene) | 20 | [UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning](https://arxiv.org/abs/2606.12372) |
 | 24 | [physical-superintelligence-lab/Large-Reward-Models](https://github.com/physical-superintelligence-lab/Large-Reward-Models) | 20 | [Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models](https://arxiv.org/abs/2603.16065) |
-| 27 | [kaiknower/MobiAgent](https://github.com/kaiknower/MobiAgent) | 18 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) |
+| 26 | [Amap-Robotics/Quad-Imaginarium](https://github.com/Amap-Robotics/Quad-Imaginarium) | 19 | [Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors](https://arxiv.org/abs/2606.28237) |
+| 26 | [kaiknower/MobiAgent](https://github.com/kaiknower/MobiAgent) | 19 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) |
+| 28 | [Haaareally/AdaHVLA-Adaptive_Harness_VLA](https://github.com/Haaareally/AdaHVLA-Adaptive_Harness_VLA) | 16 | [AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution](https://arxiv.org/abs/2609.29204) |
 | 28 | [Hoar012/FAR](https://github.com/Hoar012/FAR) | 16 | [FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement](https://arxiv.org/abs/2607.01111) |
-| 29 | [Haaareally/AdaHVLA-Adaptive_Harness_VLA](https://github.com/Haaareally/AdaHVLA-Adaptive_Harness_VLA) | 15 | [AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution](https://arxiv.org/abs/2609.29204) |
 | 30 | [HexaFuture/URAI](https://github.com/HexaFuture/URAI) | 14 | [Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools](https://arxiv.org/abs/2609.39018) |
 | 30 | [roboarchitect-ai/RoboArchitect](https://github.com/roboarchitect-ai/RoboArchitect) | 14 | [RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](https://arxiv.org/abs/2610.42141) |
-| 32 | [princeton-prism/veritas](https://github.com/princeton-prism/veritas) | 12 | [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) |
-| 33 | [nature21/RAPID](https://github.com/nature21/RAPID) | 11 | [RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249) |
-| 33 | [open-gigaai/Zero2Skill](https://github.com/open-gigaai/Zero2Skill) | 11 | [Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047) |
-| 35 | [robo-architect/architect-franka](https://github.com/robo-architect/architect-franka) | 10 | [A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784) |
-| 36 | [Ada4321/SkillWeaver](https://github.com/Ada4321/SkillWeaver) | 9 | [SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation](https://arxiv.org/abs/2609.36171) |
-| 36 | [AgenticEI/VISTA](https://github.com/AgenticEI/VISTA) | 9 | [VISTA: Active Exploration for Self-Improvement in Embodied Agents](https://arxiv.org/abs/2610.35051) |
-| 36 | [xuyicheng-zju/ReWeave](https://github.com/xuyicheng-zju/ReWeave) | 9 | [ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation](https://arxiv.org/abs/2611.31053) |
-| 36 | [ZERITH-ZLab/ESI](https://github.com/ZERITH-ZLab/ESI) | 9 | [ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176) |
-| 40 | [SII-dannyXSC/RoboSkill](https://github.com/SII-dannyXSC/RoboSkill) | 8 | [Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents](https://arxiv.org/abs/2609.37810) |
-| 41 | [StevenKKXS/SERA](https://github.com/StevenKKXS/SERA) | 7 | [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) |
-| 42 | [labicon/HuGo](https://github.com/labicon/HuGo) | 6 | [HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.30594) |
-| 42 | [neo866626-blip/META-Robot](https://github.com/neo866626-blip/META-Robot) | 6 | [META-Robot: Self-Cognition and Capability Scaling in Agentic Robots](https://arxiv.org/abs/2610.41868) |
-| 42 | [YIFANK/encore](https://github.com/YIFANK/encore) | 6 | [ENCORE: Few-Shot Agentic Discovery of Manipulation Strategies](https://arxiv.org/abs/2609.37359) |
-| 45 | [FangYzzz/FIND](https://github.com/FangYzzz/FIND) | 4 | [Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models](https://arxiv.org/abs/2609.32069) |
-| 45 | [ghadinehme/RoboBuilder](https://github.com/ghadinehme/RoboBuilder) | 4 | [RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop](https://arxiv.org/abs/2611.23855) |
-| 45 | [Robo-Harness/racap](https://github.com/Robo-Harness/racap) | 4 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) |
-| 48 | [midea-ai/ars](https://github.com/midea-ai/ars) | 3 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) |
-| 48 | [MIT-CLEAR-Lab/FLEX](https://github.com/MIT-CLEAR-Lab/FLEX) | 3 | [Flexible Language-Guided Representation Editing for Adaptive Robot Behavior](https://arxiv.org/abs/2610.28893) |
-| 48 | [PhysRSI-Eval/PhysRSI-Eval-code](https://github.com/PhysRSI-Eval/PhysRSI-Eval-code) | 3 | [Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy](https://arxiv.org/abs/2610.26848) |
-| 51 | [boweili666/ARSTAG](https://github.com/boweili666/ARSTAG) | 2 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) |
-| 51 | [Denghaoyuan123/Dynaharness_page](https://github.com/Denghaoyuan123/Dynaharness_page) | 2 | [DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306) |
-| 51 | [Jaraxxus-Me/ReSYNC](https://github.com/Jaraxxus-Me/ReSYNC) | 2 | [Recover, Discover, Plan: Learning Skills and Concepts from Robot Failures](https://arxiv.org/abs/2606.18328) |
-| 54 | [acerobotics2025/ACE-CaP](https://github.com/acerobotics2025/ACE-CaP) | 1 | [ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience](https://arxiv.org/abs/2611.16872) |
-| 54 | [adeeb10abbas/weightsmith](https://github.com/adeeb10abbas/weightsmith) | 1 | [Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading](https://arxiv.org/abs/2611.11894) |
-| 54 | [dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning](https://github.com/dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning) | 1 | [UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning](https://arxiv.org/abs/2610.03620) |
-| 54 | [Innovationlzc/CoEvolve](https://github.com/Innovationlzc/CoEvolve) | 1 | [CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots](https://arxiv.org/abs/2610.23288) |
-| 54 | [MAGMA-rob/magma-gen](https://github.com/MAGMA-rob/magma-gen) | 1 | [MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution](https://arxiv.org/abs/2609.20056) |
-| 54 | [Orillusion/embodied-skill-rsi](https://github.com/Orillusion/embodied-skill-rsi) | 1 | [Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds](https://arxiv.org/abs/2610.25114) |
-| 54 | [sygkounas/MEMENTO](https://github.com/sygkounas/MEMENTO) | 1 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) |
-| 54 | [youwyu/FOSA](https://github.com/youwyu/FOSA) | 1 | [Generative Flow on Symbolic Abstractions for Embodiment Capability Discovery](https://arxiv.org/abs/2610.17174) |
-| 54 | [zju3dv/RoboRecast](https://github.com/zju3dv/RoboRecast) | 1 | [RoboRecast: Intent-Preserving Demonstration Augmentation via Diagnosis-Driven Optimization](https://arxiv.org/abs/2611.32622) |
-| 63 | [BerkeleyAutomation/flipanything](https://github.com/BerkeleyAutomation/flipanything) | 0 | [Flip Anything with Agentic Robotics Self-Learning](https://arxiv.org/abs/2611.11941) |
-| 63 | [cue-dynamics/cue-dynamics.github.io](https://github.com/cue-dynamics/cue-dynamics.github.io) | 0 | [Closing the Dynamics Gap through Self-Directed Robotic Interaction](https://arxiv.org/abs/2611.02691) |
-| 63 | [daiguangzhao/NavRSI](https://github.com/daiguangzhao/NavRSI) | 0 | [NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation](https://arxiv.org/abs/2611.27499) |
-| 63 | [elicited-preconditions/reap](https://github.com/elicited-preconditions/reap) | 0 | [REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback](https://arxiv.org/abs/2610.23973) |
-| 63 | [EmbodiedCity/MAWAM](https://github.com/EmbodiedCity/MAWAM) | 0 | [MAWAM: Joint Imagination for Collaborative Robot Manipulation with a Multi-Agent World Action Model](https://arxiv.org/abs/2611.29501) |
-| 63 | [EmbodiedStudio/embodiedstudio.github.io](https://github.com/EmbodiedStudio/embodiedstudio.github.io) | 0 | [EmbodiedStudio: A Task-Driven Simulation Generation Platform for Embodied Learning and Evaluation](https://arxiv.org/abs/2611.32534) |
-| 63 | [etmcode-bit/etmcode-bit.github.io](https://github.com/etmcode-bit/etmcode-bit.github.io) | 0 | [Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) |
-| 63 | [EvoTER-Project/evoter-project.github.io](https://github.com/EvoTER-Project/evoter-project.github.io) | 0 | [EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection](https://arxiv.org/abs/2611.27797) |
-| 63 | [gta2-project/GTA-2](https://github.com/gta2-project/GTA-2) | 0 | [GTA-2: A Multi-VLM Framework for Synthesizing Robot Manipulation Skills via Grounded Task Axes](https://arxiv.org/abs/2609.09808) |
-| 63 | [hero-agent/hero-agent.github.io](https://github.com/hero-agent/hero-agent.github.io) | 0 | [Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations](https://arxiv.org/abs/2607.26809) |
-| 63 | [hyangwork01/instagent](https://github.com/hyangwork01/instagent) | 0 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) |
-| 63 | [hyunjung00/emho](https://github.com/hyunjung00/emho) | 0 | [EMHO: EMbodied Agent Harness Optimization via Experience Traces](https://arxiv.org/abs/2610.08432) |
-| 63 | [IIIIQIIII/motio](https://github.com/IIIIQIIII/motio) | 0 | [MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.33446) |
-| 63 | [IRMVLab/TGL](https://github.com/IRMVLab/TGL) | 0 | [Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209) |
-| 63 | [kaipengfang/bapl-agentic-manip](https://github.com/kaipengfang/bapl-agentic-manip) | 0 | [Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation](https://arxiv.org/abs/2611.32238) |
-| 63 | [lemca-robotics/lemca-robotics.github.io](https://github.com/lemca-robotics/lemca-robotics.github.io) | 0 | [LEMCA: LLM-Guided Synthesis of Efficient Mode-Switching Control Architectures](https://arxiv.org/abs/2609.21319) |
-| 63 | [Quinn-Ma/when-validation-stops-learning](https://github.com/Quinn-Ma/when-validation-stops-learning) | 0 | [When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents](https://arxiv.org/abs/2609.10873) |
-| 63 | [RCHI-Lab/gen_phri](https://github.com/RCHI-Lab/gen_phri) | 0 | [GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction](https://arxiv.org/abs/2604.08664) |
-| 63 | [robo-simex/robo-simex.github.io](https://github.com/robo-simex/robo-simex.github.io) | 0 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) |
-| 63 | [RoboReact/RoboReact.github.io](https://github.com/RoboReact/RoboReact.github.io) | 0 | [RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation](https://arxiv.org/abs/2608.03387) |
-| 63 | [rtalwar2/agentic-coding-for-robot-manipulation](https://github.com/rtalwar2/agentic-coding-for-robot-manipulation) | 0 | [Generalizing Manipulation Skills with a Local Coding Agent](https://arxiv.org/abs/2609.26499) |
-| 63 | [scene2demo-anon/scene2demo-anon.github.io](https://github.com/scene2demo-anon/scene2demo-anon.github.io) | 0 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) |
-| 63 | [skill2real/skill2real.github.io](https://github.com/skill2real/skill2real.github.io) | 0 | [Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation](https://arxiv.org/abs/2610.02788) |
-| 63 | [terminators2025/Seed2Scale.github.io](https://github.com/terminators2025/Seed2Scale.github.io) | 0 | [Seed2Scale: A Self-Evolving Data Engine with Parallel Worlds Expansion for Scalable Robot Learning](https://arxiv.org/abs/2603.08260) |
-| 63 | [TouchTwin/touchtwin.github.io](https://github.com/TouchTwin/touchtwin.github.io) | 0 | [TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real](https://arxiv.org/abs/2611.17619) |
-| 63 | [TUWIEN-ASL/V2-STRep](https://github.com/TUWIEN-ASL/V2-STRep) | 0 | [V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos](https://arxiv.org/abs/2609.20582) |
-| 63 | [UFishs/skill_space_shooting_code](https://github.com/UFishs/skill_space_shooting_code) | 0 | [Skill-Space Shooting for Autonomous Robot Policy Improvement](https://arxiv.org/abs/2609.38178) |
-| 63 | [UT-Austin-RobIn/guild2026](https://github.com/UT-Austin-RobIn/guild2026) | 0 | [GUILD: Guided Iterative Data Collection for Imitation Learning](https://arxiv.org/abs/2611.05368) |
-| 63 | [Wisc-HCI/RoboCritics](https://github.com/Wisc-HCI/RoboCritics) | 0 | [RoboCritics: Enabling Reliable End-to-End LLM Robot Programming through Expert-Informed Critics](https://arxiv.org/abs/2603.06842) |
-| 63 | [XilunZhangRobo/robo-cop](https://github.com/XilunZhangRobo/robo-cop) | 0 | [Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) |
-| 63 | [YufengJin/nautilus](https://github.com/YufengJin/nautilus) | 0 | [Nautilus: From One Prompt to Plug-and-Play Robot Learning](https://arxiv.org/abs/2605.11665) |
-| 63 | [ZevinWu/spear-project](https://github.com/ZevinWu/spear-project) | 0 | [SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation](https://arxiv.org/abs/2610.21621) |
-| 63 | [ZhihongCui/REINS](https://github.com/ZhihongCui/REINS) | 0 | [REINS: A Self-Evolving Agent Harness for Real-Time Trajectory Planning](https://arxiv.org/abs/2611.10748) |
+| 32 | [zyjOrz/FineDex](https://github.com/zyjOrz/FineDex) | 13 | [FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation](https://arxiv.org/abs/2611.34884) |
+| 33 | [princeton-prism/veritas](https://github.com/princeton-prism/veritas) | 12 | [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) |
+| 34 | [nature21/RAPID](https://github.com/nature21/RAPID) | 11 | [RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249) |
+| 34 | [open-gigaai/Zero2Skill](https://github.com/open-gigaai/Zero2Skill) | 11 | [Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047) |
+| 36 | [robo-architect/architect-franka](https://github.com/robo-architect/architect-franka) | 10 | [A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784) |
+| 37 | [Ada4321/SkillWeaver](https://github.com/Ada4321/SkillWeaver) | 9 | [SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation](https://arxiv.org/abs/2609.36171) |
+| 37 | [AgenticEI/VISTA](https://github.com/AgenticEI/VISTA) | 9 | [VISTA: Active Exploration for Self-Improvement in Embodied Agents](https://arxiv.org/abs/2610.35051) |
+| 37 | [xuyicheng-zju/ReWeave](https://github.com/xuyicheng-zju/ReWeave) | 9 | [ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation](https://arxiv.org/abs/2611.31053) |
+| 37 | [ZERITH-ZLab/ESI](https://github.com/ZERITH-ZLab/ESI) | 9 | [ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176) |
+| 41 | [SII-dannyXSC/RoboSkill](https://github.com/SII-dannyXSC/RoboSkill) | 8 | [Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents](https://arxiv.org/abs/2609.37810) |
+| 42 | [StevenKKXS/SERA](https://github.com/StevenKKXS/SERA) | 7 | [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) |
+| 43 | [labicon/HuGo](https://github.com/labicon/HuGo) | 6 | [HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.30594) |
+| 43 | [neo866626-blip/META-Robot](https://github.com/neo866626-blip/META-Robot) | 6 | [META-Robot: Self-Cognition and Capability Scaling in Agentic Robots](https://arxiv.org/abs/2610.41868) |
+| 43 | [YIFANK/encore](https://github.com/YIFANK/encore) | 6 | [ENCORE: Few-Shot Agentic Discovery of Manipulation Strategies](https://arxiv.org/abs/2609.37359) |
+| 46 | [FangYzzz/FIND](https://github.com/FangYzzz/FIND) | 4 | [Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models](https://arxiv.org/abs/2609.32069) |
+| 46 | [ghadinehme/RoboBuilder](https://github.com/ghadinehme/RoboBuilder) | 4 | [RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop](https://arxiv.org/abs/2611.23855) |
+| 46 | [RobbinW/DemoFoundry](https://github.com/RobbinW/DemoFoundry) | 4 | [DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering](https://arxiv.org/abs/2611.34671) |
+| 46 | [Robo-Harness/racap](https://github.com/Robo-Harness/racap) | 4 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) |
+| 50 | [midea-ai/ars](https://github.com/midea-ai/ars) | 3 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) |
+| 50 | [MIT-CLEAR-Lab/FLEX](https://github.com/MIT-CLEAR-Lab/FLEX) | 3 | [Flexible Language-Guided Representation Editing for Adaptive Robot Behavior](https://arxiv.org/abs/2610.28893) |
+| 50 | [PhysRSI-Eval/PhysRSI-Eval-code](https://github.com/PhysRSI-Eval/PhysRSI-Eval-code) | 3 | [Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy](https://arxiv.org/abs/2610.26848) |
+| 53 | [boweili666/ARSTAG](https://github.com/boweili666/ARSTAG) | 2 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) |
+| 53 | [Denghaoyuan123/Dynaharness_page](https://github.com/Denghaoyuan123/Dynaharness_page) | 2 | [DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306) |
+| 53 | [Jaraxxus-Me/ReSYNC](https://github.com/Jaraxxus-Me/ReSYNC) | 2 | [Recover, Discover, Plan: Learning Skills and Concepts from Robot Failures](https://arxiv.org/abs/2606.18328) |
+| 56 | [acerobotics2025/ACE-CaP](https://github.com/acerobotics2025/ACE-CaP) | 1 | [ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience](https://arxiv.org/abs/2611.16872) |
+| 56 | [adeeb10abbas/weightsmith](https://github.com/adeeb10abbas/weightsmith) | 1 | [Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading](https://arxiv.org/abs/2611.11894) |
+| 56 | [dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning](https://github.com/dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning) | 1 | [UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning](https://arxiv.org/abs/2610.03620) |
+| 56 | [Innovationlzc/CoEvolve](https://github.com/Innovationlzc/CoEvolve) | 1 | [CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots](https://arxiv.org/abs/2610.23288) |
+| 56 | [MAGMA-rob/magma-gen](https://github.com/MAGMA-rob/magma-gen) | 1 | [MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution](https://arxiv.org/abs/2609.20056) |
+| 56 | [Orillusion/embodied-skill-rsi](https://github.com/Orillusion/embodied-skill-rsi) | 1 | [Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds](https://arxiv.org/abs/2610.25114) |
+| 56 | [sygkounas/MEMENTO](https://github.com/sygkounas/MEMENTO) | 1 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) |
+| 56 | [youwyu/FOSA](https://github.com/youwyu/FOSA) | 1 | [Generative Flow on Symbolic Abstractions for Embodiment Capability Discovery](https://arxiv.org/abs/2610.17174) |
+| 56 | [zju3dv/RoboRecast](https://github.com/zju3dv/RoboRecast) | 1 | [RoboRecast: Intent-Preserving Demonstration Augmentation via Diagnosis-Driven Optimization](https://arxiv.org/abs/2611.32622) |
+| 65 | [BerkeleyAutomation/flipanything](https://github.com/BerkeleyAutomation/flipanything) | 0 | [Flip Anything with Agentic Robotics Self-Learning](https://arxiv.org/abs/2611.11941) |
+| 65 | [cue-dynamics/cue-dynamics.github.io](https://github.com/cue-dynamics/cue-dynamics.github.io) | 0 | [Closing the Dynamics Gap through Self-Directed Robotic Interaction](https://arxiv.org/abs/2611.02691) |
+| 65 | [daiguangzhao/NavRSI](https://github.com/daiguangzhao/NavRSI) | 0 | [NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation](https://arxiv.org/abs/2611.27499) |
+| 65 | [elicited-preconditions/reap](https://github.com/elicited-preconditions/reap) | 0 | [REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback](https://arxiv.org/abs/2610.23973) |
+| 65 | [EmbodiedCity/MAWAM](https://github.com/EmbodiedCity/MAWAM) | 0 | [MAWAM: Joint Imagination for Collaborative Robot Manipulation with a Multi-Agent World Action Model](https://arxiv.org/abs/2611.29501) |
+| 65 | [EmbodiedStudio/embodiedstudio.github.io](https://github.com/EmbodiedStudio/embodiedstudio.github.io) | 0 | [EmbodiedStudio: A Task-Driven Simulation Generation Platform for Embodied Learning and Evaluation](https://arxiv.org/abs/2611.32534) |
+| 65 | [etmcode-bit/etmcode-bit.github.io](https://github.com/etmcode-bit/etmcode-bit.github.io) | 0 | [Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) |
+| 65 | [EvoTER-Project/evoter-project.github.io](https://github.com/EvoTER-Project/evoter-project.github.io) | 0 | [EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection](https://arxiv.org/abs/2611.27797) |
+| 65 | [gta2-project/GTA-2](https://github.com/gta2-project/GTA-2) | 0 | [GTA-2: A Multi-VLM Framework for Synthesizing Robot Manipulation Skills via Grounded Task Axes](https://arxiv.org/abs/2609.09808) |
+| 65 | [hero-agent/hero-agent.github.io](https://github.com/hero-agent/hero-agent.github.io) | 0 | [Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations](https://arxiv.org/abs/2607.26809) |
+| 65 | [hyangwork01/instagent](https://github.com/hyangwork01/instagent) | 0 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) |
+| 65 | [hyunjung00/emho](https://github.com/hyunjung00/emho) | 0 | [EMHO: EMbodied Agent Harness Optimization via Experience Traces](https://arxiv.org/abs/2610.08432) |
+| 65 | [IIIIQIIII/motio](https://github.com/IIIIQIIII/motio) | 0 | [MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.33446) |
+| 65 | [IRMVLab/TGL](https://github.com/IRMVLab/TGL) | 0 | [Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209) |
+| 65 | [kaipengfang/bapl-agentic-manip](https://github.com/kaipengfang/bapl-agentic-manip) | 0 | [Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation](https://arxiv.org/abs/2611.32238) |
+| 65 | [lemca-robotics/lemca-robotics.github.io](https://github.com/lemca-robotics/lemca-robotics.github.io) | 0 | [LEMCA: LLM-Guided Synthesis of Efficient Mode-Switching Control Architectures](https://arxiv.org/abs/2609.21319) |
+| 65 | [Quinn-Ma/when-validation-stops-learning](https://github.com/Quinn-Ma/when-validation-stops-learning) | 0 | [When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents](https://arxiv.org/abs/2609.10873) |
+| 65 | [RCHI-Lab/gen_phri](https://github.com/RCHI-Lab/gen_phri) | 0 | [GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction](https://arxiv.org/abs/2604.08664) |
+| 65 | [robo-simex/robo-simex.github.io](https://github.com/robo-simex/robo-simex.github.io) | 0 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) |
+| 65 | [RoboReact/RoboReact.github.io](https://github.com/RoboReact/RoboReact.github.io) | 0 | [RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation](https://arxiv.org/abs/2608.03387) |
+| 65 | [rtalwar2/agentic-coding-for-robot-manipulation](https://github.com/rtalwar2/agentic-coding-for-robot-manipulation) | 0 | [Generalizing Manipulation Skills with a Local Coding Agent](https://arxiv.org/abs/2609.26499) |
+| 65 | [scene2demo-anon/scene2demo-anon.github.io](https://github.com/scene2demo-anon/scene2demo-anon.github.io) | 0 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) |
+| 65 | [skill2real/skill2real.github.io](https://github.com/skill2real/skill2real.github.io) | 0 | [Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation](https://arxiv.org/abs/2610.02788) |
+| 65 | [terminators2025/Seed2Scale.github.io](https://github.com/terminators2025/Seed2Scale.github.io) | 0 | [Seed2Scale: A Self-Evolving Data Engine with Parallel Worlds Expansion for Scalable Robot Learning](https://arxiv.org/abs/2603.08260) |
+| 65 | [TouchTwin/touchtwin.github.io](https://github.com/TouchTwin/touchtwin.github.io) | 0 | [TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real](https://arxiv.org/abs/2611.17619) |
+| 65 | [TUWIEN-ASL/V2-STRep](https://github.com/TUWIEN-ASL/V2-STRep) | 0 | [V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos](https://arxiv.org/abs/2609.20582) |
+| 65 | [UFishs/skill_space_shooting_code](https://github.com/UFishs/skill_space_shooting_code) | 0 | [Skill-Space Shooting for Autonomous Robot Policy Improvement](https://arxiv.org/abs/2609.38178) |
+| 65 | [UT-Austin-RobIn/guild2026](https://github.com/UT-Austin-RobIn/guild2026) | 0 | [GUILD: Guided Iterative Data Collection for Imitation Learning](https://arxiv.org/abs/2611.05368) |
+| 65 | [Wisc-HCI/RoboCritics](https://github.com/Wisc-HCI/RoboCritics) | 0 | [RoboCritics: Enabling Reliable End-to-End LLM Robot Programming through Expert-Informed Critics](https://arxiv.org/abs/2603.06842) |
+| 65 | [XilunZhangRobo/robo-cop](https://github.com/XilunZhangRobo/robo-cop) | 0 | [Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) |
+| 65 | [YufengJin/nautilus](https://github.com/YufengJin/nautilus) | 0 | [Nautilus: From One Prompt to Plug-and-Play Robot Learning](https://arxiv.org/abs/2605.11665) |
+| 65 | [ZevinWu/spear-project](https://github.com/ZevinWu/spear-project) | 0 | [SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation](https://arxiv.org/abs/2610.21621) |
+| 65 | [ZhihongCui/REINS](https://github.com/ZhihongCui/REINS) | 0 | [REINS: A Self-Evolving Agent Harness for Real-Time Trajectory Planning](https://arxiv.org/abs/2611.10748) |
 
 ### Agent Learns to Be Robot
 
-50 of 89 papers matched · 50 repositories.
+50 of 90 papers matched · 50 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
-| 1 | [mit-han-lab/pear](https://github.com/mit-han-lab/pear) | 873 | [Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562) |
-| 2 | [allenai/molmoact2](https://github.com/allenai/molmoact2) | 836 | [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) |
+| 1 | [mit-han-lab/pear](https://github.com/mit-han-lab/pear) | 906 | [Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562) |
+| 2 | [allenai/molmoact2](https://github.com/allenai/molmoact2) | 838 | [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) |
 | 3 | [TeleHuman/PRTS](https://github.com/TeleHuman/PRTS) | 580 | [PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations](https://arxiv.org/abs/2604.27472) |
 | 4 | [hey-cjj/LAW](https://github.com/hey-cjj/LAW) | 218 | [LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence](https://arxiv.org/abs/2610.23334) |
-| 5 | [QwenLM/Qwen-RobotNav](https://github.com/QwenLM/Qwen-RobotNav) | 202 | [Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](https://arxiv.org/abs/2606.18112) |
-| 6 | [ZhuoyangLiu2005/agentic-wam](https://github.com/ZhuoyangLiu2005/agentic-wam) | 193 | [Agentic World Action Model](https://arxiv.org/abs/2610.30136) |
+| 5 | [QwenLM/Qwen-RobotNav](https://github.com/QwenLM/Qwen-RobotNav) | 204 | [Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](https://arxiv.org/abs/2606.18112) |
+| 6 | [ZhuoyangLiu2005/agentic-wam](https://github.com/ZhuoyangLiu2005/agentic-wam) | 196 | [Agentic World Action Model](https://arxiv.org/abs/2610.30136) |
 | 7 | [SJTU-DENG-Lab/WLA](https://github.com/SJTU-DENG-Lab/WLA) | 154 | [World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis](https://arxiv.org/abs/2606.05979) |
-| 8 | [waltstephen/CaPtain](https://github.com/waltstephen/CaPtain) | 136 | [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://arxiv.org/abs/2610.40799) |
+| 8 | [waltstephen/CaPtain](https://github.com/waltstephen/CaPtain) | 138 | [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://arxiv.org/abs/2610.40799) |
 | 9 | [Sage-PhysicalAI/EventVLA](https://github.com/Sage-PhysicalAI/EventVLA) | 86 | [EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies](https://arxiv.org/abs/2606.20092) |
-| 10 | [xinxinliu-ai/AgenticRoboRL](https://github.com/xinxinliu-ai/AgenticRoboRL) | 76 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) |
+| 10 | [xinxinliu-ai/AgenticRoboRL](https://github.com/xinxinliu-ai/AgenticRoboRL) | 78 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) |
 | 11 | [real-stanford/gated-memory-policy](https://github.com/real-stanford/gated-memory-policy) | 67 | [Gated Memory Policy: In-Context Memorization and Adaptation](https://arxiv.org/abs/2604.18933) |
-| 12 | [hdacnw/guava-release](https://github.com/hdacnw/guava-release) | 59 | [Guava: Distilling Frontier VLMs into a Compact Agent through a Robotic Manipulation Harness](https://arxiv.org/abs/2606.18363) |
+| 12 | [hdacnw/guava-release](https://github.com/hdacnw/guava-release) | 61 | [Guava: Distilling Frontier VLMs into a Compact Agent through a Robotic Manipulation Harness](https://arxiv.org/abs/2606.18363) |
 | 13 | [TeleHuman/AssemLM](https://github.com/TeleHuman/AssemLM) | 58 | [AssemLM: A Spatial Reasoning Multimodal Large Language Model for Robotic Assembly](https://arxiv.org/abs/2604.08983) |
 | 14 | [lichy2004/GazeVLA](https://github.com/lichy2004/GazeVLA) | 47 | [GazeVLA: Learning Human Intention for Robotic Manipulation](https://arxiv.org/abs/2604.22615) |
 | 14 | [OpenDriveLab/Compass](https://github.com/OpenDriveLab/Compass) | 47 | [Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos](https://arxiv.org/abs/2611.12087) |
@@ -381,7 +383,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 19 | [luo-yc17/OmniBrain-0](https://github.com/luo-yc17/OmniBrain-0) | 21 | [OmniBrain-0: A Unified Agentic Model for Embodied Intelligence](https://arxiv.org/abs/2610.36013) |
 | 20 | [kallol-saha/DISCO](https://github.com/kallol-saha/DISCO) | 19 | [Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions](https://arxiv.org/abs/2610.25785) |
 | 20 | [OpenDriveLab/NativeMEM](https://github.com/OpenDriveLab/NativeMEM) | 19 | [NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2607.06678) |
-| 22 | [Garfield-kh/TinyAstral](https://github.com/Garfield-kh/TinyAstral) | 15 | [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) |
+| 22 | [Garfield-kh/TinyAstral](https://github.com/Garfield-kh/TinyAstral) | 16 | [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) |
 | 23 | [dannymcy/cyclevla_code](https://github.com/dannymcy/cyclevla_code) | 14 | [CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding](https://arxiv.org/abs/2601.02295) |
 | 23 | [gxyes/MARS_Chameleon](https://github.com/gxyes/MARS_Chameleon) | 14 | [Chameleon: Control-Indexed Prospective Memory for Visuomotor Manipulation](https://arxiv.org/abs/2603.24576) |
 | 25 | [AR-WAM/AR-WAM](https://github.com/AR-WAM/AR-WAM) | 13 | [AR-WAM: A Visual-Conditioned Agent-Ready World Action Model for Robotic Manipulation](https://arxiv.org/abs/2609.23578) |
@@ -392,8 +394,8 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 30 | [NEBULIS-Lab/VLA-Fabric](https://github.com/NEBULIS-Lab/VLA-Fabric) | 7 | [VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents](https://arxiv.org/abs/2610.23018) |
 | 30 | [qft-333/FM-VLA](https://github.com/qft-333/FM-VLA) | 7 | [FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) |
 | 32 | [robbyant-research/LHNav](https://github.com/robbyant-research/LHNav) | 6 | [LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data](https://arxiv.org/abs/2611.12136) |
-| 33 | [HaoyunT/Thinkwam](https://github.com/HaoyunT/Thinkwam) | 5 | [ThinkWAM: Rethinking Latent Futures for Action Refinement](https://arxiv.org/abs/2611.21258) |
-| 33 | [Yongwei-Zhang/KeyMemVLA](https://github.com/Yongwei-Zhang/KeyMemVLA) | 5 | [KeyMemVLA: Subtask-Guided Key Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2611.32081) |
+| 32 | [Yongwei-Zhang/KeyMemVLA](https://github.com/Yongwei-Zhang/KeyMemVLA) | 6 | [KeyMemVLA: Subtask-Guided Key Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2611.32081) |
+| 34 | [HaoyunT/Thinkwam](https://github.com/HaoyunT/Thinkwam) | 5 | [ThinkWAM: Rethinking Latent Futures for Action Refinement](https://arxiv.org/abs/2611.21258) |
 | 35 | [AIRLab-POLIMI/multimodal-BT](https://github.com/AIRLab-POLIMI/multimodal-BT) | 4 | [Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning](https://arxiv.org/abs/2603.06084) |
 | 35 | [CostaliyA/DualVLA](https://github.com/CostaliyA/DualVLA) | 4 | [DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action](https://arxiv.org/abs/2511.22134) |
 | 37 | [leggedrobotics/multi_robot_global_planner](https://github.com/leggedrobotics/multi_robot_global_planner) | 2 | [Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO](https://arxiv.org/abs/2604.01213) |
@@ -415,70 +417,70 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Manipulation
 
-220 of 381 papers matched · 219 repositories.
+222 of 391 papers matched · 221 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
-| 1 | [PhyAgentOS/PhyAgentOS-core](https://github.com/PhyAgentOS/PhyAgentOS-core) | 3,020 | [PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution](https://arxiv.org/abs/2607.16636) |
-| 2 | [RLinf/RPent](https://github.com/RLinf/RPent) | 1,811 | [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) |
+| 1 | [PhyAgentOS/PhyAgentOS-core](https://github.com/PhyAgentOS/PhyAgentOS-core) | 3,023 | [PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution](https://arxiv.org/abs/2607.16636) |
+| 2 | [RLinf/RPent](https://github.com/RLinf/RPent) | 1,818 | [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) |
 | 3 | [air-embodied-brain/Zetta-Embodiment](https://github.com/air-embodied-brain/Zetta-Embodiment) | 1,333 | [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) |
-| 4 | [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 1,073 | [ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272) |
-| 5 | [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) | 958 | [RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434) |
-| 6 | [capgym/cap-x](https://github.com/capgym/cap-x) | 947 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
-| 7 | [mit-han-lab/pear](https://github.com/mit-han-lab/pear) | 873 | [Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562) |
-| 8 | [allenai/molmoact2](https://github.com/allenai/molmoact2) | 836 | [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) |
-| 9 | [showlab/Show-Harness](https://github.com/showlab/Show-Harness) | 649 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) |
+| 4 | [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 1,078 | [ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272) |
+| 5 | [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) | 960 | [RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434) |
+| 6 | [capgym/cap-x](https://github.com/capgym/cap-x) | 949 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) |
+| 7 | [mit-han-lab/pear](https://github.com/mit-han-lab/pear) | 906 | [Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562) |
+| 8 | [allenai/molmoact2](https://github.com/allenai/molmoact2) | 838 | [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) |
+| 9 | [showlab/Show-Harness](https://github.com/showlab/Show-Harness) | 651 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) |
 | 10 | [TeleHuman/PRTS](https://github.com/TeleHuman/PRTS) | 580 | [PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations](https://arxiv.org/abs/2604.27472) |
-| 11 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | 530 | [Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560) |
-| 12 | [NVlabs/sage](https://github.com/NVlabs/sage) | 449 | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) |
-| 13 | [jushengzhang/robot-weight-debugging](https://github.com/jushengzhang/robot-weight-debugging) | 439 | [Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376) |
-| 14 | [HexaFuture/HexaShell](https://github.com/HexaFuture/HexaShell) | 398 | [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) |
-| 15 | [ArcheOne-AI/RoboScript](https://github.com/ArcheOne-AI/RoboScript) | 390 | [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) |
-| 16 | [NVlabs/ENPIRE](https://github.com/NVlabs/ENPIRE) | 378 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) |
-| 17 | [robot-agent-exploration/rax](https://github.com/robot-agent-exploration/rax) | 376 | [Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) |
-| 18 | [mll-lab-nu/embodied-first-exam](https://github.com/mll-lab-nu/embodied-first-exam) | 323 | [Embodied First Exam](https://arxiv.org/abs/2611.12177) |
-| 19 | [RoboProbe/RoboProbe](https://github.com/RoboProbe/RoboProbe) | 320 | [An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/abs/2609.24170) |
-| 20 | [DAGroup-PKU/PyRUA-Lean](https://github.com/DAGroup-PKU/PyRUA-Lean) | 286 | [Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success but 65% Fewer Tokens](https://arxiv.org/abs/2610.01939)<br>[PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://arxiv.org/abs/2611.05320) |
+| 11 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | 536 | [Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560) |
+| 12 | [jushengzhang/robot-weight-debugging](https://github.com/jushengzhang/robot-weight-debugging) | 467 | [Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376) |
+| 13 | [NVlabs/sage](https://github.com/NVlabs/sage) | 449 | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) |
+| 14 | [ArcheOne-AI/RoboScript](https://github.com/ArcheOne-AI/RoboScript) | 403 | [World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885) |
+| 15 | [HexaFuture/HexaShell](https://github.com/HexaFuture/HexaShell) | 402 | [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) |
+| 16 | [robot-agent-exploration/rax](https://github.com/robot-agent-exploration/rax) | 381 | [Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) |
+| 17 | [NVlabs/ENPIRE](https://github.com/NVlabs/ENPIRE) | 377 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) |
+| 18 | [mll-lab-nu/embodied-first-exam](https://github.com/mll-lab-nu/embodied-first-exam) | 328 | [Embodied First Exam](https://arxiv.org/abs/2611.12177) |
+| 19 | [RoboProbe/RoboProbe](https://github.com/RoboProbe/RoboProbe) | 325 | [An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/abs/2609.24170) |
+| 20 | [DAGroup-PKU/PyRUA-Lean](https://github.com/DAGroup-PKU/PyRUA-Lean) | 296 | [Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success but 65% Fewer Tokens](https://arxiv.org/abs/2610.01939)<br>[PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://arxiv.org/abs/2611.05320) |
 | 21 | [haoyangli16/PhysMem](https://github.com/haoyangli16/PhysMem) | 267 | [PhysMem: Scaling Test-Time Memory for Embodied Physical Reasoning](https://arxiv.org/abs/2602.20323) |
 | 22 | [buoyancy99/large-video-planner](https://github.com/buoyancy99/large-video-planner) | 265 | [Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840) |
 | 23 | [ZJU4EmbodiedAI/EmbodiedSkills](https://github.com/ZJU4EmbodiedAI/EmbodiedSkills) | 247 | [EmbodiedSkills: World Action Model-augmented Cascaded Skills for Vision-Language-Action Agent](https://arxiv.org/abs/2609.01281) |
-| 24 | [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | 232 | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) |
-| 25 | [graph-robots/graph-as-policy](https://github.com/graph-robots/graph-as-policy) | 225 | [A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics](https://arxiv.org/abs/2611.09030) |
+| 24 | [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | 233 | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) |
+| 25 | [graph-robots/graph-as-policy](https://github.com/graph-robots/graph-as-policy) | 226 | [A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics](https://arxiv.org/abs/2611.09030) |
 | 26 | [OpenMOSS/OpenETA](https://github.com/OpenMOSS/OpenETA) | 221 | [ETA: A New Agentic Paradigm for Embodied Tasks](https://arxiv.org/abs/2608.03924) |
 | 27 | [hey-cjj/LAW](https://github.com/hey-cjj/LAW) | 218 | [LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence](https://arxiv.org/abs/2610.23334) |
-| 28 | [RoboMME/robomme_benchmark](https://github.com/RoboMME/robomme_benchmark) | 201 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://arxiv.org/abs/2603.04639) |
-| 29 | [EmbodiedSWE/EmbodiedSWE](https://github.com/EmbodiedSWE/EmbodiedSWE) | 198 | [EMBODIEDSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) |
-| 30 | [ZhuoyangLiu2005/agentic-wam](https://github.com/ZhuoyangLiu2005/agentic-wam) | 193 | [Agentic World Action Model](https://arxiv.org/abs/2610.30136) |
+| 28 | [RoboMME/robomme_benchmark](https://github.com/RoboMME/robomme_benchmark) | 202 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://arxiv.org/abs/2603.04639) |
+| 29 | [EmbodiedSWE/EmbodiedSWE](https://github.com/EmbodiedSWE/EmbodiedSWE) | 200 | [EMBODIEDSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) |
+| 30 | [ZhuoyangLiu2005/agentic-wam](https://github.com/ZhuoyangLiu2005/agentic-wam) | 196 | [Agentic World Action Model](https://arxiv.org/abs/2610.30136) |
 | 31 | [RoboClaw-Robotics/RoboClaw](https://github.com/RoboClaw-Robotics/RoboClaw) | 173 | [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://arxiv.org/abs/2603.11558) |
 | 32 | [OpenHelix-Team/RoboMemArena](https://github.com/OpenHelix-Team/RoboMemArena) | 164 | [RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921) |
-| 33 | [SJTU-DENG-Lab/WLA](https://github.com/SJTU-DENG-Lab/WLA) | 154 | [World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis](https://arxiv.org/abs/2606.05979) |
-| 34 | [Sage-PhysicalAI/EBench](https://github.com/Sage-PhysicalAI/EBench) | 152 | [Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy](https://arxiv.org/abs/2610.35832) |
-| 35 | [CognitiveAISystems/MIKASA-Robo](https://github.com/CognitiveAISystems/MIKASA-Robo) | 146 | [MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation](https://arxiv.org/abs/2610.00604) |
-| 35 | [Playful-RATs/RATs](https://github.com/Playful-RATs/RATs) | 146 | [Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) |
-| 37 | [waltstephen/CaPtain](https://github.com/waltstephen/CaPtain) | 136 | [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://arxiv.org/abs/2610.40799) |
-| 38 | [apple-aiml-research/ml-amp](https://github.com/apple-aiml-research/ml-amp) | 124 | [On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892) |
+| 33 | [apple-aiml-research/ml-amp](https://github.com/apple-aiml-research/ml-amp) | 160 | [On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892) |
+| 34 | [SJTU-DENG-Lab/WLA](https://github.com/SJTU-DENG-Lab/WLA) | 154 | [World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis](https://arxiv.org/abs/2606.05979) |
+| 35 | [Sage-PhysicalAI/EBench](https://github.com/Sage-PhysicalAI/EBench) | 152 | [Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy](https://arxiv.org/abs/2610.35832) |
+| 36 | [CognitiveAISystems/MIKASA-Robo](https://github.com/CognitiveAISystems/MIKASA-Robo) | 146 | [MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation](https://arxiv.org/abs/2610.00604) |
+| 36 | [Playful-RATs/RATs](https://github.com/Playful-RATs/RATs) | 146 | [Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) |
+| 38 | [waltstephen/CaPtain](https://github.com/waltstephen/CaPtain) | 138 | [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://arxiv.org/abs/2610.40799) |
 | 39 | [Motor-Mind/MotorMind-Code](https://github.com/Motor-Mind/MotorMind-Code) | 121 | [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://arxiv.org/abs/2609.38078) |
 | 40 | [TOPReward/TOPReward](https://github.com/TOPReward/TOPReward) | 120 | [TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://arxiv.org/abs/2602.19313) |
-| 41 | [Einsia/EmbodiedEvo](https://github.com/Einsia/EmbodiedEvo) | 99 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) |
+| 41 | [Einsia/EmbodiedEvo](https://github.com/Einsia/EmbodiedEvo) | 101 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) |
 | 42 | [Sage-PhysicalAI/Cortex](https://github.com/Sage-PhysicalAI/Cortex) | 90 | [Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](https://arxiv.org/abs/2607.05377) |
 | 43 | [Sage-PhysicalAI/EventVLA](https://github.com/Sage-PhysicalAI/EventVLA) | 86 | [EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies](https://arxiv.org/abs/2606.20092) |
 | 44 | [lianegalanti/Pigey](https://github.com/lianegalanti/Pigey) | 82 | [Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725) |
 | 45 | [NVlabs/VoLoAgent](https://github.com/NVlabs/VoLoAgent) | 80 | [VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation](https://arxiv.org/abs/2606.07723) |
-| 46 | [terminalworld/OpenRUA](https://github.com/terminalworld/OpenRUA) | 78 | [OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies](https://arxiv.org/abs/2610.02459) |
-| 47 | [swirl-uk/BiGym2](https://github.com/swirl-uk/BiGym2) | 77 | [BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation](https://arxiv.org/abs/2610.07594) |
-| 48 | [EDEM-AI/AgentChord](https://github.com/EDEM-AI/AgentChord) | 76 | [From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation](https://arxiv.org/abs/2605.11951) |
-| 48 | [xinxinliu-ai/AgenticRoboRL](https://github.com/xinxinliu-ai/AgenticRoboRL) | 76 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) |
+| 46 | [terminalworld/OpenRUA](https://github.com/terminalworld/OpenRUA) | 79 | [OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies](https://arxiv.org/abs/2610.02459) |
+| 47 | [swirl-uk/BiGym2](https://github.com/swirl-uk/BiGym2) | 78 | [BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation](https://arxiv.org/abs/2610.07594) |
+| 47 | [xinxinliu-ai/AgenticRoboRL](https://github.com/xinxinliu-ai/AgenticRoboRL) | 78 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) |
+| 49 | [EDEM-AI/AgentChord](https://github.com/EDEM-AI/AgentChord) | 76 | [From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation](https://arxiv.org/abs/2605.11951) |
 | 50 | [real-stanford/gated-memory-policy](https://github.com/real-stanford/gated-memory-policy) | 67 | [Gated Memory Policy: In-Context Memorization and Adaptation](https://arxiv.org/abs/2604.18933) |
-| 51 | [dexagent1/DexAgent](https://github.com/dexagent1/DexAgent) | 60 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) |
-| 52 | [hdacnw/guava-release](https://github.com/hdacnw/guava-release) | 59 | [Guava: Distilling Frontier VLMs into a Compact Agent through a Robotic Manipulation Harness](https://arxiv.org/abs/2606.18363) |
+| 51 | [hdacnw/guava-release](https://github.com/hdacnw/guava-release) | 61 | [Guava: Distilling Frontier VLMs into a Compact Agent through a Robotic Manipulation Harness](https://arxiv.org/abs/2606.18363) |
+| 52 | [dexagent1/DexAgent](https://github.com/dexagent1/DexAgent) | 60 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) |
+| 53 | [agent-as-policy-2026/agent-as-policy](https://github.com/agent-as-policy-2026/agent-as-policy) | 58 | [Agent as Policy for Robotic Manipulation](https://arxiv.org/abs/2609.12541) |
 | 53 | [TeleHuman/AssemLM](https://github.com/TeleHuman/AssemLM) | 58 | [AssemLM: A Spatial Reasoning Multimodal Large Language Model for Robotic Assembly](https://arxiv.org/abs/2604.08983) |
-| 54 | [agent-as-policy-2026/agent-as-policy](https://github.com/agent-as-policy-2026/agent-as-policy) | 57 | [Agent as Policy for Robotic Manipulation](https://arxiv.org/abs/2609.12541) |
 | 55 | [showlab/ForceHarness](https://github.com/showlab/ForceHarness) | 54 | [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](https://arxiv.org/abs/2611.21099) |
 | 56 | [robofoundry2026/RoboFoundry](https://github.com/robofoundry2026/RoboFoundry) | 48 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) |
 | 57 | [lichy2004/GazeVLA](https://github.com/lichy2004/GazeVLA) | 47 | [GazeVLA: Learning Human Intention for Robotic Manipulation](https://arxiv.org/abs/2604.22615) |
 | 58 | [marmotlab/RL2-VLA](https://github.com/marmotlab/RL2-VLA) | 44 | [RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models](https://arxiv.org/abs/2607.26991) |
-| 59 | [lose4578/Auriga](https://github.com/lose4578/Auriga) | 40 | [Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation](https://arxiv.org/abs/2611.01112) |
-| 59 | [Self-Evolving-Agentic-Robotics/SEAR](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) | 40 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) |
+| 59 | [Self-Evolving-Agentic-Robotics/SEAR](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) | 41 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) |
+| 60 | [lose4578/Auriga](https://github.com/lose4578/Auriga) | 40 | [Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation](https://arxiv.org/abs/2611.01112) |
 | 61 | [liulin815/LIBERO-Recovery](https://github.com/liulin815/LIBERO-Recovery) | 38 | [LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models](https://arxiv.org/abs/2609.05178) |
 | 62 | [bingaochen/Astra-on-RoboMME](https://github.com/bingaochen/Astra-on-RoboMME) | 33 | [Can Astra Solve RoboMME without Breaking the Bank?](https://arxiv.org/abs/2611.06184) |
 | 63 | [No-518/Tactile-ETA](https://github.com/No-518/Tactile-ETA) | 31 | [Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning](https://arxiv.org/abs/2610.27613) |
@@ -499,10 +501,10 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 78 | [openretriever/retriever](https://github.com/openretriever/retriever) | 18 | [Retriever: Composing the Perception-Reasoning-Action Loop for Long-Horizon Manipulation](https://arxiv.org/abs/2607.17213) |
 | 78 | [XiangchengZhang/world-action-planner](https://github.com/XiangchengZhang/world-action-planner) | 18 | [World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models](https://arxiv.org/abs/2607.27599) |
 | 80 | [penn-pal-lab/maestro](https://github.com/penn-pal-lab/maestro) | 17 | [MAESTRO: Orchestrating Robotics Modules with Coding Agents for Zero-Shot Generalist Robots](https://arxiv.org/abs/2511.00917) |
+| 81 | [Garfield-kh/TinyAstral](https://github.com/Garfield-kh/TinyAstral) | 16 | [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) |
+| 81 | [Haaareally/AdaHVLA-Adaptive_Harness_VLA](https://github.com/Haaareally/AdaHVLA-Adaptive_Harness_VLA) | 16 | [AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution](https://arxiv.org/abs/2609.29204) |
 | 81 | [Hoar012/FAR](https://github.com/Hoar012/FAR) | 16 | [FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement](https://arxiv.org/abs/2607.01111) |
-| 82 | [Garfield-kh/TinyAstral](https://github.com/Garfield-kh/TinyAstral) | 15 | [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) |
-| 82 | [Haaareally/AdaHVLA-Adaptive_Harness_VLA](https://github.com/Haaareally/AdaHVLA-Adaptive_Harness_VLA) | 15 | [AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution](https://arxiv.org/abs/2609.29204) |
-| 82 | [markli1hoshipu/RoboHarness](https://github.com/markli1hoshipu/RoboHarness) | 15 | [RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) |
+| 84 | [markli1hoshipu/RoboHarness](https://github.com/markli1hoshipu/RoboHarness) | 15 | [RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) |
 | 85 | [daniilidis-group/OmniGuide](https://github.com/daniilidis-group/OmniGuide) | 14 | [OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies](https://arxiv.org/abs/2603.10052) |
 | 85 | [dannymcy/cyclevla_code](https://github.com/dannymcy/cyclevla_code) | 14 | [CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding](https://arxiv.org/abs/2601.02295) |
 | 85 | [gxyes/MARS_Chameleon](https://github.com/gxyes/MARS_Chameleon) | 14 | [Chameleon: Control-Indexed Prospective Memory for Visuomotor Manipulation](https://arxiv.org/abs/2603.24576) |
@@ -511,150 +513,152 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 85 | [yu2hi13/RoboStream](https://github.com/yu2hi13/RoboStream) | 14 | [RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://arxiv.org/abs/2603.12939) |
 | 91 | [AR-WAM/AR-WAM](https://github.com/AR-WAM/AR-WAM) | 13 | [AR-WAM: A Visual-Conditioned Agent-Ready World Action Model for Robotic Manipulation](https://arxiv.org/abs/2609.23578) |
 | 91 | [Winniechen2002/Embodied-Playground](https://github.com/Winniechen2002/Embodied-Playground) | 13 | [Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning](https://arxiv.org/abs/2610.27039) |
-| 93 | [AIGeeksGroup/JEPA4R](https://github.com/AIGeeksGroup/JEPA4R) | 12 | [JEPA4R: Embodied JEPA World Models with 4D Point Planning](https://arxiv.org/abs/2611.19771) |
-| 93 | [aipixel/MaP-WAM](https://github.com/aipixel/MaP-WAM) | 12 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](https://arxiv.org/abs/2609.11561) |
-| 93 | [princeton-prism/veritas](https://github.com/princeton-prism/veritas) | 12 | [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) |
-| 96 | [declare-lab/MemBodied](https://github.com/declare-lab/MemBodied) | 11 | [MemBodied: Recurrent Associative Memory for Vision-Language-Action Models](https://arxiv.org/abs/2609.28256) |
-| 96 | [FastHarness/fast-harness](https://github.com/FastHarness/fast-harness) | 11 | [FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies](https://arxiv.org/abs/2610.31427) |
-| 96 | [hengyuan-hu/via](https://github.com/hengyuan-hu/via) | 11 | [VIA: Visual Interface Agent for Robot Control](https://arxiv.org/abs/2607.11119) |
-| 96 | [IRVLUTD/LLM_LIBERO](https://github.com/IRVLUTD/LLM_LIBERO) | 11 | [From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks](https://arxiv.org/abs/2610.30051) |
-| 96 | [nature21/RAPID](https://github.com/nature21/RAPID) | 11 | [RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249) |
-| 96 | [open-gigaai/Zero2Skill](https://github.com/open-gigaai/Zero2Skill) | 11 | [Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047) |
-| 96 | [UMass-Embodied-AGI/RoboWits](https://github.com/UMass-Embodied-AGI/RoboWits) | 11 | [RoboWits: Unexpected Challenges for Robotic Creative Problem Solving](https://arxiv.org/abs/2605.30326) |
-| 103 | [InfRec-Cardinal/REA](https://github.com/InfRec-Cardinal/REA) | 10 | [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://arxiv.org/abs/2610.42053) |
-| 103 | [PKU-VaLuE-Lab/MomentMem](https://github.com/PKU-VaLuE-Lab/MomentMem) | 10 | [MomentMem: Memorizing Key Moments for Robot Manipulation](https://arxiv.org/abs/2611.26745) |
-| 103 | [robo-architect/architect-franka](https://github.com/robo-architect/architect-franka) | 10 | [A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784) |
-| 106 | [Ada4321/SkillWeaver](https://github.com/Ada4321/SkillWeaver) | 9 | [SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation](https://arxiv.org/abs/2609.36171) |
-| 106 | [AgenticEI/ParallelWorld](https://github.com/AgenticEI/ParallelWorld) | 9 | [ParallelWorld: Test-Time Scaling for Agentic Embodied Reasoning](https://arxiv.org/abs/2608.22971) |
-| 106 | [AgenticEI/VISTA](https://github.com/AgenticEI/VISTA) | 9 | [VISTA: Active Exploration for Self-Improvement in Embodied Agents](https://arxiv.org/abs/2610.35051) |
-| 106 | [robotuse-team/RobotUse](https://github.com/robotuse-team/RobotUse) | 9 | [RobotUse: Allocating Computation, Context, and Decisions](https://arxiv.org/abs/2610.04929) |
-| 106 | [tsudalab/WetRobo](https://github.com/tsudalab/WetRobo) | 9 | [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) |
-| 106 | [xuyicheng-zju/ReWeave](https://github.com/xuyicheng-zju/ReWeave) | 9 | [ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation](https://arxiv.org/abs/2611.31053) |
-| 106 | [ZERITH-ZLab/ESI](https://github.com/ZERITH-ZLab/ESI) | 9 | [ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176) |
-| 113 | [BerkeleyAutomation/VABAR](https://github.com/BerkeleyAutomation/VABAR) | 8 | [VABAR: A Variational Automation Benchmark for Agentic Robotics](https://arxiv.org/abs/2611.06881) |
-| 113 | [SII-dannyXSC/RoboSkill](https://github.com/SII-dannyXSC/RoboSkill) | 8 | [Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents](https://arxiv.org/abs/2609.37810) |
-| 113 | [ZefanW/JustRUA](https://github.com/ZefanW/JustRUA) | 8 | [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://arxiv.org/abs/2611.16009) |
-| 116 | [LLM4Robot/LLM4Robot-Bench](https://github.com/LLM4Robot/LLM4Robot-Bench) | 7 | [LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark](https://arxiv.org/abs/2610.34527) |
-| 116 | [NEBULIS-Lab/VLA-Fabric](https://github.com/NEBULIS-Lab/VLA-Fabric) | 7 | [VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents](https://arxiv.org/abs/2610.23018) |
-| 116 | [qft-333/FM-VLA](https://github.com/qft-333/FM-VLA) | 7 | [FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) |
-| 116 | [StevenKKXS/SERA](https://github.com/StevenKKXS/SERA) | 7 | [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) |
-| 120 | [BWR-hhh/rvicl](https://github.com/BWR-hhh/rvicl) | 6 | [Recursive Video In-Context Learning for Agentic Robot](https://arxiv.org/abs/2610.06843) |
-| 120 | [dzj441/Libero-Agent](https://github.com/dzj441/Libero-Agent) | 6 | [LIBERO-Agent: Evaluating General-Purpose Agents for Direct Embodied Manipulation](https://arxiv.org/abs/2609.39507) |
-| 120 | [YIFANK/encore](https://github.com/YIFANK/encore) | 6 | [ENCORE: Few-Shot Agentic Discovery of Manipulation Strategies](https://arxiv.org/abs/2609.37359) |
-| 123 | [HanZhi306/EmbodiedSkill-Bench](https://github.com/HanZhi306/EmbodiedSkill-Bench) | 5 | [Embodied Skill Bench: Benchmarking How Well Agents with Embodied Skills Perform on Physical Tasks](https://arxiv.org/abs/2610.16238) |
-| 123 | [HaoyunT/Thinkwam](https://github.com/HaoyunT/Thinkwam) | 5 | [ThinkWAM: Rethinking Latent Futures for Action Refinement](https://arxiv.org/abs/2611.21258) |
-| 123 | [jackbjed/embodied-astra-robomme](https://github.com/jackbjed/embodied-astra-robomme) | 5 | [Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?](https://arxiv.org/abs/2610.17350) |
-| 123 | [lyhkk/CodeActionBench](https://github.com/lyhkk/CodeActionBench) | 5 | [CodeActionBench: Evaluating Agentic Code-as-Policy for Embodied Manipulation](https://arxiv.org/abs/2609.33807) |
-| 123 | [NU-IDEAS-Lab/ManiGuard](https://github.com/NU-IDEAS-Lab/ManiGuard) | 5 | [MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation](https://arxiv.org/abs/2608.17386) |
-| 123 | [Yongwei-Zhang/KeyMemVLA](https://github.com/Yongwei-Zhang/KeyMemVLA) | 5 | [KeyMemVLA: Subtask-Guided Key Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2611.32081) |
-| 129 | [Collab-Gen/MEMOBench](https://github.com/Collab-Gen/MEMOBench) | 4 | [MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation](https://arxiv.org/abs/2609.07047) |
-| 129 | [CostaliyA/DualVLA](https://github.com/CostaliyA/DualVLA) | 4 | [DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action](https://arxiv.org/abs/2511.22134) |
-| 129 | [FangYzzz/FIND](https://github.com/FangYzzz/FIND) | 4 | [Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models](https://arxiv.org/abs/2609.32069) |
-| 129 | [iman1234ahmadi/MALLVI](https://github.com/iman1234ahmadi/MALLVI) | 4 | [MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation](https://arxiv.org/abs/2602.16898) |
-| 129 | [NTUMARS/ContactHarness](https://github.com/NTUMARS/ContactHarness) | 4 | [Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation](https://arxiv.org/abs/2611.29377) |
-| 129 | [Robo-Harness/racap](https://github.com/Robo-Harness/racap) | 4 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) |
-| 135 | [1999Lyd/GAMMA](https://github.com/1999Lyd/GAMMA) | 3 | [Gamma: Grounded Multi-Agent Memory with Mechanical Audit for Memory-Intensive Manipulation](https://arxiv.org/abs/2610.12793) |
-| 135 | [bennidict23/memory-clock](https://github.com/bennidict23/memory-clock) | 3 | [Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies](https://arxiv.org/abs/2611.14488) |
-| 135 | [midea-ai/ars](https://github.com/midea-ai/ars) | 3 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) |
-| 135 | [MIT-CLEAR-Lab/FLEX](https://github.com/MIT-CLEAR-Lab/FLEX) | 3 | [Flexible Language-Guided Representation Editing for Adaptive Robot Behavior](https://arxiv.org/abs/2610.28893) |
-| 135 | [PyyWill/ReStruct](https://github.com/PyyWill/ReStruct) | 3 | [Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure](https://arxiv.org/abs/2606.26588) |
-| 135 | [simplearm/SimpleARM](https://github.com/simplearm/SimpleARM) | 3 | [Simple Agentic Memory for Generalist Robot Policies](https://arxiv.org/abs/2609.36595) |
-| 135 | [VinayMohan0409/DexLatentWorld](https://github.com/VinayMohan0409/DexLatentWorld) | 3 | [DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2611.30907) |
-| 142 | [alesspalma/icl_bimanual](https://github.com/alesspalma/icl_bimanual) | 2 | [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](https://arxiv.org/abs/2604.20348) |
-| 142 | [boweili666/ARSTAG](https://github.com/boweili666/ARSTAG) | 2 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) |
-| 142 | [costream-simple/costream](https://github.com/costream-simple/costream) | 2 | [CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation](https://arxiv.org/abs/2606.26423) |
-| 142 | [Denghaoyuan123/Dynaharness_page](https://github.com/Denghaoyuan123/Dynaharness_page) | 2 | [DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306) |
-| 142 | [jiahui-fu/NovaPlan](https://github.com/jiahui-fu/NovaPlan) | 2 | [NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119) |
-| 142 | [LingwuPro/InteractVLA](https://github.com/LingwuPro/InteractVLA) | 2 | [InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation](https://arxiv.org/abs/2611.22584) |
-| 142 | [PAIR-Z-ZENO-LAB/corl-trace](https://github.com/PAIR-Z-ZENO-LAB/corl-trace) | 2 | [TRACE: Trajectory-Routed Causal Memory for Delayed-Evidence Visuomotor Imitation](https://arxiv.org/abs/2606.14551) |
-| 142 | [RoboMLT/Robo-MLT](https://github.com/RoboMLT/Robo-MLT) | 2 | [Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks](https://arxiv.org/abs/2611.13039) |
-| 142 | [SpatialAgentLab/DailyBrick.github.io](https://github.com/SpatialAgentLab/DailyBrick.github.io) | 2 | [DailyBrick: Language-Guided Synthesis of Brick Assembly Instructions](https://arxiv.org/abs/2611.22132) |
-| 142 | [ZihaoLu001/OaP](https://github.com/ZihaoLu001/OaP) | 2 | [Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation](https://arxiv.org/abs/2611.18298) |
-| 152 | [acerobotics2025/ACE-CaP](https://github.com/acerobotics2025/ACE-CaP) | 1 | [ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience](https://arxiv.org/abs/2611.16872) |
-| 152 | [adeeb10abbas/weightsmith](https://github.com/adeeb10abbas/weightsmith) | 1 | [Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading](https://arxiv.org/abs/2611.11894) |
-| 152 | [dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning](https://github.com/dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning) | 1 | [UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning](https://arxiv.org/abs/2610.03620) |
-| 152 | [MAGMA-rob/magma-gen](https://github.com/MAGMA-rob/magma-gen) | 1 | [MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution](https://arxiv.org/abs/2609.20056) |
-| 152 | [physcap/physcap](https://github.com/physcap/physcap) | 1 | [PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration](https://arxiv.org/abs/2608.21031) |
-| 152 | [pm1255/embodied-corrector](https://github.com/pm1255/embodied-corrector) | 1 | [Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction](https://arxiv.org/abs/2611.15651) |
-| 152 | [Spectraorder/geometric-abstraction](https://github.com/Spectraorder/geometric-abstraction) | 1 | [Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action](https://arxiv.org/abs/2611.05058) |
-| 152 | [starrywiki/SOAR](https://github.com/starrywiki/SOAR) | 1 | [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639) |
-| 152 | [surgical-robotics/AGRO-SUVIDE](https://github.com/surgical-robotics/AGRO-SUVIDE) | 1 | [AGRO-SUVIDE: Agentic Robotics for Surgical Viscoelastic Debridement](https://arxiv.org/abs/2609.34823) |
-| 152 | [sygkounas/MEMENTO](https://github.com/sygkounas/MEMENTO) | 1 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) |
-| 152 | [tito02eai/Agentic-RAG-VLM](https://github.com/tito02eai/Agentic-RAG-VLM) | 1 | [Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping](https://arxiv.org/abs/2606.31200) |
-| 152 | [WenzeWWZ123/Agentic-Loop](https://github.com/WenzeWWZ123/Agentic-Loop) | 1 | [A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring](https://arxiv.org/abs/2604.07395) |
-| 152 | [XinGP/MaCoPlanner](https://github.com/XinGP/MaCoPlanner) | 1 | [MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation](https://arxiv.org/abs/2608.28300) |
-| 152 | [zju3dv/RoboRecast](https://github.com/zju3dv/RoboRecast) | 1 | [RoboRecast: Intent-Preserving Demonstration Augmentation via Diagnosis-Driven Optimization](https://arxiv.org/abs/2611.32622) |
-| 166 | [agent-mem-action-model/agent-mem-action-model.github.io](https://github.com/agent-mem-action-model/agent-mem-action-model.github.io) | 0 | [2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation](https://arxiv.org/abs/2609.11308) |
-| 166 | [BerkeleyAutomation/flipanything](https://github.com/BerkeleyAutomation/flipanything) | 0 | [Flip Anything with Agentic Robotics Self-Learning](https://arxiv.org/abs/2611.11941) |
-| 166 | [chrisantuseze/verify2act](https://github.com/chrisantuseze/verify2act) | 0 | [Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans](https://arxiv.org/abs/2611.25243) |
-| 166 | [cue-dynamics/cue-dynamics.github.io](https://github.com/cue-dynamics/cue-dynamics.github.io) | 0 | [Closing the Dynamics Gap through Self-Directed Robotic Interaction](https://arxiv.org/abs/2611.02691) |
-| 166 | [DexHoldem/Dexholdem](https://github.com/DexHoldem/Dexholdem) | 0 | [DexHoldem: An Agentic Robotics Benchmark for Dexterous Manipulation in Texas Hold'em](https://arxiv.org/abs/2605.18727) |
-| 166 | [elicited-preconditions/reap](https://github.com/elicited-preconditions/reap) | 0 | [REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback](https://arxiv.org/abs/2610.23973) |
-| 166 | [EmbodiedCity/MAWAM](https://github.com/EmbodiedCity/MAWAM) | 0 | [MAWAM: Joint Imagination for Collaborative Robot Manipulation with a Multi-Agent World Action Model](https://arxiv.org/abs/2611.29501) |
-| 166 | [EmbodiedStudio/embodiedstudio.github.io](https://github.com/EmbodiedStudio/embodiedstudio.github.io) | 0 | [EmbodiedStudio: A Task-Driven Simulation Generation Platform for Embodied Learning and Evaluation](https://arxiv.org/abs/2611.32534) |
-| 166 | [emilia113/SpatialHarness](https://github.com/emilia113/SpatialHarness) | 0 | [SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation](https://arxiv.org/abs/2610.12457) |
-| 166 | [etmcode-bit/etmcode-bit.github.io](https://github.com/etmcode-bit/etmcode-bit.github.io) | 0 | [Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) |
-| 166 | [EvoTER-Project/evoter-project.github.io](https://github.com/EvoTER-Project/evoter-project.github.io) | 0 | [EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection](https://arxiv.org/abs/2611.27797) |
-| 166 | [Fitz135/thinkingvla](https://github.com/Fitz135/thinkingvla) | 0 | [ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/abs/2606.17937) |
-| 166 | [gta2-project/GTA-2](https://github.com/gta2-project/GTA-2) | 0 | [GTA-2: A Multi-VLM Framework for Synthesizing Robot Manipulation Skills via Grounded Task Axes](https://arxiv.org/abs/2609.09808) |
-| 166 | [hero-agent/hero-agent.github.io](https://github.com/hero-agent/hero-agent.github.io) | 0 | [Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations](https://arxiv.org/abs/2607.26809) |
-| 166 | [human2any/human2any.github.io](https://github.com/human2any/human2any.github.io) | 0 | [Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](https://arxiv.org/abs/2606.28813) |
-| 166 | [intuitive-robots/HALTER](https://github.com/intuitive-robots/HALTER) | 0 | [From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation](https://arxiv.org/abs/2609.19413) |
-| 166 | [IRMVLab/TGL](https://github.com/IRMVLab/TGL) | 0 | [Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209) |
-| 166 | [jadee-dao/direct](https://github.com/jadee-dao/direct) | 0 | [DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](https://arxiv.org/abs/2606.12402) |
-| 166 | [jhlee0619/unstick](https://github.com/jhlee0619/unstick) | 0 | [Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners](https://arxiv.org/abs/2611.25415) |
-| 166 | [kaipengfang/bapl-agentic-manip](https://github.com/kaipengfang/bapl-agentic-manip) | 0 | [Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation](https://arxiv.org/abs/2611.32238) |
-| 166 | [Kchu/BiPOP](https://github.com/Kchu/BiPOP) | 0 | [BiPOP: Partial-Order Planning for Long-Horizon Bimanual Robotic Manipulation](https://arxiv.org/abs/2611.15317) |
-| 166 | [latent-jacobian-steer/latent-jacobian-steer.github.io](https://github.com/latent-jacobian-steer/latent-jacobian-steer.github.io) | 0 | [Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers](https://arxiv.org/abs/2611.27338) |
-| 166 | [LeCompass/LeCompass.github.io](https://github.com/LeCompass/LeCompass.github.io) | 0 | [LeCompass: Task-Level Execution through State-Indexed Interfaces](https://arxiv.org/abs/2611.25679) |
-| 166 | [LHS180/PACE-WM](https://github.com/LHS180/PACE-WM) | 0 | [PACE-WM: Parallel World Modeling with Action History for Visual Planning](https://arxiv.org/abs/2611.27173) |
-| 166 | [lichengxi1/Dualmanip](https://github.com/lichengxi1/Dualmanip) | 0 | [DualManip: Agentic Dynamic Manipulation via Dual-Path Semantic Reasoning and Geometric Adaptation](https://arxiv.org/abs/2609.31112) |
-| 166 | [LigphiDonk/ActMem](https://github.com/LigphiDonk/ActMem) | 0 | [ActMem: From Latent Memory Reasoning to Grounded Robotic Action](https://arxiv.org/abs/2611.25461) |
-| 166 | [Ltankersley15/SK-Zero-Shot-Research](https://github.com/Ltankersley15/SK-Zero-Shot-Research) | 0 | [Embodied Zero-Shot Task Planning via Hardware-Aware LLM-VLM Integration for Grounded Robotic Manipulation](https://arxiv.org/abs/2610.14106) |
-| 166 | [MA0004YU/BrainMem](https://github.com/MA0004YU/BrainMem) | 0 | [BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning](https://arxiv.org/abs/2604.16331) |
-| 166 | [MAGMA-rob/magma-bench](https://github.com/MAGMA-rob/magma-bench) | 0 | [MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures](https://arxiv.org/abs/2610.13534) |
-| 166 | [maniladder-benchmark/maniladder-benchmark.github.io](https://github.com/maniladder-benchmark/maniladder-benchmark.github.io) | 0 | [ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder](https://arxiv.org/abs/2611.16374) |
-| 166 | [MaskHarness-WAM/maskharness-wam.github.io](https://github.com/MaskHarness-WAM/maskharness-wam.github.io) | 0 | [MaskHarness-WAM: Instance-Grounded Harnessing for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2609.19974) |
-| 166 | [memoryvam/memoryvam.github.io](https://github.com/memoryvam/memoryvam.github.io) | 0 | [MemoryVAM: Integrating Memory into Video Action Model for Robot Manipulation](https://arxiv.org/abs/2606.20679) |
-| 166 | [Quinn-Ma/when-validation-stops-learning](https://github.com/Quinn-Ma/when-validation-stops-learning) | 0 | [When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents](https://arxiv.org/abs/2609.10873) |
-| 166 | [reins-robot/reins-robot.github.io](https://github.com/reins-robot/reins-robot.github.io) | 0 | [Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot](https://arxiv.org/abs/2611.16632) |
-| 166 | [rho-robotics/rho-robotics.github.io](https://github.com/rho-robotics/rho-robotics.github.io) | 0 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) |
-| 166 | [robo-simex/robo-simex.github.io](https://github.com/robo-simex/robo-simex.github.io) | 0 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) |
-| 166 | [RoboReact/RoboReact.github.io](https://github.com/RoboReact/RoboReact.github.io) | 0 | [RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation](https://arxiv.org/abs/2608.03387) |
-| 166 | [robotic-reasoner/robotic-reasoner.github.io](https://github.com/robotic-reasoner/robotic-reasoner.github.io) | 0 | [R³: Training Robots to Reason in Natural Language via Reinforcement Learning](https://arxiv.org/abs/2608.26053) |
-| 166 | [rtalwar2/agentic-coding-for-robot-manipulation](https://github.com/rtalwar2/agentic-coding-for-robot-manipulation) | 0 | [Generalizing Manipulation Skills with a Local Coding Agent](https://arxiv.org/abs/2609.26499) |
-| 166 | [scene2demo-anon/scene2demo-anon.github.io](https://github.com/scene2demo-anon/scene2demo-anon.github.io) | 0 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) |
-| 166 | [skill2real/skill2real.github.io](https://github.com/skill2real/skill2real.github.io) | 0 | [Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation](https://arxiv.org/abs/2610.02788) |
-| 166 | [tanoom/forca](https://github.com/tanoom/forca) | 0 | [FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2610.31841) |
-| 166 | [tcouso/Skill-JEPA](https://github.com/tcouso/Skill-JEPA) | 0 | [Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models](https://arxiv.org/abs/2611.26825) |
-| 166 | [TouchTwin/touchtwin.github.io](https://github.com/TouchTwin/touchtwin.github.io) | 0 | [TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real](https://arxiv.org/abs/2611.17619) |
-| 166 | [TPEmist/AionGenos](https://github.com/TPEmist/AionGenos) | 0 | [Externalise the Memory: A Pre-Registered Study of Where an Embodied Agent's Experience Should Live](https://arxiv.org/abs/2610.30478) |
-| 166 | [TUWIEN-ASL/V2-STRep](https://github.com/TUWIEN-ASL/V2-STRep) | 0 | [V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos](https://arxiv.org/abs/2609.20582) |
-| 166 | [UFishs/skill_space_shooting_code](https://github.com/UFishs/skill_space_shooting_code) | 0 | [Skill-Space Shooting for Autonomous Robot Policy Improvement](https://arxiv.org/abs/2609.38178) |
-| 166 | [UT-Austin-RobIn/guild2026](https://github.com/UT-Austin-RobIn/guild2026) | 0 | [GUILD: Guided Iterative Data Collection for Imitation Learning](https://arxiv.org/abs/2611.05368) |
-| 166 | [Wen-HanHsieh/hdh_sim](https://github.com/Wen-HanHsieh/hdh_sim) | 0 | [Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models](https://arxiv.org/abs/2611.14834) |
-| 166 | [XilunZhangRobo/robo-cop](https://github.com/XilunZhangRobo/robo-cop) | 0 | [Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) |
-| 166 | [Xingting-Li/vls](https://github.com/Xingting-Li/vls) | 0 | [VLS: Steering Pretrained Robot Policies via Vision-Language Models](https://arxiv.org/abs/2602.03973) |
-| 166 | [yidouweng/meta-ctrl](https://github.com/yidouweng/meta-ctrl) | 0 | [Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints](https://arxiv.org/abs/2608.22149) |
-| 166 | [ZevinWu/spear-project](https://github.com/ZevinWu/spear-project) | 0 | [SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation](https://arxiv.org/abs/2610.21621) |
-| 166 | [ZYH-Lightyear/world-action-agent](https://github.com/ZYH-Lightyear/world-action-agent) | 0 | [World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal](https://arxiv.org/abs/2609.29964) |
+| 91 | [zyjOrz/FineDex](https://github.com/zyjOrz/FineDex) | 13 | [FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation](https://arxiv.org/abs/2611.34884) |
+| 94 | [AIGeeksGroup/JEPA4R](https://github.com/AIGeeksGroup/JEPA4R) | 12 | [JEPA4R: Embodied JEPA World Models with 4D Point Planning](https://arxiv.org/abs/2611.19771) |
+| 94 | [aipixel/MaP-WAM](https://github.com/aipixel/MaP-WAM) | 12 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](https://arxiv.org/abs/2609.11561) |
+| 94 | [princeton-prism/veritas](https://github.com/princeton-prism/veritas) | 12 | [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) |
+| 97 | [declare-lab/MemBodied](https://github.com/declare-lab/MemBodied) | 11 | [MemBodied: Recurrent Associative Memory for Vision-Language-Action Models](https://arxiv.org/abs/2609.28256) |
+| 97 | [FastHarness/fast-harness](https://github.com/FastHarness/fast-harness) | 11 | [FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies](https://arxiv.org/abs/2610.31427) |
+| 97 | [hengyuan-hu/via](https://github.com/hengyuan-hu/via) | 11 | [VIA: Visual Interface Agent for Robot Control](https://arxiv.org/abs/2607.11119) |
+| 97 | [IRVLUTD/LLM_LIBERO](https://github.com/IRVLUTD/LLM_LIBERO) | 11 | [From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks](https://arxiv.org/abs/2610.30051) |
+| 97 | [nature21/RAPID](https://github.com/nature21/RAPID) | 11 | [RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249) |
+| 97 | [open-gigaai/Zero2Skill](https://github.com/open-gigaai/Zero2Skill) | 11 | [Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047) |
+| 97 | [UMass-Embodied-AGI/RoboWits](https://github.com/UMass-Embodied-AGI/RoboWits) | 11 | [RoboWits: Unexpected Challenges for Robotic Creative Problem Solving](https://arxiv.org/abs/2605.30326) |
+| 104 | [InfRec-Cardinal/REA](https://github.com/InfRec-Cardinal/REA) | 10 | [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://arxiv.org/abs/2610.42053) |
+| 104 | [PKU-VaLuE-Lab/MomentMem](https://github.com/PKU-VaLuE-Lab/MomentMem) | 10 | [MomentMem: Memorizing Key Moments for Robot Manipulation](https://arxiv.org/abs/2611.26745) |
+| 104 | [robo-architect/architect-franka](https://github.com/robo-architect/architect-franka) | 10 | [A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784) |
+| 107 | [Ada4321/SkillWeaver](https://github.com/Ada4321/SkillWeaver) | 9 | [SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation](https://arxiv.org/abs/2609.36171) |
+| 107 | [AgenticEI/ParallelWorld](https://github.com/AgenticEI/ParallelWorld) | 9 | [ParallelWorld: Test-Time Scaling for Agentic Embodied Reasoning](https://arxiv.org/abs/2608.22971) |
+| 107 | [AgenticEI/VISTA](https://github.com/AgenticEI/VISTA) | 9 | [VISTA: Active Exploration for Self-Improvement in Embodied Agents](https://arxiv.org/abs/2610.35051) |
+| 107 | [physcap/physcap](https://github.com/physcap/physcap) | 9 | [PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration](https://arxiv.org/abs/2608.21031) |
+| 107 | [robotuse-team/RobotUse](https://github.com/robotuse-team/RobotUse) | 9 | [RobotUse: Allocating Computation, Context, and Decisions](https://arxiv.org/abs/2610.04929) |
+| 107 | [tsudalab/WetRobo](https://github.com/tsudalab/WetRobo) | 9 | [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) |
+| 107 | [xuyicheng-zju/ReWeave](https://github.com/xuyicheng-zju/ReWeave) | 9 | [ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation](https://arxiv.org/abs/2611.31053) |
+| 107 | [ZERITH-ZLab/ESI](https://github.com/ZERITH-ZLab/ESI) | 9 | [ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176) |
+| 115 | [BerkeleyAutomation/VABAR](https://github.com/BerkeleyAutomation/VABAR) | 8 | [VABAR: A Variational Automation Benchmark for Agentic Robotics](https://arxiv.org/abs/2611.06881) |
+| 115 | [SII-dannyXSC/RoboSkill](https://github.com/SII-dannyXSC/RoboSkill) | 8 | [Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents](https://arxiv.org/abs/2609.37810) |
+| 115 | [ZefanW/JustRUA](https://github.com/ZefanW/JustRUA) | 8 | [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://arxiv.org/abs/2611.16009) |
+| 118 | [LLM4Robot/LLM4Robot-Bench](https://github.com/LLM4Robot/LLM4Robot-Bench) | 7 | [LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark](https://arxiv.org/abs/2610.34527) |
+| 118 | [NEBULIS-Lab/VLA-Fabric](https://github.com/NEBULIS-Lab/VLA-Fabric) | 7 | [VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents](https://arxiv.org/abs/2610.23018) |
+| 118 | [qft-333/FM-VLA](https://github.com/qft-333/FM-VLA) | 7 | [FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) |
+| 118 | [StevenKKXS/SERA](https://github.com/StevenKKXS/SERA) | 7 | [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) |
+| 122 | [BWR-hhh/rvicl](https://github.com/BWR-hhh/rvicl) | 6 | [Recursive Video In-Context Learning for Agentic Robot](https://arxiv.org/abs/2610.06843) |
+| 122 | [dzj441/Libero-Agent](https://github.com/dzj441/Libero-Agent) | 6 | [LIBERO-Agent: Evaluating General-Purpose Agents for Direct Embodied Manipulation](https://arxiv.org/abs/2609.39507) |
+| 122 | [YIFANK/encore](https://github.com/YIFANK/encore) | 6 | [ENCORE: Few-Shot Agentic Discovery of Manipulation Strategies](https://arxiv.org/abs/2609.37359) |
+| 122 | [Yongwei-Zhang/KeyMemVLA](https://github.com/Yongwei-Zhang/KeyMemVLA) | 6 | [KeyMemVLA: Subtask-Guided Key Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2611.32081) |
+| 126 | [HanZhi306/EmbodiedSkill-Bench](https://github.com/HanZhi306/EmbodiedSkill-Bench) | 5 | [Embodied Skill Bench: Benchmarking How Well Agents with Embodied Skills Perform on Physical Tasks](https://arxiv.org/abs/2610.16238) |
+| 126 | [HaoyunT/Thinkwam](https://github.com/HaoyunT/Thinkwam) | 5 | [ThinkWAM: Rethinking Latent Futures for Action Refinement](https://arxiv.org/abs/2611.21258) |
+| 126 | [jackbjed/embodied-astra-robomme](https://github.com/jackbjed/embodied-astra-robomme) | 5 | [Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?](https://arxiv.org/abs/2610.17350) |
+| 126 | [lyhkk/CodeActionBench](https://github.com/lyhkk/CodeActionBench) | 5 | [CodeActionBench: Evaluating Agentic Code-as-Policy for Embodied Manipulation](https://arxiv.org/abs/2609.33807) |
+| 126 | [NU-IDEAS-Lab/ManiGuard](https://github.com/NU-IDEAS-Lab/ManiGuard) | 5 | [MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation](https://arxiv.org/abs/2608.17386) |
+| 131 | [Collab-Gen/MEMOBench](https://github.com/Collab-Gen/MEMOBench) | 4 | [MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation](https://arxiv.org/abs/2609.07047) |
+| 131 | [CostaliyA/DualVLA](https://github.com/CostaliyA/DualVLA) | 4 | [DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action](https://arxiv.org/abs/2511.22134) |
+| 131 | [FangYzzz/FIND](https://github.com/FangYzzz/FIND) | 4 | [Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models](https://arxiv.org/abs/2609.32069) |
+| 131 | [iman1234ahmadi/MALLVI](https://github.com/iman1234ahmadi/MALLVI) | 4 | [MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation](https://arxiv.org/abs/2602.16898) |
+| 131 | [NTUMARS/ContactHarness](https://github.com/NTUMARS/ContactHarness) | 4 | [Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation](https://arxiv.org/abs/2611.29377) |
+| 131 | [RobbinW/DemoFoundry](https://github.com/RobbinW/DemoFoundry) | 4 | [DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering](https://arxiv.org/abs/2611.34671) |
+| 131 | [Robo-Harness/racap](https://github.com/Robo-Harness/racap) | 4 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) |
+| 131 | [VinayMohan0409/DexLatentWorld](https://github.com/VinayMohan0409/DexLatentWorld) | 4 | [DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2611.30907) |
+| 139 | [1999Lyd/GAMMA](https://github.com/1999Lyd/GAMMA) | 3 | [Gamma: Grounded Multi-Agent Memory with Mechanical Audit for Memory-Intensive Manipulation](https://arxiv.org/abs/2610.12793) |
+| 139 | [bennidict23/memory-clock](https://github.com/bennidict23/memory-clock) | 3 | [Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies](https://arxiv.org/abs/2611.14488) |
+| 139 | [LingwuPro/InteractVLA](https://github.com/LingwuPro/InteractVLA) | 3 | [InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation](https://arxiv.org/abs/2611.22584) |
+| 139 | [midea-ai/ars](https://github.com/midea-ai/ars) | 3 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) |
+| 139 | [MIT-CLEAR-Lab/FLEX](https://github.com/MIT-CLEAR-Lab/FLEX) | 3 | [Flexible Language-Guided Representation Editing for Adaptive Robot Behavior](https://arxiv.org/abs/2610.28893) |
+| 139 | [PyyWill/ReStruct](https://github.com/PyyWill/ReStruct) | 3 | [Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure](https://arxiv.org/abs/2606.26588) |
+| 139 | [simplearm/SimpleARM](https://github.com/simplearm/SimpleARM) | 3 | [Simple Agentic Memory for Generalist Robot Policies](https://arxiv.org/abs/2609.36595) |
+| 146 | [alesspalma/icl_bimanual](https://github.com/alesspalma/icl_bimanual) | 2 | [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](https://arxiv.org/abs/2604.20348) |
+| 146 | [boweili666/ARSTAG](https://github.com/boweili666/ARSTAG) | 2 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) |
+| 146 | [costream-simple/costream](https://github.com/costream-simple/costream) | 2 | [CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation](https://arxiv.org/abs/2606.26423) |
+| 146 | [Denghaoyuan123/Dynaharness_page](https://github.com/Denghaoyuan123/Dynaharness_page) | 2 | [DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306) |
+| 146 | [jiahui-fu/NovaPlan](https://github.com/jiahui-fu/NovaPlan) | 2 | [NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119) |
+| 146 | [PAIR-Z-ZENO-LAB/corl-trace](https://github.com/PAIR-Z-ZENO-LAB/corl-trace) | 2 | [TRACE: Trajectory-Routed Causal Memory for Delayed-Evidence Visuomotor Imitation](https://arxiv.org/abs/2606.14551) |
+| 146 | [RoboMLT/Robo-MLT](https://github.com/RoboMLT/Robo-MLT) | 2 | [Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks](https://arxiv.org/abs/2611.13039) |
+| 146 | [SpatialAgentLab/DailyBrick.github.io](https://github.com/SpatialAgentLab/DailyBrick.github.io) | 2 | [DailyBrick: Language-Guided Synthesis of Brick Assembly Instructions](https://arxiv.org/abs/2611.22132) |
+| 146 | [ZihaoLu001/OaP](https://github.com/ZihaoLu001/OaP) | 2 | [Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation](https://arxiv.org/abs/2611.18298) |
+| 155 | [acerobotics2025/ACE-CaP](https://github.com/acerobotics2025/ACE-CaP) | 1 | [ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience](https://arxiv.org/abs/2611.16872) |
+| 155 | [adeeb10abbas/weightsmith](https://github.com/adeeb10abbas/weightsmith) | 1 | [Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading](https://arxiv.org/abs/2611.11894) |
+| 155 | [dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning](https://github.com/dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning) | 1 | [UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning](https://arxiv.org/abs/2610.03620) |
+| 155 | [MAGMA-rob/magma-gen](https://github.com/MAGMA-rob/magma-gen) | 1 | [MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution](https://arxiv.org/abs/2609.20056) |
+| 155 | [pm1255/embodied-corrector](https://github.com/pm1255/embodied-corrector) | 1 | [Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction](https://arxiv.org/abs/2611.15651) |
+| 155 | [Spectraorder/geometric-abstraction](https://github.com/Spectraorder/geometric-abstraction) | 1 | [Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action](https://arxiv.org/abs/2611.05058) |
+| 155 | [starrywiki/SOAR](https://github.com/starrywiki/SOAR) | 1 | [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639) |
+| 155 | [surgical-robotics/AGRO-SUVIDE](https://github.com/surgical-robotics/AGRO-SUVIDE) | 1 | [AGRO-SUVIDE: Agentic Robotics for Surgical Viscoelastic Debridement](https://arxiv.org/abs/2609.34823) |
+| 155 | [sygkounas/MEMENTO](https://github.com/sygkounas/MEMENTO) | 1 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) |
+| 155 | [tito02eai/Agentic-RAG-VLM](https://github.com/tito02eai/Agentic-RAG-VLM) | 1 | [Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping](https://arxiv.org/abs/2606.31200) |
+| 155 | [WenzeWWZ123/Agentic-Loop](https://github.com/WenzeWWZ123/Agentic-Loop) | 1 | [A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring](https://arxiv.org/abs/2604.07395) |
+| 155 | [XinGP/MaCoPlanner](https://github.com/XinGP/MaCoPlanner) | 1 | [MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation](https://arxiv.org/abs/2608.28300) |
+| 155 | [zju3dv/RoboRecast](https://github.com/zju3dv/RoboRecast) | 1 | [RoboRecast: Intent-Preserving Demonstration Augmentation via Diagnosis-Driven Optimization](https://arxiv.org/abs/2611.32622) |
+| 168 | [agent-mem-action-model/agent-mem-action-model.github.io](https://github.com/agent-mem-action-model/agent-mem-action-model.github.io) | 0 | [2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation](https://arxiv.org/abs/2609.11308) |
+| 168 | [BerkeleyAutomation/flipanything](https://github.com/BerkeleyAutomation/flipanything) | 0 | [Flip Anything with Agentic Robotics Self-Learning](https://arxiv.org/abs/2611.11941) |
+| 168 | [chrisantuseze/verify2act](https://github.com/chrisantuseze/verify2act) | 0 | [Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans](https://arxiv.org/abs/2611.25243) |
+| 168 | [cue-dynamics/cue-dynamics.github.io](https://github.com/cue-dynamics/cue-dynamics.github.io) | 0 | [Closing the Dynamics Gap through Self-Directed Robotic Interaction](https://arxiv.org/abs/2611.02691) |
+| 168 | [DexHoldem/Dexholdem](https://github.com/DexHoldem/Dexholdem) | 0 | [DexHoldem: An Agentic Robotics Benchmark for Dexterous Manipulation in Texas Hold'em](https://arxiv.org/abs/2605.18727) |
+| 168 | [elicited-preconditions/reap](https://github.com/elicited-preconditions/reap) | 0 | [REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback](https://arxiv.org/abs/2610.23973) |
+| 168 | [EmbodiedCity/MAWAM](https://github.com/EmbodiedCity/MAWAM) | 0 | [MAWAM: Joint Imagination for Collaborative Robot Manipulation with a Multi-Agent World Action Model](https://arxiv.org/abs/2611.29501) |
+| 168 | [EmbodiedStudio/embodiedstudio.github.io](https://github.com/EmbodiedStudio/embodiedstudio.github.io) | 0 | [EmbodiedStudio: A Task-Driven Simulation Generation Platform for Embodied Learning and Evaluation](https://arxiv.org/abs/2611.32534) |
+| 168 | [emilia113/SpatialHarness](https://github.com/emilia113/SpatialHarness) | 0 | [SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation](https://arxiv.org/abs/2610.12457) |
+| 168 | [etmcode-bit/etmcode-bit.github.io](https://github.com/etmcode-bit/etmcode-bit.github.io) | 0 | [Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) |
+| 168 | [EvoTER-Project/evoter-project.github.io](https://github.com/EvoTER-Project/evoter-project.github.io) | 0 | [EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection](https://arxiv.org/abs/2611.27797) |
+| 168 | [Fitz135/thinkingvla](https://github.com/Fitz135/thinkingvla) | 0 | [ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/abs/2606.17937) |
+| 168 | [gta2-project/GTA-2](https://github.com/gta2-project/GTA-2) | 0 | [GTA-2: A Multi-VLM Framework for Synthesizing Robot Manipulation Skills via Grounded Task Axes](https://arxiv.org/abs/2609.09808) |
+| 168 | [hero-agent/hero-agent.github.io](https://github.com/hero-agent/hero-agent.github.io) | 0 | [Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations](https://arxiv.org/abs/2607.26809) |
+| 168 | [human2any/human2any.github.io](https://github.com/human2any/human2any.github.io) | 0 | [Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](https://arxiv.org/abs/2606.28813) |
+| 168 | [intuitive-robots/HALTER](https://github.com/intuitive-robots/HALTER) | 0 | [From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation](https://arxiv.org/abs/2609.19413) |
+| 168 | [IRMVLab/TGL](https://github.com/IRMVLab/TGL) | 0 | [Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209) |
+| 168 | [jadee-dao/direct](https://github.com/jadee-dao/direct) | 0 | [DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](https://arxiv.org/abs/2606.12402) |
+| 168 | [jhlee0619/unstick](https://github.com/jhlee0619/unstick) | 0 | [Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners](https://arxiv.org/abs/2611.25415) |
+| 168 | [kaipengfang/bapl-agentic-manip](https://github.com/kaipengfang/bapl-agentic-manip) | 0 | [Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation](https://arxiv.org/abs/2611.32238) |
+| 168 | [Kchu/BiPOP](https://github.com/Kchu/BiPOP) | 0 | [BiPOP: Partial-Order Planning for Long-Horizon Bimanual Robotic Manipulation](https://arxiv.org/abs/2611.15317) |
+| 168 | [latent-jacobian-steer/latent-jacobian-steer.github.io](https://github.com/latent-jacobian-steer/latent-jacobian-steer.github.io) | 0 | [Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers](https://arxiv.org/abs/2611.27338) |
+| 168 | [LeCompass/LeCompass.github.io](https://github.com/LeCompass/LeCompass.github.io) | 0 | [LeCompass: Task-Level Execution through State-Indexed Interfaces](https://arxiv.org/abs/2611.25679) |
+| 168 | [LHS180/PACE-WM](https://github.com/LHS180/PACE-WM) | 0 | [PACE-WM: Parallel World Modeling with Action History for Visual Planning](https://arxiv.org/abs/2611.27173) |
+| 168 | [lichengxi1/Dualmanip](https://github.com/lichengxi1/Dualmanip) | 0 | [DualManip: Agentic Dynamic Manipulation via Dual-Path Semantic Reasoning and Geometric Adaptation](https://arxiv.org/abs/2609.31112) |
+| 168 | [LigphiDonk/ActMem](https://github.com/LigphiDonk/ActMem) | 0 | [ActMem: From Latent Memory Reasoning to Grounded Robotic Action](https://arxiv.org/abs/2611.25461) |
+| 168 | [Ltankersley15/SK-Zero-Shot-Research](https://github.com/Ltankersley15/SK-Zero-Shot-Research) | 0 | [Embodied Zero-Shot Task Planning via Hardware-Aware LLM-VLM Integration for Grounded Robotic Manipulation](https://arxiv.org/abs/2610.14106) |
+| 168 | [MA0004YU/BrainMem](https://github.com/MA0004YU/BrainMem) | 0 | [BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning](https://arxiv.org/abs/2604.16331) |
+| 168 | [MAGMA-rob/magma-bench](https://github.com/MAGMA-rob/magma-bench) | 0 | [MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures](https://arxiv.org/abs/2610.13534) |
+| 168 | [maniladder-benchmark/maniladder-benchmark.github.io](https://github.com/maniladder-benchmark/maniladder-benchmark.github.io) | 0 | [ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder](https://arxiv.org/abs/2611.16374) |
+| 168 | [MaskHarness-WAM/maskharness-wam.github.io](https://github.com/MaskHarness-WAM/maskharness-wam.github.io) | 0 | [MaskHarness-WAM: Instance-Grounded Harnessing for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2609.19974) |
+| 168 | [memoryvam/memoryvam.github.io](https://github.com/memoryvam/memoryvam.github.io) | 0 | [MemoryVAM: Integrating Memory into Video Action Model for Robot Manipulation](https://arxiv.org/abs/2606.20679) |
+| 168 | [Quinn-Ma/when-validation-stops-learning](https://github.com/Quinn-Ma/when-validation-stops-learning) | 0 | [When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents](https://arxiv.org/abs/2609.10873) |
+| 168 | [reins-robot/reins-robot.github.io](https://github.com/reins-robot/reins-robot.github.io) | 0 | [Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot](https://arxiv.org/abs/2611.16632) |
+| 168 | [rho-robotics/rho-robotics.github.io](https://github.com/rho-robotics/rho-robotics.github.io) | 0 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) |
+| 168 | [robo-simex/robo-simex.github.io](https://github.com/robo-simex/robo-simex.github.io) | 0 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) |
+| 168 | [RoboReact/RoboReact.github.io](https://github.com/RoboReact/RoboReact.github.io) | 0 | [RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation](https://arxiv.org/abs/2608.03387) |
+| 168 | [robotic-reasoner/robotic-reasoner.github.io](https://github.com/robotic-reasoner/robotic-reasoner.github.io) | 0 | [R³: Training Robots to Reason in Natural Language via Reinforcement Learning](https://arxiv.org/abs/2608.26053) |
+| 168 | [rtalwar2/agentic-coding-for-robot-manipulation](https://github.com/rtalwar2/agentic-coding-for-robot-manipulation) | 0 | [Generalizing Manipulation Skills with a Local Coding Agent](https://arxiv.org/abs/2609.26499) |
+| 168 | [scene2demo-anon/scene2demo-anon.github.io](https://github.com/scene2demo-anon/scene2demo-anon.github.io) | 0 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) |
+| 168 | [skill2real/skill2real.github.io](https://github.com/skill2real/skill2real.github.io) | 0 | [Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation](https://arxiv.org/abs/2610.02788) |
+| 168 | [tanoom/forca](https://github.com/tanoom/forca) | 0 | [FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2610.31841) |
+| 168 | [tcouso/Skill-JEPA](https://github.com/tcouso/Skill-JEPA) | 0 | [Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models](https://arxiv.org/abs/2611.26825) |
+| 168 | [TouchTwin/touchtwin.github.io](https://github.com/TouchTwin/touchtwin.github.io) | 0 | [TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real](https://arxiv.org/abs/2611.17619) |
+| 168 | [TPEmist/AionGenos](https://github.com/TPEmist/AionGenos) | 0 | [Externalise the Memory: A Pre-Registered Study of Where an Embodied Agent's Experience Should Live](https://arxiv.org/abs/2610.30478) |
+| 168 | [TUWIEN-ASL/V2-STRep](https://github.com/TUWIEN-ASL/V2-STRep) | 0 | [V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos](https://arxiv.org/abs/2609.20582) |
+| 168 | [UFishs/skill_space_shooting_code](https://github.com/UFishs/skill_space_shooting_code) | 0 | [Skill-Space Shooting for Autonomous Robot Policy Improvement](https://arxiv.org/abs/2609.38178) |
+| 168 | [UT-Austin-RobIn/guild2026](https://github.com/UT-Austin-RobIn/guild2026) | 0 | [GUILD: Guided Iterative Data Collection for Imitation Learning](https://arxiv.org/abs/2611.05368) |
+| 168 | [Wen-HanHsieh/hdh_sim](https://github.com/Wen-HanHsieh/hdh_sim) | 0 | [Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models](https://arxiv.org/abs/2611.14834) |
+| 168 | [XilunZhangRobo/robo-cop](https://github.com/XilunZhangRobo/robo-cop) | 0 | [Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) |
+| 168 | [Xingting-Li/vls](https://github.com/Xingting-Li/vls) | 0 | [VLS: Steering Pretrained Robot Policies via Vision-Language Models](https://arxiv.org/abs/2602.03973) |
+| 168 | [yidouweng/meta-ctrl](https://github.com/yidouweng/meta-ctrl) | 0 | [Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints](https://arxiv.org/abs/2608.22149) |
+| 168 | [ZevinWu/spear-project](https://github.com/ZevinWu/spear-project) | 0 | [SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation](https://arxiv.org/abs/2610.21621) |
+| 168 | [ZYH-Lightyear/world-action-agent](https://github.com/ZYH-Lightyear/world-action-agent) | 0 | [World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal](https://arxiv.org/abs/2609.29964) |
 
 ### Locomotion & Navigation
 
-65 of 147 papers matched · 65 repositories.
+65 of 148 papers matched · 65 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
 | 1 | [HorizonRobotics/HoloAgent](https://github.com/HorizonRobotics/HoloAgent) | 428 | [HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory](https://arxiv.org/abs/2606.23565) |
 | 2 | [Allenxinn/AgentVLN](https://github.com/Allenxinn/AgentVLN) | 287 | [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670) |
-| 3 | [ZJU-OmniAI/Embodied-Omni](https://github.com/ZJU-OmniAI/Embodied-Omni) | 269 | [Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](https://arxiv.org/abs/2608.17512) |
-| 4 | [zju3dv/SuperNav](https://github.com/zju3dv/SuperNav) | 257 | [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://arxiv.org/abs/2610.12126) |
-| 5 | [QwenLM/Qwen-RobotNav](https://github.com/QwenLM/Qwen-RobotNav) | 202 | [Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](https://arxiv.org/abs/2606.18112) |
-| 6 | [zwandering/SysNav](https://github.com/zwandering/SysNav) | 161 | [SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation](https://arxiv.org/abs/2603.06914) |
+| 3 | [ZJU-OmniAI/Embodied-Omni](https://github.com/ZJU-OmniAI/Embodied-Omni) | 271 | [Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](https://arxiv.org/abs/2608.17512) |
+| 4 | [zju3dv/SuperNav](https://github.com/zju3dv/SuperNav) | 258 | [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://arxiv.org/abs/2610.12126) |
+| 5 | [QwenLM/Qwen-RobotNav](https://github.com/QwenLM/Qwen-RobotNav) | 204 | [Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](https://arxiv.org/abs/2606.18112) |
+| 6 | [zwandering/SysNav](https://github.com/zwandering/SysNav) | 162 | [SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation](https://arxiv.org/abs/2603.06914) |
 | 7 | [Human-CLAW/HumanCLAW](https://github.com/Human-CLAW/HumanCLAW) | 130 | [HumanCLAW: Can Vision-Language Models Act Through a Body?](https://arxiv.org/abs/2607.27180) |
 | 8 | [metacognitionai/NavGPT-3](https://github.com/metacognitionai/NavGPT-3) | 124 | [NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime](https://arxiv.org/abs/2610.10787) |
 | 9 | [Robotics-STAR-Lab/OnFly](https://github.com/Robotics-STAR-Lab/OnFly) | 105 | [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/abs/2603.10682) |
-| 10 | [leggedrobotics/roam](https://github.com/leggedrobotics/roam) | 87 | [Bridging vision-language reasoning and learned control for legged navigation in the wild](https://arxiv.org/abs/2611.25215) |
+| 10 | [leggedrobotics/roam](https://github.com/leggedrobotics/roam) | 93 | [Bridging vision-language reasoning and learned control for legged navigation in the wild](https://arxiv.org/abs/2611.25215) |
 | 11 | [OpenGVLab/RSI-Nav](https://github.com/OpenGVLab/RSI-Nav) | 48 | [Data-Centric Recursive Self-Improvement for Navigation via Policy-Synchronized Language-Action Dual Bootstrapping](https://arxiv.org/abs/2610.15782) |
 | 12 | [OpenDriveLab/Compass](https://github.com/OpenDriveLab/Compass) | 47 | [Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos](https://arxiv.org/abs/2611.12087) |
 | 13 | [xuyicheng-zju/TARSphere](https://github.com/xuyicheng-zju/TARSphere) | 34 | [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043) |
@@ -663,7 +667,7 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 16 | [supersglzc/harbor-rl](https://github.com/supersglzc/harbor-rl) | 24 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) |
 | 17 | [luo-yc17/OmniBrain-0](https://github.com/luo-yc17/OmniBrain-0) | 21 | [OmniBrain-0: A Unified Agentic Model for Embodied Intelligence](https://arxiv.org/abs/2610.36013) |
 | 18 | [AdaCompNUS/path-select-social-nav](https://github.com/AdaCompNUS/path-select-social-nav) | 20 | [From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection](https://arxiv.org/abs/2602.09002) |
-| 18 | [Amap-Robotics/Quad-Imaginarium](https://github.com/Amap-Robotics/Quad-Imaginarium) | 20 | [Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors](https://arxiv.org/abs/2606.28237) |
+| 19 | [Amap-Robotics/Quad-Imaginarium](https://github.com/Amap-Robotics/Quad-Imaginarium) | 19 | [Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors](https://arxiv.org/abs/2606.28237) |
 | 20 | [naver-ai/DroneCATS](https://github.com/naver-ai/DroneCATS) | 15 | [Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching](https://arxiv.org/abs/2609.01404) |
 | 21 | [YurunChen/SkillHarness](https://github.com/YurunChen/SkillHarness) | 11 | [SkillHarness: Execution-Aware Coordination with Plug-and-Play Skills for Long-Horizon Traversal](https://arxiv.org/abs/2611.32186) |
 | 22 | [InSAI-Lab/VLAN](https://github.com/InSAI-Lab/VLAN) | 10 | [VLAN: Vision-Language Accessible Navigation, NeurIPS 2026 Evaluations and Datasets Track](https://arxiv.org/abs/2611.18346) |
@@ -671,9 +675,9 @@ Project repositories may contain code, data, or the authors’ project page. The
 | 24 | [billzhao1030/VLN-MME](https://github.com/billzhao1030/VLN-MME) | 9 | [VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents](https://arxiv.org/abs/2512.24851) |
 | 24 | [erdemuysalx/PEACE](https://github.com/erdemuysalx/PEACE) | 9 | [PEACE: A Planner-Executor Agent with Constraint Enforcement for UAVs](https://arxiv.org/abs/2606.00104) |
 | 24 | [pechpo/pigeon](https://github.com/pechpo/pigeon) | 9 | [PIGEON: VLM-Driven Object Navigation via Points of Interest Selection](https://arxiv.org/abs/2511.13207) |
-| 27 | [FraunhoferIVI/MissionBench](https://github.com/FraunhoferIVI/MissionBench) | 6 | [Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents](https://arxiv.org/abs/2607.22014) |
-| 27 | [jianzhou0420/MIP](https://github.com/jianzhou0420/MIP) | 6 | [Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation](https://arxiv.org/abs/2607.26148) |
-| 27 | [robbyant-research/LHNav](https://github.com/robbyant-research/LHNav) | 6 | [LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data](https://arxiv.org/abs/2611.12136) |
+| 27 | [jianzhou0420/MIP](https://github.com/jianzhou0420/MIP) | 7 | [Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation](https://arxiv.org/abs/2607.26148) |
+| 28 | [FraunhoferIVI/MissionBench](https://github.com/FraunhoferIVI/MissionBench) | 6 | [Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents](https://arxiv.org/abs/2607.22014) |
+| 28 | [robbyant-research/LHNav](https://github.com/robbyant-research/LHNav) | 6 | [LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data](https://arxiv.org/abs/2611.12136) |
 | 30 | [tongnie/EvoDrive](https://github.com/tongnie/EvoDrive) | 5 | [EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents](https://arxiv.org/abs/2606.03678) |
 | 31 | [an1iu/HAM-VLN](https://github.com/an1iu/HAM-VLN) | 4 | [HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2607.29600) |
 | 31 | [ghadinehme/RoboBuilder](https://github.com/ghadinehme/RoboBuilder) | 4 | [RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop](https://arxiv.org/abs/2611.23855) |
@@ -713,21 +717,21 @@ Project repositories may contain code, data, or the authors’ project page. The
 
 ### Loco-Manipulation
 
-31 of 50 papers matched · 31 repositories.
+31 of 51 papers matched · 31 repositories.
 
 | Rank | Repository | Stars | Paper |
 | ---: | --- | ---: | --- |
-| 1 | [robot-agent-exploration/rax](https://github.com/robot-agent-exploration/rax) | 376 | [Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) |
-| 2 | [mll-lab-nu/embodied-first-exam](https://github.com/mll-lab-nu/embodied-first-exam) | 323 | [Embodied First Exam](https://arxiv.org/abs/2611.12177) |
-| 3 | [apple-aiml-research/ml-amp](https://github.com/apple-aiml-research/ml-amp) | 124 | [On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892) |
+| 1 | [robot-agent-exploration/rax](https://github.com/robot-agent-exploration/rax) | 381 | [Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) |
+| 2 | [mll-lab-nu/embodied-first-exam](https://github.com/mll-lab-nu/embodied-first-exam) | 328 | [Embodied First Exam](https://arxiv.org/abs/2611.12177) |
+| 3 | [apple-aiml-research/ml-amp](https://github.com/apple-aiml-research/ml-amp) | 160 | [On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892) |
 | 4 | [Sage-PhysicalAI/REAL](https://github.com/Sage-PhysicalAI/REAL) | 60 | [Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation](https://arxiv.org/abs/2607.13653) |
 | 5 | [lzyang2000/HANDOFF](https://github.com/lzyang2000/HANDOFF) | 44 | [HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493) |
+| 6 | [heaveho-humanoid/Heave-Ho](https://github.com/heaveho-humanoid/Heave-Ho) | 34 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275) |
 | 6 | [xuyicheng-zju/TARSphere](https://github.com/xuyicheng-zju/TARSphere) | 34 | [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043) |
-| 7 | [heaveho-humanoid/Heave-Ho](https://github.com/heaveho-humanoid/Heave-Ho) | 32 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275) |
 | 8 | [AutoLab-SAI-SJTU/A2MEAS](https://github.com/AutoLab-SAI-SJTU/A2MEAS) | 27 | [Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) |
 | 8 | [Axellwppr/HITCH](https://github.com/Axellwppr/HITCH) | 27 | [HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness](https://arxiv.org/abs/2611.08039) |
 | 10 | [buaa-colalab/EPoG](https://github.com/buaa-colalab/EPoG) | 20 | [Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning](https://arxiv.org/abs/2602.04419) |
-| 11 | [kaiknower/MobiAgent](https://github.com/kaiknower/MobiAgent) | 18 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) |
+| 11 | [kaiknower/MobiAgent](https://github.com/kaiknower/MobiAgent) | 19 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) |
 | 12 | [penn-pal-lab/maestro](https://github.com/penn-pal-lab/maestro) | 17 | [MAESTRO: Orchestrating Robotics Modules with Coding Agents for Zero-Shot Generalist Robots](https://arxiv.org/abs/2511.00917) |
 | 13 | [osudrl/Humanoid_Hanoi](https://github.com/osudrl/Humanoid_Hanoi) | 14 | [Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement](https://arxiv.org/abs/2602.13850) |
 | 14 | [declare-lab/RoboQuest](https://github.com/declare-lab/RoboQuest) | 12 | [RoboQuest: Generalist Physical Agents that Search, Inspect and Test](https://arxiv.org/abs/2610.10388) |
@@ -757,8 +761,8 @@ Project repositories may contain code, data, or the authors’ project page. The
 | ---: | --- | ---: | --- |
 | 1 | [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | 241 | [ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](https://arxiv.org/abs/2604.04664) |
 | 2 | [lichy2004/GazeVLA](https://github.com/lichy2004/GazeVLA) | 47 | [GazeVLA: Learning Human Intention for Robotic Manipulation](https://arxiv.org/abs/2604.22615) |
-| 3 | [heaveho-humanoid/Heave-Ho](https://github.com/heaveho-humanoid/Heave-Ho) | 32 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275) |
-| 3 | [TomWang-NPU/MeCo](https://github.com/TomWang-NPU/MeCo) | 32 | [MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via Similar Task Memoization](https://arxiv.org/abs/2601.20577) |
+| 3 | [heaveho-humanoid/Heave-Ho](https://github.com/heaveho-humanoid/Heave-Ho) | 34 | [Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275) |
+| 4 | [TomWang-NPU/MeCo](https://github.com/TomWang-NPU/MeCo) | 32 | [MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via Similar Task Memoization](https://arxiv.org/abs/2601.20577) |
 | 5 | [XiangyuSu611/IMR-LLM-Code](https://github.com/XiangyuSu611/IMR-LLM-Code) | 31 | [IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models](https://arxiv.org/abs/2603.02669) |
 | 6 | [robot-hint/HINT](https://github.com/robot-hint/HINT) | 24 | [HINT: Human-Intent Inception for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2609.02653) |
 | 7 | [HexaFuture/URAI](https://github.com/HexaFuture/URAI) | 14 | [Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools](https://arxiv.org/abs/2609.39018) |
