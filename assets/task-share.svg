@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" font-family="Arial,sans-serif"><rect width="900" height="270" fill="#fafbf7"/><text x="24" y="35" font-size="24" fill="#183649" text-anchor="start">Share of task tags</text>
-<text x="24" y="62" font-size="16" fill="#526675" text-anchor="start">695 task tags across 664 papers in the full list · each assigned family counts once</text>
+<text x="24" y="62" font-size="16" fill="#526675" text-anchor="start">704 task tags across 671 papers in the full list · each assigned family counts once</text>
 <text x="24" y="107" font-size="18" fill="#183649" text-anchor="start">Manipulation</text>
 <rect x="282" y="90" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="90" width="247.54" height="18" rx="3" fill="#167466"/>
-<text x="870" y="107" font-size="18" fill="#183649" text-anchor="end">391  (56.3%)</text>
+<rect x="282" y="90" width="247.50" height="18" rx="3" fill="#167466"/>
+<text x="870" y="107" font-size="18" fill="#183649" text-anchor="end">396  (56.2%)</text>
 <text x="24" y="152" font-size="18" fill="#183649" text-anchor="start">Locomotion &amp; Navigation</text>
 <rect x="282" y="135" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="135" width="93.70" height="18" rx="3" fill="#167466"/>
-<text x="870" y="152" font-size="18" fill="#183649" text-anchor="end">148  (21.3%)</text>
+<rect x="282" y="135" width="94.38" height="18" rx="3" fill="#167466"/>
+<text x="870" y="152" font-size="18" fill="#183649" text-anchor="end">151  (21.4%)</text>
 <text x="24" y="197" font-size="18" fill="#183649" text-anchor="start">Interaction &amp; Collaboration</text>
 <rect x="282" y="180" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="180" width="66.47" height="18" rx="3" fill="#167466"/>
-<text x="870" y="197" font-size="18" fill="#183649" text-anchor="end">105  (15.1%)</text>
+<rect x="282" y="180" width="66.25" height="18" rx="3" fill="#167466"/>
+<text x="870" y="197" font-size="18" fill="#183649" text-anchor="end">106  (15.1%)</text>
 <text x="24" y="242" font-size="18" fill="#183649" text-anchor="start">Loco-Manipulation</text>
 <rect x="282" y="225" width="440" height="18" rx="3" fill="#e1ebe7"/>
-<rect x="282" y="225" width="32.29" height="18" rx="3" fill="#167466"/>
-<text x="870" y="242" font-size="18" fill="#183649" text-anchor="end">51  (7.3%)</text></svg>
+<rect x="282" y="225" width="31.88" height="18" rx="3" fill="#167466"/>
+<text x="870" y="242" font-size="18" fill="#183649" text-anchor="end">51  (7.2%)</text></svg>

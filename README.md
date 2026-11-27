@@ -33,6 +33,12 @@ S1 is the policy or skill that turns a goal into robot motion. Each paper appear
 
 The agent issues robot commands or generates the control program that executes them.
 
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.33911), CoTAMP: Cooperative Task and Motion Planning for Quadruped Robots with Large Language Models, [website](https://woojin8098.github.io/CoTAMP/), [GitHub](https://github.com/Woojin8098/CoTAMP)
+  **Task · Locomotion & Navigation + Interaction & Collaboration**
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.34485), SkySearcher: High-Altitude Onboard VLM Reasoning for Aerial Semantic Search
+  **Task · Locomotion & Navigation**
+- 🌟[arXiv 2026.11.25](https://arxiv.org/abs/2611.34509), Long-Horizon Planning with Latent World Models via Graph Anchors, [GitHub](https://github.com/syed-nazmus-sakib/graph-anchors)
+  **Task · Manipulation + Locomotion & Navigation**
 - [arXiv 2026.11.25](https://arxiv.org/abs/2611.34915), Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.25](https://arxiv.org/abs/2611.34750), SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator, [website](https://serenos.github.io/solve-website)
@@ -99,7 +105,7 @@ The agent issues robot commands or generates the control program that executes t
   **Task · Manipulation**
 - [arXiv 2026.11.11](https://arxiv.org/abs/2611.16009), JustRUA: A Controlled Study of GPT-6 Robot-Use Agents, [GitHub](https://github.com/ZefanW/JustRUA)
   **Task · Manipulation**
-- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12885), World In-Context Learning for Agentic Robot Manipulation, [GitHub](https://github.com/ArcheOne-AI/RoboScript), [X · AK’s video post](https://x.com/_akhaliq/status/2120609882663780777) (145 likes · 19,033 views · Nov 16, 2026)
+- [arXiv 2026.11.09](https://arxiv.org/abs/2611.12885), World In-Context Learning for Agentic Robot Manipulation, [GitHub](https://github.com/ArcheOne-AI/RoboScript)
   **Task · Manipulation**
 - [arXiv 2026.11.09](https://arxiv.org/abs/2611.12177), Embodied First Exam, [GitHub](https://github.com/mll-lab-nu/embodied-first-exam)
   **Task · Manipulation + Loco-Manipulation**
@@ -256,7 +262,11 @@ The agent issues robot commands or generates the control program that executes t
 
 The agent selects, sequences or supervises existing skills or policies. The executor translates each subgoal into motion.
 
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.34914), Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs
+  **Task · Manipulation**
 - [arXiv 2026.11.25](https://arxiv.org/abs/2611.34778), Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents
+  **Task · Manipulation**
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.33398), Best-of-N Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models
   **Task · Manipulation**
 - [arXiv 2026.11.24](https://arxiv.org/abs/2611.32493), CoFiNav: VLM-Guided Coarse-to-Fine Semantic Navigation for Open-Ended Last-Mile UAV Delivery
   **Task · Locomotion & Navigation**
@@ -288,6 +298,10 @@ The agent selects, sequences or supervises existing skills or policies. The exec
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.22](https://arxiv.org/abs/2611.29749), CarlHOI: Counterfactual Predictive Imagination for Generalizable Multi-Humanoid Object Interaction under Constrained Environments, [website](https://carlhoi.github.io), [GitHub](https://github.com/carlhoi/carlhoi.github.io)
   **Task · Loco-Manipulation**
+- 🌟[arXiv 2026.11.21](https://arxiv.org/abs/2611.28585), AsyncMixVLA: Runtime Asynchronous Robot Policy Switching for Adaptation to Dynamic Environments, [GitHub](https://github.com/yerincho04/AsyncMixVLA)
+  **Task · Manipulation**
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27011), FoRe: A Force-Guided Framework for Autonomous Grasp Recovery in Vision-Language-Action Models
+  **Task · Manipulation**
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27939), What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27804), Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving
@@ -356,7 +370,7 @@ The agent selects, sequences or supervises existing skills or policies. The exec
   **Task · Locomotion & Navigation**
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18026), A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space
   **Task · Manipulation**
-- [Demo 2026.11.12](https://atlas-humanoid.github.io/), ATLAS: Agentic Harness for Whole-Body Intelligence from Human Video, [award](https://agentic-robotics-workshop.github.io/#awards), [GitHub](https://github.com/atlas-humanoid/atlas-humanoid.github.io), [X · JunLi Ren’s CoRL demo](https://x.com/junli_r84995/status/2121098492257108116) (173 likes · 15,657 views · Nov 16, 2026)
+- [Demo 2026.11.12](https://atlas-humanoid.github.io/), ATLAS: Agentic Harness for Whole-Body Intelligence from Human Video, [award](https://agentic-robotics-workshop.github.io/#awards), [GitHub](https://github.com/atlas-humanoid/atlas-humanoid.github.io), [X · JunLi Ren’s CoRL demo](https://x.com/junli_r84995/status/2121098492257108116) (173 likes · 17,447 views · Nov 27, 2026)
   **Task · Loco-Manipulation**
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16487), HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse
   **Evaluation**
@@ -1364,7 +1378,7 @@ The model that reasons about the task is trained to produce robot actions or exe
   **Task · Manipulation**
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19287), VLN-Flash: Parallel Action Decoding with Adaptive Execution for Vision-and-Language Navigation
   **Task · Locomotion & Navigation**
-- 🌟[arXiv 2026.11.13](https://arxiv.org/abs/2611.18562), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear), [X · Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) (1,253 likes · 117,786 views · Nov 22, 2026), [X · Kunjun Li’s SpecPilot acceleration test on PEAR](https://x.com/li_kunjun/status/2122455601116856815) (214 likes · 16,905 views · Nov 27, 2026)
+- 🌟[arXiv 2026.11.13](https://arxiv.org/abs/2611.18562), Training Reasoning Models in Simulation to Natively Use Real Robots, [website](https://mit-han-lab.github.io/pear-blog/), [code](https://github.com/mit-han-lab/pear), [X · Jiaming Tang’s original release thread](https://x.com/jmtang42/status/2121303649976455502) (1,259 likes · 119,881 views · Nov 27, 2026), [X · Kunjun Li’s SpecPilot acceleration test on PEAR](https://x.com/li_kunjun/status/2122455601116856815) (214 likes · 16,925 views · Nov 27, 2026)
   **Task · Manipulation**
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.17442), Racing the Clock: Teaching VLNs Budget-Conditioned Object Search, [GitHub](https://github.com/GoldenGait/racing-the-clock)
   **Task · Locomotion & Navigation**
@@ -1499,6 +1513,12 @@ The model that reasons about the task is trained to produce robot actions or exe
 
 These works evaluate capabilities across architectures or study components such as perception, simulators, robot design and safety.
 
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.33705), Lab2Sim: Agentic Generation of Interactive Laboratory Equipment from Operation Videos
+  **Evaluation**
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.33733), PROVE: Predict-to-Specify and Observe-to-Verify for Human-Aligned Evaluation of Mobile Manipulation, [website](https://sj-li.com/projects/prove/)
+  **Evaluation**
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.34739), Was the Model Given the Right Action? Auditing and Repairing Action Interfaces in Navigation World Models
+  **Evaluation**
 - 🌟[arXiv 2026.11.25](https://arxiv.org/abs/2611.33794), Keep or Roll Back? Out-of-Loop Judges for Self-Improving VLA and End-to-End Embodied Policies, [GitHub](https://github.com/zilin-huang/SealedLoop)
   **Evaluation**
 - [arXiv 2026.11.24](https://arxiv.org/abs/2611.32185), OVOK: A Recursive Self-Improving Agentic Framework for Video-Based Articulated Robot State Estimation
